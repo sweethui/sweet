@@ -1,8 +1,8 @@
-@import "sphinx_rtd_theme.css";
-@import "theme.css";
+@import url("sphinx_rtd_theme.css");
+@import url("theme.css");
 
 .rt {
-  color: #00B400; 
+  color: #00B400;
 }
 
 .st {
