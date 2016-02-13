@@ -201,7 +201,7 @@ html_static_path = ['_static']
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'Sweetdoc'
 
-html_style = 'css/chat.css'
+#html_style = 'css/chat.css'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -284,18 +284,43 @@ texinfo_documents = [
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
 
+#on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+
+#if not on_rtd:  # only import and set the theme if we're building docs locally
+#  import sphinx_rtd_theme
+#  html_theme = 'sphinx_rtd_theme'
+#  html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+#  html_style = 'css/chat.css'
+#else:
+#  html_context = {
+#    'css_files': [
+#        'https://media.readthedocs.org/css/sphinx_rtd_theme.css',
+#        'https://media.readthedocs.org/css/readthedocs-doc-embed.css',
+#        '_static/css/chat.css',
+#    ],
+#  }
+
+
+
+# -- ReadTheDoc requirements and local template generation---------------------
+
+# on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
 if not on_rtd:  # only import and set the theme if we're building docs locally
-  import sphinx_rtd_theme
-  html_theme = 'sphinx_rtd_theme'
-  html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-  html_style = 'css/chat.css'
+    import sphinx_rtd_theme
+    html_theme = 'sphinx_rtd_theme'
+    html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+    # Override default css to get a larger width for local build
+    def setup(app):
+        #app.add_javascript("custom.js")
+        app.add_stylesheet('theme_overrides.css')
 else:
-  html_context = {
-    'css_files': [
-        'https://media.readthedocs.org/css/sphinx_rtd_theme.css',
-        'https://media.readthedocs.org/css/readthedocs-doc-embed.css',
-        '_static/css/chat.css',
-    ],
-  }
+    # Override default css to get a larger width for ReadTheDoc build
+    html_context = {
+        'css_files': [
+            'https://media.readthedocs.org/css/sphinx_rtd_theme.css',
+            'https://media.readthedocs.org/css/readthedocs-doc-embed.css',
+            '_static/theme_overrides.css',
+        ],
+    }
