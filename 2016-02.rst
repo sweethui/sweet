@@ -4,5 +4,8 @@
 .. role:: st
 .. role:: rt
 
+.. include:: chats/2016-02-01.rst
+.. include:: chats/2016-02-02.rst
+.. include:: chats/2016-02-03.rst
 .. include:: chats/2016-02-04.rst
 .. include:: chats/2016-02-05.rst
