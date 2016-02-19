@@ -9,3 +9,9 @@
 .. include:: chats/2016-02-03.rst
 .. include:: chats/2016-02-04.rst
 .. include:: chats/2016-02-05.rst
+.. include:: chats/2016-02-07.rst
+.. include:: chats/2016-02-08.rst
+.. include:: chats/2016-02-15.rst
+.. include:: chats/2016-02-16.rst
+.. include:: chats/2016-02-17.rst
+.. include:: chats/2016-02-18.rst
