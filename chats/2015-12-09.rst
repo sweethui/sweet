@@ -2,14 +2,15 @@
 -------------
 
 .. csv-table::
-   :widths: 28, 1, 60
+   :widths: 25, 1, 60
 
-   2015-12-09 22:29:13,你,:rt:`年度大总结！太精辟了！ http://mp.weixin.qq.com/s?__biz=MzA5NDUzMTYzMw==&amp;mid=400976481&amp;idx=1&amp;sn=bf58d65248cd48c293fdf4f121c6fd93&amp;scene=1&amp;srcid=1209bJCyl5Tgoo1CIKPsXU1M#rd`
+   2015-12-09 22:29:13,你,:rt:`年度大总结！太精辟了！
+http://mp.weixin.qq.com/s?__biz=MzA5NDUzMTYzMw==&amp;mid=400976481&amp;idx=1&amp;sn=bf58d65248cd48c293fdf4f121c6fd93&amp;scene=1&amp;srcid=1209bJCyl5Tgoo1CIKPsXU1M#rd`
    2015-12-09 22:33:30,你,:rt:`感谢你的陪伴，感谢你陪我度过每一天`
    2015-12-09 22:33:44,我,:st:`不用`
    2015-12-09 22:34:00,我,:st:`你安好，我就安心`
    2015-12-09 22:34:31,你,:rt:`为了爱我的人，保重我自己`
-   2015-12-09 22:34:36,我,:st:`是 `
+   2015-12-09 22:34:36,我,:st:`是`
    2015-12-09 22:35:32,你,:rt:`其实我做不到`
    2015-12-09 22:35:44,你,:rt:`我也是伤人伤己型的`
    2015-12-09 22:38:31,我,:st:`还不算吧`
