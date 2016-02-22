@@ -56,8 +56,7 @@
    2015-10-28 11:02:06,你,:rt:`Anytime`
    2015-10-28 11:02:35,我,:st:`中午想和你面谈，行不行？`
    2015-10-28 11:02:50,我,:st:`有太多话想和你说`
-   2015-10-28 11:03:03,你,:rt:`爱外出散步的猫——喵吉
-https://moment.douban.com/post/126147/?douban_rec=1?platform=iPhone&amp;from=singlemessage&amp;isappinstalled=0`
+   2015-10-28 11:03:03,你,:rt:`爱外出散步的猫——喵吉 https://moment.douban.com/post/126147/?douban_rec=1?platform=iPhone&amp;from=singlemessage&amp;isappinstalled=0`
    2015-10-28 11:03:26,你,:rt:`行`
    2015-10-28 11:03:31,你,:rt:`几点`
    2015-10-28 11:03:50,我,:st:`看你`

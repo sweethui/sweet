@@ -15,8 +15,7 @@
    2016-02-16 10:33:10,你,:rt:`不忙 看文档`
    2016-02-16 10:33:44,我,:st:`给你看个东西吧`
    2016-02-16 10:33:57,你,:rt:`好啊`
-   2016-02-16 10:34:35,我,:st:`壹心理 | 道德不是一种越高越好的东西
-http://www.wandoujia.com/items/7598053350311945326?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple`
+   2016-02-16 10:34:35,我,:st:`壹心理 | 道德不是一种越高越好的东西 http://www.wandoujia.com/items/7598053350311945326?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple`
    2016-02-16 10:42:04,我,:st:`看完了吗？`
    2016-02-16 10:42:12,你,:rt:`没 等会`
    2016-02-16 10:59:12,你,:rt:`看完了`

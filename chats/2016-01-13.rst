@@ -191,8 +191,7 @@
    2016-01-13 12:52:47,我,:st:`给你看个文章吧`
    2016-01-13 12:52:51,你,:rt:`好`
    2016-01-13 12:52:59,我,:st:`不是为他，是为你`
-   2016-01-13 12:53:24,我,:st:`壹心理 | 自我改变和改变他人的8个心理技巧
-http://www.wandoujia.com/items/-2028770930460908990?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple`
+   2016-01-13 12:53:24,我,:st:`壹心理 | 自我改变和改变他人的8个心理技巧 http://www.wandoujia.com/items/-2028770930460908990?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple`
    2016-01-13 12:53:26,你,:rt:`什么？不管他是因为我？`
    2016-01-13 12:53:39,我,:st:`不是`
    2016-01-13 12:53:42,我,:st:`wu`
@@ -204,8 +203,7 @@ http://www.wandoujia.com/items/-2028770930460908990?utm_medium=wechat-friends&am
    2016-01-13 12:54:46,你,:rt:`我前两天在大象公会上看到一篇文章`
    2016-01-13 12:55:03,你,:rt:`为什么闵月变成大红唇了`
    2016-01-13 12:55:13,你,:rt:`那个估计跟你要发给我的差不多`
-   2016-01-13 12:55:14,我,:st:`壹心理 | 为什么男人都喜欢胸大腰细的女人？
-http://www.wandoujia.com/items/6252832275679618227?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple`
+   2016-01-13 12:55:14,我,:st:`壹心理 | 为什么男人都喜欢胸大腰细的女人？ http://www.wandoujia.com/items/6252832275679618227?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple`
    2016-01-13 13:00:31,你,:rt:`试着指出那些不符合他们世界观的事实真相。劝说必须简明扼要，并且不断重复，你还需要抨击错误信息的源头。`
    2016-01-13 13:01:44,我,:st:`是`
    2016-01-13 13:02:02,你,:rt:`你一直改变的是我的思维`

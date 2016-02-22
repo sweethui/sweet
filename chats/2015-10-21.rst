@@ -24,8 +24,7 @@
    2015-10-21 11:05:11,你,:rt:`可能是想我回去吧`
    2015-10-21 11:05:32,你,:rt:`随便吧，无所谓`
    2015-10-21 11:05:54,我,:st:`是`
-   2015-10-21 11:59:14,我,:st:`别闹，叔是女权主义者
-http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&amp;mid=400062383&amp;idx=1&amp;sn=b8b65b0475e76267b8bf84537eca69d3&amp;scene=1&amp;srcid=1021qtWhIz0ubdbvB4hZk7yC#rd`
+   2015-10-21 11:59:14,我,:st:`别闹，叔是女权主义者 http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&amp;mid=400062383&amp;idx=1&amp;sn=b8b65b0475e76267b8bf84537eca69d3&amp;scene=1&amp;srcid=1021qtWhIz0ubdbvB4hZk7yC#rd`
    2015-10-21 14:29:46,你,:rt:`你要不教教我怎么建模吧`
    2015-10-21 14:30:14,我,:st:`我一直在教你`
    2015-10-21 14:30:42,我,:st:`以前咱俩在公司聊天也是在教你建模`

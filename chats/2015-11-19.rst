@@ -86,8 +86,7 @@
    2015-11-19 16:30:28,你,:rt:`别生气就行`
    2015-11-19 16:30:41,你,:rt:`别真生气就行`
    2015-11-19 16:30:44,我,:st:`是呗，哪有你那么乖`
-   2015-11-19 17:08:57,你,:rt:`在哲学家眼里，技术的本质是……
-http://mp.weixin.qq.com/s?__biz=MjAzNzMzNTkyMQ==&amp;mid=401259317&amp;idx=1&amp;sn=2bfa7001d448391c2cb61e5f342d3875&amp;scene=1&amp;srcid=1119NfuWDNCbKN1IjVAExDZb#rd`
+   2015-11-19 17:08:57,你,:rt:`在哲学家眼里，技术的本质是…… http://mp.weixin.qq.com/s?__biz=MjAzNzMzNTkyMQ==&amp;mid=401259317&amp;idx=1&amp;sn=2bfa7001d448391c2cb61e5f342d3875&amp;scene=1&amp;srcid=1119NfuWDNCbKN1IjVAExDZb#rd`
    2015-11-19 17:09:06,你,:rt:`看不懂`
    2015-11-19 17:09:45,我,:st:`我回来看看，现在没空`
    2015-11-19 17:32:50,你,:rt:`困死了`

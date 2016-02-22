@@ -193,6 +193,5 @@
    2016-01-17 22:51:19,你,:rt:`恩，晚安`
    2016-01-17 22:51:33,我,:st:`晚安`
    2016-01-17 22:51:34,你,:rt:`[动画表情]`
-   2016-01-17 22:53:42,你,:rt:`分享 光天化了日 的微博
-http://m.weibo.cn/5703121556/3932267154467083/weixin?sourceType=weixin&amp;wm=9006_2001&amp;from=timeline&amp;isappinstalled=0`
+   2016-01-17 22:53:42,你,:rt:`分享 光天化了日 的微博 http://m.weibo.cn/5703121556/3932267154467083/weixin?sourceType=weixin&amp;wm=9006_2001&amp;from=timeline&amp;isappinstalled=0`
    2016-01-17 22:55:17,我,:st:`哈哈`

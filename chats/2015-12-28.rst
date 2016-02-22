@@ -150,8 +150,7 @@
    2015-12-28 15:47:59,你,:rt:`我待会发给你个链接 有段ted的演讲 讲女人对待家暴的`
    2015-12-28 15:48:10,我,:st:`好的`
    2015-12-28 15:48:13,你,:rt:`我昨天看的 我老公在家就没法给你`
-   2015-12-28 15:48:49,你,:rt:`家暴的受害者为什么难以离开所在家庭？
-http://mp.weixin.qq.com/s?__biz=MzA3MjQ1NjQxMA==&amp;mid=401075446&amp;idx=1&amp;sn=a1f7db84a9c7bf4e66bb4f9205430421&amp;scene=1&amp;srcid=1228Nw5gUGKB8Jljd4w3TVoK#rd`
+   2015-12-28 15:48:49,你,:rt:`家暴的受害者为什么难以离开所在家庭？ http://mp.weixin.qq.com/s?__biz=MzA3MjQ1NjQxMA==&amp;mid=401075446&amp;idx=1&amp;sn=a1f7db84a9c7bf4e66bb4f9205430421&amp;scene=1&amp;srcid=1228Nw5gUGKB8Jljd4w3TVoK#rd`
    2015-12-28 15:50:47,你,:rt:`文字的分析不如演讲的说得好`
    2015-12-28 15:51:08,我,:st:`我回去找找看`
    2015-12-28 15:57:17,我,:st:`你看完了有什么想法`

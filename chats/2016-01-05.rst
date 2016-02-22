@@ -142,8 +142,7 @@
    2016-01-05 14:15:56,我,:st:`什么评审会`
    2016-01-05 14:18:00,你,:rt:`没事 我电脑时间显示错了`
    2016-01-05 14:18:13,我,:st:`哦`
-   2016-01-05 15:49:27,我,:st:`壹心理 | 为何你在感情中总是喜欢冷战？
-http://www.wandoujia.com/items/2081539444069877758?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;from=ripple`
+   2016-01-05 15:49:27,我,:st:`壹心理 | 为何你在感情中总是喜欢冷战？ http://www.wandoujia.com/items/2081539444069877758?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;from=ripple`
    2016-01-05 15:50:09,你,:rt:`亲 王洪越让我写调研vertica的计划 我不会写 怎么办啊`
    2016-01-05 15:50:26,我,:st:`他让你调研什么`
    2016-01-05 15:50:42,你,:rt:`vertica的产品功能特性`

@@ -26,8 +26,7 @@
    2015-11-23 08:43:20,我,:st:`检票了吗？`
    2015-11-23 08:43:28,你,:rt:`没呢`
    2015-11-23 08:48:59,你,:rt:`检票了，太好了`
-   2015-11-23 08:49:53,我,:st:`自相矛盾才有第一等智慧 | BetterRead
-http://mp.weixin.qq.com/s?__biz=MzAxODYzNjY5Ng==&amp;mid=400381471&amp;idx=1&amp;sn=0a9e944ca9a082da73ed571aaac69bc4&amp;scene=1&amp;srcid=1123Vlw2o2TprRgsCdl5lcBw#rd`
+   2015-11-23 08:49:53,我,:st:`自相矛盾才有第一等智慧 | BetterRead http://mp.weixin.qq.com/s?__biz=MzAxODYzNjY5Ng==&amp;mid=400381471&amp;idx=1&amp;sn=0a9e944ca9a082da73ed571aaac69bc4&amp;scene=1&amp;srcid=1123Vlw2o2TprRgsCdl5lcBw#rd`
    2015-11-23 09:18:45,我,:st:`旭明气死我了`
    2015-11-23 09:19:01,我,:st:`还吊儿郎当的`
    2015-11-23 09:23:53,你,:rt:`怎么了，`
@@ -225,8 +224,7 @@ http://mp.weixin.qq.com/s?__biz=MzAxODYzNjY5Ng==&amp;mid=400381471&amp;idx=1&amp
    2015-11-23 16:58:27,我,:st:`好的`
    2015-11-23 16:58:35,你,:rt:`现在周围都是人，特别不方便`
    2015-11-23 16:58:40,我,:st:`是`
-   2015-11-23 17:35:07,我,:st:`简谈Mac体验与软件配置 - 头条 - 伯乐在线
-http://top.jobbole.com/30394/`
+   2015-11-23 17:35:07,我,:st:`简谈Mac体验与软件配置 - 头条 - 伯乐在线 http://top.jobbole.com/30394/`
    2015-11-23 18:18:10,你,:rt:`我走了`
    2015-11-23 18:18:18,你,:rt:`今天搭车，早点走`
    2015-11-23 18:18:25,我,:st:`好的`

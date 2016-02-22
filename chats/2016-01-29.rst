@@ -68,6 +68,5 @@
    2016-01-29 17:45:07,你,:rt:`发给我我看看`
    2016-01-29 17:45:15,你,:rt:`我看我能不能看出意思来`
    2016-01-29 17:46:23,我,:st:`好`
-   2016-01-29 17:46:44,我,:st:`简书 | 谈谈性，说说情
-http://www.wandoujia.com/items/5812602732934208199?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple`
+   2016-01-29 17:46:44,我,:st:`简书 | 谈谈性，说说情 http://www.wandoujia.com/items/5812602732934208199?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple`
    2016-01-29 18:29:17,我,:st:`看完了吗`

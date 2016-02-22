@@ -222,8 +222,7 @@
    2016-02-03 15:01:39,我,:st:`给你看篇文章吧`
    2016-02-03 15:01:43,你,:rt:`你有什么好玩的事吗`
    2016-02-03 15:01:45,你,:rt:`好`
-   2016-02-03 15:02:00,我,:st:`医生为票贩子辩解：我为什么看黄牛号更认真
-http://mp.weixin.qq.com/s?__biz=MjM5Njg0NjM0MQ==&amp;mid=401917284&amp;idx=2&amp;sn=d9455cc8677b7afa933e134b18debc3c&amp;scene=2&amp;srcid=0127pf3U7blnM6FhEKyu7MlR#wechat_redirect`
+   2016-02-03 15:02:00,我,:st:`医生为票贩子辩解：我为什么看黄牛号更认真 http://mp.weixin.qq.com/s?__biz=MjM5Njg0NjM0MQ==&amp;mid=401917284&amp;idx=2&amp;sn=d9455cc8677b7afa933e134b18debc3c&amp;scene=2&amp;srcid=0127pf3U7blnM6FhEKyu7MlR#wechat_redirect`
    2016-02-03 15:02:20,我,:st:`简单的经济学原理`
    2016-02-03 15:12:09,你,:rt:`看完了`
    2016-02-03 15:12:25,我,:st:`看明白了？`

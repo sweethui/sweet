@@ -198,8 +198,7 @@
    2015-10-23 17:34:36,你,:rt:`我不来`
    2015-10-23 17:34:43,我,:st:`我就不来了`
    2015-10-23 17:40:37,我,:st:`还有一件事`
-   2015-10-23 17:41:13,你,:rt:`千万不要和比你好看的人拍照，有图有真相！
-http://mp.weixin.qq.com/s?__biz=MzA3MjQ1NjQxMA==&amp;mid=400109918&amp;idx=3&amp;sn=e87feaa650de702d050184719fc9e360&amp;scene=1&amp;srcid=1023QY85XYKDAQrso7zMCSk5#rd`
+   2015-10-23 17:41:13,你,:rt:`千万不要和比你好看的人拍照，有图有真相！ http://mp.weixin.qq.com/s?__biz=MzA3MjQ1NjQxMA==&amp;mid=400109918&amp;idx=3&amp;sn=e87feaa650de702d050184719fc9e360&amp;scene=1&amp;srcid=1023QY85XYKDAQrso7zMCSk5#rd`
    2015-10-23 17:41:23,我,:st:`今天严丹说的对，你在评审的时候应该强硬点`
    2015-10-23 17:44:10,你,:rt:`恩，我觉得他也是为我好`
    2015-10-23 17:44:15,你,:rt:`说得也对`
