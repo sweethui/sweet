@@ -16,3 +16,8 @@
 .. include:: chats/2016-02-17.rst
 .. include:: chats/2016-02-18.rst
 .. include:: chats/2016-02-19.rst
+.. include:: chats/2016-02-22.rst
+.. include:: chats/2016-02-23.rst
+.. include:: chats/2016-02-24.rst
+.. include:: chats/2016-02-25.rst
+.. include:: chats/2016-02-26.rst
