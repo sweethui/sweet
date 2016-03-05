@@ -1,0 +1,10 @@
+2016-03
+==========
+
+.. role:: st
+.. role:: rt
+
+.. include:: chats/2016-03-01.rst
+.. include:: chats/2016-03-02.rst
+.. include:: chats/2016-03-03.rst
+.. include:: chats/2016-03-04.rst
