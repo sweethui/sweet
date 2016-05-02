@@ -118,7 +118,7 @@
    2016-02-15 14:47:18,你,:rt:`我过年都没跟王洪越发拜年短信`
    2016-02-15 14:47:26,你,:rt:`一年没搭理他，哈哈`
    2016-02-15 14:48:23,我,:st:`挺好`
-   2016-02-15 14:49:00,你,:rt:`[动画表情]`
+   2016-02-15 14:49:00,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="f329bb4b7d5e68c0110f192b8595322a" len = "71005" productid="" androidmd5="f329bb4b7d5e68c0110f192b8595322a" androidlen="71005" s60v3md5 = "f329bb4b7d5e68c0110f192b8595322a" s60v3len="71005" s60v5md5 = "f329bb4b7d5e68c0110f192b8595322a" s60v5len="71005" cdnurl = "http://emoji.qpic.cn/wx_emoji/cNfqmjDhGOfOxWqQHAdUVicaHhbOYQuXkwyPvk37lyDdONXmKic9Xz6A/" designerid = "" thumburl = "http://mmbiz.qpic.cn/mmemoticon/dx4Y70y9Xcv4yfSKyEvKbTbiam52Dy1OJcibgic1ITMBjEBe3ib0xWOdwQ/0" encrypturl = "http://emoji.qpic.cn/wx_emoji/QoUOkGDrUTPXfDFobIibujuj6TDibTKdKZIVtmLov9cS8ynsWJ3QNxhw/" aeskey= "69b0b7e1501b072bd3e1433c62c24a4d" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
    2016-02-15 14:49:22,你,:rt:`不想聊[微笑]`
    2016-02-15 14:49:31,你,:rt:`昨天来的人多吗？`
    2016-02-15 14:49:38,我,:st:`不多`

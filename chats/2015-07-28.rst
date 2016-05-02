@@ -60,7 +60,7 @@
    2015-07-28 11:09:28,你,:rt:`一个维B6，一个甲氧氯普胺片`
    2015-07-28 11:09:37,你,:rt:`早上吃的，有效果`
    2015-07-28 11:14:01,我,:st:`哦`
-   2015-07-28 13:28:04,我,:st:`http://oncol.dxy.cn/article/137123?from=weibo20150415 http://oncol.dxy.cn/article/137123?from=weibo20150415`
+   2015-07-28 13:28:04,我,:st:`<msg><appmsg appid="wxe082de20d41f6240"  sdkver="0"><title>http://oncol.dxy.cn/article/137123?from=weibo20150415</title><des></des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><url>http://oncol.dxy.cn/article/137123?from=weibo20150415</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl></appmsg><appinfo><version>0</version><appname>Moke</appname><isforceupdate>1</isforceupdate></appinfo></msg>`
    2015-07-28 14:14:56,我,:st:`你怎么样了`
    2015-07-28 14:18:53,你,:rt:`没事`
    2015-07-28 14:19:08,我,:st:`什么情况的没事？`

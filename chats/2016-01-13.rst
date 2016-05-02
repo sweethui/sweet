@@ -79,7 +79,12 @@
    2016-01-13 10:43:47,你,:rt:`所以是JDBC接口是吗？`
    2016-01-13 10:45:00,我,:st:`是`
    2016-01-13 10:46:33,你,:rt:`刚才洪越给我提意见了 我看她是想让我把用户需求写成软件需求`
-   2016-01-13 10:47:59,你,:rt:`Ø  用户导入csv、txt文件时的配置方式参考pl/sql中txt文本导入器的配置方式，大致步骤为： 1)        用户在企业管理器界面选取本地csv或txt型数据文件，导入企业管理器中； 2)        用户设置数据文件相关参数。包括：分隔符，列的数量、相对位置、绝对位置等； 3)        用户选取导入到数据库中已存在的表，并设置相关参数； 4)        用户建立数据源文件中的列与导入到数据库表中的列的映射关系，指定数据文件中的若干列，导入到数据库中。 5)        企业管理器在导入数据过程中检验每行数据的正确性，出现某行数据错误，给出提示，用户自行决定继续导入还是终止导入，数据不回滚。`
+   2016-01-13 10:47:59,你,:rt:`Ø  用户导入csv、txt文件时的配置方式参考pl/sql中txt文本导入器的配置方式，大致步骤为：
+1)        用户在企业管理器界面选取本地csv或txt型数据文件，导入企业管理器中；
+2)        用户设置数据文件相关参数。包括：分隔符，列的数量、相对位置、绝对位置等；
+3)        用户选取导入到数据库中已存在的表，并设置相关参数；
+4)        用户建立数据源文件中的列与导入到数据库表中的列的映射关系，指定数据文件中的若干列，导入到数据库中。
+5)        企业管理器在导入数据过程中检验每行数据的正确性，出现某行数据错误，给出提示，用户自行决定继续导入还是终止导入，数据不回滚。`
    2016-01-13 10:50:20,我,:st:`你和番薯沟通一下，我认为第4条难度比较大`
    2016-01-13 10:50:40,你,:rt:`我已经跟他们问过了`
    2016-01-13 10:50:43,你,:rt:`跟贺津问的`
@@ -118,7 +123,10 @@
    2016-01-13 10:56:45,你,:rt:`他没说 就说能做 问性能和数据量`
    2016-01-13 10:57:17,我,:st:`他们给自己挖坑`
    2016-01-13 10:57:28,你,:rt:`哈哈`
-   2016-01-13 10:58:54,你,:rt:`[图片]`
+   2016-01-13 10:58:54,你,:rt:`<?xml version="1.0"?>
+<msg>
+	<img aeskey="bc05e199320b47cb81b2b509752e85f5" encryver="1" cdnthumbaeskey="bc05e199320b47cb81b2b509752e85f5" cdnthumburl="3046020100043f303d020100020491db2f9002032dcdc9020426a4b73d02045695bd6e041b77616e67787565736f6e6737333131355f313435323635333933330201000201000400" cdnthumblength="3958" cdnthumbheight="120" cdnthumbwidth="90" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3046020100043f303d020100020491db2f9002032dcdc9020426a4b73d02045695bd6e041b77616e67787565736f6e6737333131355f313435323635333933330201000201000400" length="147837" md5="bf3bcd21f5a63cb7ecaf39f5d71ffcf7" />
+</msg>`
    2016-01-13 10:59:27,你,:rt:`这是文本的界面，解析的特别充分，很好看，要不客户愿意用，比加载的好看多了`
    2016-01-13 11:06:34,我,:st:`我的意思是这个很不错，但是投入产出太低`
    2016-01-13 11:07:36,你,:rt:`那我就不管了，我得如实的反应用户需求，你说呢`
@@ -191,7 +199,7 @@
    2016-01-13 12:52:47,我,:st:`给你看个文章吧`
    2016-01-13 12:52:51,你,:rt:`好`
    2016-01-13 12:52:59,我,:st:`不是为他，是为你`
-   2016-01-13 12:53:24,我,:st:`壹心理 | 自我改变和改变他人的8个心理技巧 http://www.wandoujia.com/items/-2028770930460908990?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple`
+   2016-01-13 12:53:24,我,:st:`<msg><appmsg appid="wxd5d193765919a447"  sdkver="0"><title>壹心理 | 自我改变和改变他人的8个心理技巧</title><des>译：陈雪梅 | 壹心理专栏翻译 你对心理调节感兴趣吗？无论是自我调节还是帮助他人调节？ 下列8条建议摘自于心理博客上发布的近期心理研究。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://www.wandoujia.com/items/-2028770930460908990?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>304b020100044430420201000204582ade6d02030f44370204e6240d6f02045695d8480420777869645f393333343733333334383432323333395f313435323631303433310201000201000400</cdnthumburl><cdnthumblength>5581</cdnthumblength><cdnthumbwidth>150</cdnthumbwidth><cdnthumbheight>150</cdnthumbheight><cdnthumbaeskey>61366163343334366634386631313863</cdnthumbaeskey><aeskey>61366163343334366634386631313863</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl>(null)</appmsg><appinfo><version>0</version><appname>豌豆荚一览</appname><isforceupdate>1</isforceupdate></appinfo></msg>`
    2016-01-13 12:53:26,你,:rt:`什么？不管他是因为我？`
    2016-01-13 12:53:39,我,:st:`不是`
    2016-01-13 12:53:42,我,:st:`wu`
@@ -203,7 +211,7 @@
    2016-01-13 12:54:46,你,:rt:`我前两天在大象公会上看到一篇文章`
    2016-01-13 12:55:03,你,:rt:`为什么闵月变成大红唇了`
    2016-01-13 12:55:13,你,:rt:`那个估计跟你要发给我的差不多`
-   2016-01-13 12:55:14,我,:st:`壹心理 | 为什么男人都喜欢胸大腰细的女人？ http://www.wandoujia.com/items/6252832275679618227?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple`
+   2016-01-13 12:55:14,我,:st:`<msg><appmsg appid="wxd5d193765919a447"  sdkver="0"><title>壹心理 | 为什么男人都喜欢胸大腰细的女人？</title><des>文：陈琼 丨 壹心理专栏作者 俗话说：男怕入错行，女怕嫁错郎。可见从传统观念的意义上来说，婚姻对于女性的重要性比较高。所谓：嫁汉嫁汉，穿衣吃饭。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://www.wandoujia.com/items/6252832275679618227?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>304b020100044430420201000204582ade6d02030f44370204e6240d6f02045695d8b30420777869645f393333343733333334383432323333395f313435323631303433310201000201000400</cdnthumburl><cdnthumblength>5581</cdnthumblength><cdnthumbwidth>150</cdnthumbwidth><cdnthumbheight>150</cdnthumbheight><cdnthumbaeskey>61366163343334366634386631313863</cdnthumbaeskey><aeskey>61366163343334366634386631313863</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl>(null)</appmsg><appinfo><version>0</version><appname>豌豆荚一览</appname><isforceupdate>1</isforceupdate></appinfo></msg>`
    2016-01-13 13:00:31,你,:rt:`试着指出那些不符合他们世界观的事实真相。劝说必须简明扼要，并且不断重复，你还需要抨击错误信息的源头。`
    2016-01-13 13:01:44,我,:st:`是`
    2016-01-13 13:02:02,你,:rt:`你一直改变的是我的思维`
@@ -223,7 +231,15 @@
    2016-01-13 13:29:41,你,:rt:`有的能做 有的想不明白`
    2016-01-13 13:30:41,你,:rt:`你必须想出并测试对立假设。`
    2016-01-13 13:31:02,我,:st:`没看懂`
-   2016-01-13 13:31:35,你,:rt:`改变思维的主要心理障碍之一就是确认偏向。  确认偏向就是人们通常会搜寻那些符合他们世界观的信息，无视那些不符合的信息。  改变确认偏向的方法说起来容易，做起来难。  你必须想出并测试对立假设。  听起来确实很简单，但是这不是我们的天性。`
+   2016-01-13 13:31:35,你,:rt:`改变思维的主要心理障碍之一就是确认偏向。
+
+确认偏向就是人们通常会搜寻那些符合他们世界观的信息，无视那些不符合的信息。
+
+改变确认偏向的方法说起来容易，做起来难。
+
+你必须想出并测试对立假设。
+
+听起来确实很简单，但是这不是我们的天性。`
    2016-01-13 13:33:40,我,:st:`知道了`
    2016-01-13 13:35:29,我,:st:`这个我下午给你解释吧`
    2016-01-13 13:35:43,你,:rt:`好`

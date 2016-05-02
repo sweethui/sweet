@@ -1,0 +1,179 @@
+2016-04-23
+-------------
+
+.. csv-table::
+   :widths: 25, 1, 60
+
+   2016-04-23 17:59:26,你,:rt:`累死我了`
+   2016-04-23 17:59:31,你,:rt:`跟小宁逛街`
+   2016-04-23 18:04:39,你,:rt:`周末可能不能去上班了，我对象非得让我跟他去他姐家`
+   2016-04-23 18:04:53,我,:st:`好的`
+   2016-04-23 18:05:11,你,:rt:`你等我明天给你消息`
+   2016-04-23 18:05:20,我,:st:`好`
+   2016-04-23 18:05:21,你,:rt:`我要被累死了`
+   2016-04-23 18:05:33,我,:st:`今天早点歇着`
+   2016-04-23 18:05:39,你,:rt:`她买衣服太难买了`
+   2016-04-23 18:05:48,你,:rt:`鞋也超级难买`
+   2016-04-23 18:07:27,我,:st:`哦`
+   2016-04-23 18:07:58,你,:rt:`我还在滨江道呢`
+   2016-04-23 18:08:02,你,:rt:`还没回家`
+   2016-04-23 18:08:36,你,:rt:`不搭理我`
+   2016-04-23 18:08:45,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="da0d1f6fd266865f00ffac844791590b" len = "137971" productid="com.tencent.xin.emoticon.ali2" androidmd5="da0d1f6fd266865f00ffac844791590b" androidlen="137971" s60v3md5 = "da0d1f6fd266865f00ffac844791590b" s60v3len="137971" s60v5md5 = "da0d1f6fd266865f00ffac844791590b" s60v5len="137971" cdnurl = "http://emoji.qpic.cn/wx_emoji/H7fFnNazC9B5tZfNX97lxicpKxTZtFMdhbtlNKUbj0SCrosoSs2OYpA/" designerid = "" thumburl = "http://mmbiz.qpic.cn/mmemoticon/PiajxSqBRaELEcs4myCnNSicJicYL6YoLrQqlQZbZX8uF0ib8BgbcuBXmw/0" encrypturl = "http://emoji.qpic.cn/wx_emoji/y6UibcoOeIXyEqibhFy4qjMyAwIYhjKhia1LhaTUcibALrg2GhwibtLcunA/" aeskey= "2cf193a59d00a8ee9f336edcd829e7b2" width= "240" height= "240" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
+   2016-04-23 18:08:49,我,:st:`没有`
+   2016-04-23 18:09:00,你,:rt:`怎么了`
+   2016-04-23 18:09:05,我,:st:`现场有问题`
+   2016-04-23 18:09:13,我,:st:`领导在问呢`
+   2016-04-23 18:09:22,你,:rt:`那你忙吧`
+   2016-04-23 18:09:24,你,:rt:`我没事`
+   2016-04-23 18:09:26,我,:st:`还好旭明很给力`
+   2016-04-23 18:09:32,我,:st:`没事`
+   2016-04-23 18:09:33,你,:rt:`真的啊`
+   2016-04-23 18:09:39,我,:st:`我就是过去看一下`
+   2016-04-23 18:09:46,你,:rt:`赶快给旭明配人`
+   2016-04-23 18:09:58,我,:st:`是`
+   2016-04-23 18:10:04,你,:rt:`哈哈`
+   2016-04-23 18:10:07,你,:rt:`累死我了`
+   2016-04-23 18:10:37,你,:rt:`她脚太小，不要中跟的，不要脚面有装饰的`
+   2016-04-23 18:10:42,你,:rt:`我的天啊，`
+   2016-04-23 18:10:57,你,:rt:`我在茫茫大海中给他找`
+   2016-04-23 18:11:06,你,:rt:`买的34号的`
+   2016-04-23 18:11:12,我,:st:`是挺难的`
+   2016-04-23 18:11:15,你,:rt:`脚太小`
+   2016-04-23 18:11:25,我,:st:`是`
+   2016-04-23 18:11:38,你,:rt:`必须是高跟，还不要特别高的`
+   2016-04-23 18:11:44,你,:rt:`中跟的也不行`
+   2016-04-23 18:11:52,我,:st:`我们俩挺合适，我的脚也小`
+   2016-04-23 18:12:01,我,:st:`我穿39的`
+   2016-04-23 18:12:11,我,:st:`平时也买不到`
+   2016-04-23 18:12:17,你,:rt:`我要是有个眼镜，直接给滤了多好`
+   2016-04-23 18:12:25,我,:st:`哈哈`
+   2016-04-23 18:12:26,你,:rt:`我对象也是`
+   2016-04-23 18:12:35,你,:rt:`跟我脚一样`
+   2016-04-23 18:12:47,我,:st:`我打个电话，稍等`
+   2016-04-23 18:12:48,你,:rt:`还必须是浅色的`
+   2016-04-23 18:12:55,你,:rt:`白的，粉的`
+   2016-04-23 18:15:23,我,:st:`好了`
+   2016-04-23 18:15:56,你,:rt:`好`
+   2016-04-23 18:16:31,我,:st:`你应该顺便给自己买点`
+   2016-04-23 18:17:25,你,:rt:`主要我不需要`
+   2016-04-23 18:17:35,你,:rt:`找卫生间中…`
+   2016-04-23 18:18:05,我,:st:`等你`
+   2016-04-23 18:21:54,你,:rt:`看来我还没老的逛不了街，也算是舍命陪君子了`
+   2016-04-23 18:22:31,我,:st:`😄`
+   2016-04-23 18:22:47,我,:st:`田真讨厌`
+   2016-04-23 18:23:03,我,:st:`直接通知旭明周一去杭州`
+   2016-04-23 18:23:35,我,:st:`我都不知道，旭明刚和我说，田现在也没有联系我`
+   2016-04-23 18:23:43,你,:rt:`是吗`
+   2016-04-23 18:23:49,我,:st:`领导从来都没有过这样`
+   2016-04-23 18:24:00,你,:rt:`让旭明跟田说问你`
+   2016-04-23 18:24:05,我,:st:`领导用人从来都是和我先商量`
+   2016-04-23 18:24:17,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="3360" length="6767" bufid="507346255034646917" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7364_1461407053" fromusername="lihui9097" /></msg>`
+   2016-04-23 18:24:27,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="8320" length="17070" bufid="1225734047137006055" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7365_1461407059" fromusername="lihui9097" /></msg>`
+   2016-04-23 18:24:32,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="3020" length="6116" bufid="507868862400823650" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7366_1461407069" fromusername="lihui9097" /></msg>`
+   2016-04-23 18:24:48,我,:st:`是`
+   2016-04-23 18:26:03,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="12640" length="25850" bufid="1877210311314702655" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7368_1461407100" fromusername="lihui9097" /></msg>`
+   2016-04-23 18:26:04,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="7640" length="15435" bufid="1153328277116748202" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7369_1461407122" fromusername="lihui9097" /></msg>`
+   2016-04-23 18:26:39,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2720" length="5346" bufid="434020365739229562" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7370_1461407196" fromusername="lihui9097" /></msg>`
+   2016-04-23 18:26:49,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="7500" length="15295" bufid="1084465670632047033" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7371_1461407201" fromusername="lihui9097" /></msg>`
+   2016-04-23 18:26:58,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="7440" length="15272" bufid="1084925253158764992" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7372_1461407210" fromusername="lihui9097" /></msg>`
+   2016-04-23 18:27:01,我,:st:`你说的正是我想的`
+   2016-04-23 18:27:35,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="4800" length="9910" bufid="720962698491986386" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7374_1461407250" fromusername="lihui9097" /></msg>`
+   2016-04-23 18:27:42,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="5660" length="11792" bufid="868258137902088597" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7375_1461407257" fromusername="lihui9097" /></msg>`
+   2016-04-23 18:28:41,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2820" length="5844" bufid="432394333621256632" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7376_1461407318" fromusername="lihui9097" /></msg>`
+   2016-04-23 18:28:46,我,:st:`是呗，旭明还是有点怕他`
+   2016-04-23 18:28:56,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="4640" length="9389" bufid="721562322608325051" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7378_1461407331" fromusername="lihui9097" /></msg>`
+   2016-04-23 18:29:18,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="8300" length="17186" bufid="1229259953294213607" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7379_1461407350" fromusername="lihui9097" /></msg>`
+   2016-04-23 18:29:30,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="10300" length="21375" bufid="1513671300360962535" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7380_1461407360" fromusername="lihui9097" /></msg>`
+   2016-04-23 18:29:57,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="5400" length="10895" bufid="794185379537945015" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7381_1461407392" fromusername="lihui9097" /></msg>`
+   2016-04-23 18:30:09,我,:st:`你说的没错`
+   2016-04-23 18:30:11,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="3600" length="7450" bufid="578123806990270811" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7382_1461407408" fromusername="lihui9097" /></msg>`
+   2016-04-23 18:30:39,我,:st:`没有呀，很可爱`
+   2016-04-23 18:37:00,你,:rt:`坐地铁`
+   2016-04-23 18:37:16,我,:st:`好，赶紧歇会吧`
+   2016-04-23 18:37:25,我,:st:`今天累坏了吧`
+   2016-04-23 18:37:33,你,:rt:`还没坐上呢`
+   2016-04-23 18:37:36,你,:rt:`是啊`
+   2016-04-23 18:37:46,你,:rt:`我还想给东东买点吃的`
+   2016-04-23 18:38:03,我,:st:`明天别去上班了，在家好好歇着`
+   2016-04-23 18:38:22,我,:st:`我在考虑是不是周二和你们去打球`
+   2016-04-23 18:38:31,你,:rt:`歇不了`
+   2016-04-23 18:38:35,你,:rt:`好啊好啊`
+   2016-04-23 18:38:38,你,:rt:`我跟你打`
+   2016-04-23 18:38:47,你,:rt:`你的腿行吗？`
+   2016-04-23 18:38:49,我,:st:`对呀，我也想和你打`
+   2016-04-23 18:38:56,我,:st:`问题不大`
+   2016-04-23 18:39:03,你,:rt:`我其实很想去公司`
+   2016-04-23 18:39:11,你,:rt:`不想去大港`
+   2016-04-23 18:39:39,你,:rt:`而且我上周工时也不多`
+   2016-04-23 18:39:42,我,:st:`你要是我们组的就可以说解决现场问题必须去公司了`
+   2016-04-23 18:39:55,你,:rt:`是啊，不行`
+   2016-04-23 18:40:19,你,:rt:`我对象现在挺难过的，我就让着他点呗`
+   2016-04-23 18:40:36,你,:rt:`免得生气，那样我也不好受`
+   2016-04-23 18:40:45,我,:st:`是`
+   2016-04-23 18:40:46,你,:rt:`你说是不`
+   2016-04-23 18:40:52,你,:rt:`恩，就是`
+   2016-04-23 18:40:58,你,:rt:`我不想跟他吵架`
+   2016-04-23 18:41:01,我,:st:`好好哄着他`
+   2016-04-23 18:41:11,我,:st:`他现在需要你的支持`
+   2016-04-23 18:41:14,你,:rt:`嗯嗯，他现在挺需要我的`
+   2016-04-23 18:41:22,你,:rt:`跟我想的一样`
+   2016-04-23 18:41:24,你,:rt:`哈哈`
+   2016-04-23 18:41:27,你,:rt:`是的，`
+   2016-04-23 18:41:36,我,:st:`是呗`
+   2016-04-23 18:41:42,你,:rt:`反正我也不离职，咱们有的是时间`
+   2016-04-23 18:41:48,你,:rt:`是吧`
+   2016-04-23 18:41:52,我,:st:`没错`
+   2016-04-23 18:42:16,你,:rt:`恩`
+   2016-04-23 18:52:32,你,:rt:`一会儿就不聊了`
+   2016-04-23 18:52:33,你,:rt:`我对象来地铁站接我`
+   2016-04-23 18:52:46,我,:st:`好的`
+   2016-04-23 18:52:56,你,:rt:`到了，刚才没信号`
+   2016-04-23 18:53:04,你,:rt:`不能聊天了`
+   2016-04-23 18:53:17,我,:st:`好的，早点歇着`
+   2016-04-23 18:53:23,你,:rt:`恩`
+   2016-04-23 22:20:48,你,:rt:`分享篇文章`
+   2016-04-23 22:21:01,你,:rt:`<?xml version="1.0"?>
+<msg>
+	<appmsg appid="" sdkver="0">
+		<title>一个没有性魅力的人，做什么事都不会成功 - 黑天鹅 - 豆瓣</title>
+		<des>https://m.douban.com/movie/review/4916017/</des>
+		<action />
+		<type>5</type>
+		<showtype>0</showtype>
+		<mediatagname />
+		<messageext />
+		<messageaction />
+		<content />
+		<url>https://m.douban.com/movie/review/4916017/</url>
+		<lowurl />
+		<dataurl />
+		<lowdataurl />
+		<appattach>
+			<totallen>0</totallen>
+			<attachid />
+			<emoticonmd5 />
+			<fileext>30470201000440303e020100020491db2f9002033d0af602041e84277d0204571b84cd041c6c6968756939303937315f6d73655f313436313432313236313335350201000201000400</fileext>
+			<cdnthumburl>30470201000440303e020100020491db2f9002033d0af602041e84277d0204571b84cd041c6c6968756939303937315f6d73655f313436313432313236313335350201000201000400</cdnthumburl>
+			<cdnthumblength>4002</cdnthumblength>
+			<cdnthumbwidth>76</cdnthumbwidth>
+			<cdnthumbheight>76</cdnthumbheight>
+			<cdnthumbaeskey>1141e31c23c4d11edc8731603c170e08</cdnthumbaeskey>
+			<aeskey>1141e31c23c4d11edc8731603c170e08</aeskey>
+			<encryptver>0</encryptver>
+		</appattach>
+		<extinfo />
+		<sourceusername />
+		<sourcedisplayname />
+		<commenturl />
+		<thumburl />
+		<md5>5f94944f415808d747658679e305e3bc</md5>
+	</appmsg>
+	<fromusername>lihui9097</fromusername>
+	<scene>0</scene>
+	<appinfo>
+		<version>1</version>
+		<appname></appname>
+	</appinfo>
+	<commenturl></commenturl>
+</msg>`
+   2016-04-23 22:21:17,你,:rt:`别回我`

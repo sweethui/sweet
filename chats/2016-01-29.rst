@@ -50,7 +50,10 @@
    2016-01-29 17:20:16,你,:rt:`超级疼`
    2016-01-29 17:20:24,我,:st:`好心疼`
    2016-01-29 17:20:25,你,:rt:`我的裙子太长了`
-   2016-01-29 17:21:27,你,:rt:`[图片]`
+   2016-01-29 17:21:27,你,:rt:`<?xml version="1.0"?>
+<msg>
+	<img aeskey="4aae08a54fbf4299b11085a0917094e1" encryver="1" cdnthumbaeskey="4aae08a54fbf4299b11085a0917094e1" cdnthumburl="3045020100043e303c020100020491db2f9002030f443702040b250d6f020456ab2f16041a77616e67787565736f6e67373334375f313435343035393238360201000201000400" cdnthumblength="3610" cdnthumbheight="120" cdnthumbwidth="90" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3045020100043e303c020100020491db2f9002030f443702040b250d6f020456ab2f16041a77616e67787565736f6e67373334375f313435343035393238360201000201000400" length="93750" md5="3bf60e971b8911fced5ee2a1571aaa11" />
+</msg>`
    2016-01-29 17:21:43,你,:rt:`先剧透下`
    2016-01-29 17:21:49,你,:rt:`不然你都找不到我`
    2016-01-29 17:22:03,我,:st:`是`
@@ -68,5 +71,5 @@
    2016-01-29 17:45:07,你,:rt:`发给我我看看`
    2016-01-29 17:45:15,你,:rt:`我看我能不能看出意思来`
    2016-01-29 17:46:23,我,:st:`好`
-   2016-01-29 17:46:44,我,:st:`简书 | 谈谈性，说说情 http://www.wandoujia.com/items/5812602732934208199?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple`
+   2016-01-29 17:46:44,我,:st:`<msg><appmsg appid="wxd5d193765919a447"  sdkver="0"><title>简书 | 谈谈性，说说情</title><des>1993年，贾平凹《废都》出版，首印50万册。后来因为其中大量的性爱描写，1993年下半年遭禁。 2003年木子美开始在网上公开自己的性爱日记。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://www.wandoujia.com/items/5812602732934208199?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3044020100043d303b020100020410d7630002030f52be020444ce69b8020456ab350804196c696875693930393733343734345f313435343036303830340201000201000400</cdnthumburl><cdnthumblength>21880</cdnthumblength><cdnthumbwidth>450</cdnthumbwidth><cdnthumbheight>450</cdnthumbheight><cdnthumbaeskey>62323564393234396434363666303937</cdnthumbaeskey><aeskey>62323564393234396434363666303937</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl>(null)</appmsg><appinfo><version>0</version><appname>豌豆荚一览</appname><isforceupdate>1</isforceupdate></appinfo></msg>`
    2016-01-29 18:29:17,我,:st:`看完了吗`

@@ -192,6 +192,14 @@
    2016-01-17 22:50:52,我,:st:`我争取`
    2016-01-17 22:51:19,你,:rt:`恩，晚安`
    2016-01-17 22:51:33,我,:st:`晚安`
-   2016-01-17 22:51:34,你,:rt:`[动画表情]`
-   2016-01-17 22:53:42,你,:rt:`分享 光天化了日 的微博 http://m.weibo.cn/5703121556/3932267154467083/weixin?sourceType=weixin&amp;wm=9006_2001&amp;from=timeline&amp;isappinstalled=0`
+   2016-01-17 22:51:34,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="61456a41cbe949b037bde7ea6e4ba937" len = "72697" productid="com.tencent.xin.emoticon.luoxiaohei" androidmd5="61456a41cbe949b037bde7ea6e4ba937" androidlen="72697" s60v3md5 = "61456a41cbe949b037bde7ea6e4ba937" s60v3len="72697" s60v5md5 = "61456a41cbe949b037bde7ea6e4ba937" s60v5len="72697" cdnurl = "http://emoji.qpic.cn/wx_emoji/MiaD36kSNJThb0duoRVPWhrN4To7Ozu66v7OibuWXFBZPWtq6LtDwNfA/" designerid = "" thumburl = "http://mmbiz.qpic.cn/mmemoticon/dx4Y70y9XcufXAOmG9vIO8MSibN4yf5Dfkq4Pic6MxYTlsKRDkp6TAXw/0" encrypturl = "http://emoji.qpic.cn/wx_emoji/Iia7ZjfsIfMS9AAM0bYcg1icCpPibTPHZAQoVXSeuicgAZney1D3rc9sNg/" aeskey= "c4ca17571c4085e20568775fbca62463" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
+   2016-01-17 22:53:42,你,:rt:`<msg>
+<appmsg appid=""  sdkver="0"><title>分享 光天化了日 的微博</title><des>如何让女朋友感觉快乐！秒拍视频</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://m.weibo.cn/5703121556/3932267154467083/weixin?sourceType=weixin&amp;wm=9006_2001&amp;from=timeline&amp;isappinstalled=0</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>304d02010004463044020100020491db2f9002030f44360204a369a16f0204569baaf60422777869645f793066346d617a3561326b333132313836395f313435333034323430370201000201000400</cdnthumburl><cdnthumblength>4574</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>65313762343165333065626538353763</cdnthumbaeskey><aeskey>65313762343165333065626538353763</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl>(null)<md5></md5></appmsg>
+<fromusername>lihui9097</fromusername>
+<scene>0</scene>
+<appinfo>
+<version>1</version>
+<appname></appname>
+</appinfo>
+<commenturl></commenturl></msg>`
    2016-01-17 22:55:17,我,:st:`哈哈`

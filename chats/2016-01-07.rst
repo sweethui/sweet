@@ -423,4 +423,4 @@
    2016-01-07 22:04:53,你,:rt:`是`
    2016-01-07 22:05:19,我,:st:`找机会咱俩喝`
    2016-01-07 22:08:16,你,:rt:`好`
-   2016-01-07 22:08:30,你,:rt:`[语音]`
+   2016-01-07 22:08:30,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="6120" length="12030" bufid="865082619070775769" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong73420_1452175704" fromusername="lihui9097" /></msg>`

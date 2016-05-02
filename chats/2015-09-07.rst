@@ -16,7 +16,7 @@
    2015-09-07 10:07:39,我,:st:`实际上就是犯错我也不想凶你，只是我已经立了规矩，不好对你太特殊了`
    2015-09-07 10:11:46,你,:rt:`嗯，`
    2015-09-07 10:12:02,你,:rt:`是我自己太贪婪[调皮]`
-   2015-09-07 10:12:08,你,:rt:`[动画表情]`
+   2015-09-07 10:12:08,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="a090db7a18e31782c768084d63a94860" len = "99409" productid="com.tencent.xin.emoticon.emoticat" androidmd5="a090db7a18e31782c768084d63a94860" androidlen="99409" s60v3md5 = "a090db7a18e31782c768084d63a94860" s60v3len="99409" s60v5md5 = "a090db7a18e31782c768084d63a94860" s60v5len="99409" cdnurl = "http://emoji.qpic.cn/wx_emoji/5V15ibBOUpf92Es8JCVRqrJm3FZmPfQVhlBRBaVlmQJE6jicYPLEVffA/" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
    2015-09-07 10:12:27,我,:st:`你不是太贪婪`
    2015-09-07 10:12:41,你,:rt:`不是吗？`
    2015-09-07 10:12:47,我,:st:`不是`
@@ -26,7 +26,7 @@
    2015-09-07 10:14:26,你,:rt:`是吧`
    2015-09-07 10:14:35,我,:st:`其他时候我是你的朋友`
    2015-09-07 10:14:47,你,:rt:`不够理性，我是性情中人`
-   2015-09-07 10:14:52,你,:rt:`[动画表情]`
+   2015-09-07 10:14:52,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="b939285e738234ef57dd239f7c1c9bc9" len = "84178" productid="com.tencent.xin.emoticon.emoticat" androidmd5="b939285e738234ef57dd239f7c1c9bc9" androidlen="84178" s60v3md5 = "b939285e738234ef57dd239f7c1c9bc9" s60v3len="84178" s60v5md5 = "b939285e738234ef57dd239f7c1c9bc9" s60v5len="84178" cdnurl = "" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
    2015-09-07 10:15:04,我,:st:`怎么宠你都不过份`
    2015-09-07 10:15:09,你,:rt:`这个猫猫太可爱了`
    2015-09-07 10:15:23,你,:rt:`哦`
@@ -53,7 +53,7 @@
    2015-09-07 10:20:13,我,:st:`然后再考虑怎么分`
    2015-09-07 10:20:16,你,:rt:`分析完会让自己变的很客观是吗`
    2015-09-07 10:20:25,我,:st:`差不多`
-   2015-09-07 10:20:28,你,:rt:`[动画表情]`
+   2015-09-07 10:20:28,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="cadbb6f872ea79e6f79a5b5980f47efd" len = "83739" productid="com.tencent.xin.emoticon.emoticat" androidmd5="cadbb6f872ea79e6f79a5b5980f47efd" androidlen="83739" s60v3md5 = "cadbb6f872ea79e6f79a5b5980f47efd" s60v3len="83739" s60v5md5 = "cadbb6f872ea79e6f79a5b5980f47efd" s60v5len="83739" cdnurl = "http://emoji.qpic.cn/wx_emoji/I2n8mXUvbHSCK2gxnnfwKMwArQBjTCiaGicN1Qwj1VACib4DYBibIu4fyg/" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
    2015-09-07 10:20:31,你,:rt:`好吧，你帮我分吧`
    2015-09-07 10:20:36,你,:rt:`哈哈`
    2015-09-07 10:20:39,你,:rt:`逗你的`

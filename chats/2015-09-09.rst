@@ -143,11 +143,11 @@
    2015-09-09 00:28:36,你,:rt:`我睡了`
    2015-09-09 00:28:48,你,:rt:`困死了，你明天也晚点起吧`
    2015-09-09 00:29:04,我,:st:`好`
-   2015-09-09 00:29:12,我,:st:`[动画表情]`
+   2015-09-09 00:29:12,我,:st:`<msg><emoji md5="783634faa9e592dc6c2b538901db87c3" type="2" len = "39228" productid="com.tencent.xin.emoticon.emoticat" cdnurl="(null)"></emoji><gameext type="0" content="0" ></gameext></msg>`
    2015-09-09 00:29:18,你,:rt:`哈哈`
-   2015-09-09 00:29:23,你,:rt:`[动画表情]`
-   2015-09-09 00:29:29,你,:rt:`[动画表情]`
-   2015-09-09 00:29:36,你,:rt:`[动画表情]`
+   2015-09-09 00:29:23,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="20e0bbccc7d77d8a6b8f7618b7af008b" len = "91917" productid="com.tencent.xin.emoticon.emoticat" androidmd5="20e0bbccc7d77d8a6b8f7618b7af008b" androidlen="91917" s60v3md5 = "20e0bbccc7d77d8a6b8f7618b7af008b" s60v3len="91917" s60v5md5 = "20e0bbccc7d77d8a6b8f7618b7af008b" s60v5len="91917" cdnurl = "" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
+   2015-09-09 00:29:29,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="446e40164099ca118e1547d588151019" len = "81474" productid="com.tencent.xin.emoticon.emoticat" androidmd5="446e40164099ca118e1547d588151019" androidlen="81474" s60v3md5 = "446e40164099ca118e1547d588151019" s60v3len="81474" s60v5md5 = "446e40164099ca118e1547d588151019" s60v5len="81474" cdnurl = "" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
+   2015-09-09 00:29:36,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="84c0388b5189e6f18af23b7e300edd45" len = "57169" productid="com.tencent.xin.emoticon.emoticat" androidmd5="84c0388b5189e6f18af23b7e300edd45" androidlen="57169" s60v3md5 = "84c0388b5189e6f18af23b7e300edd45" s60v3len="57169" s60v5md5 = "84c0388b5189e6f18af23b7e300edd45" s60v5len="57169" cdnurl = "" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
    2015-09-09 00:29:44,你,:rt:`哈哈，睡了`
    2015-09-09 00:29:52,我,:st:`好`
    2015-09-09 09:33:51,我,:st:`你睡好了吗`
@@ -277,7 +277,10 @@
    2015-09-09 22:28:49,你,:rt:`还有50道呢`
    2015-09-09 22:29:09,我,:st:`后面好多题就一句话`
    2015-09-09 22:29:35,你,:rt:`老田赞了我下，好奇怪`
-   2015-09-09 22:29:39,你,:rt:`[图片]`
+   2015-09-09 22:29:39,你,:rt:`<?xml version="1.0"?>
+<msg>
+	<img aeskey="57177ac4d09941478642d8457c63c9fb" encryver="1" cdnthumbaeskey="57177ac4d09941478642d8457c63c9fb" cdnthumburl="30470201000440303e020100020491db2f9002032dcdc9020425a4b73d020455f04253041c77616e67787565736f6e673733313131395f313434313830383935380201000201000400" cdnthumblength="2760" cdnthumbheight="120" cdnthumbwidth="67" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="30470201000440303e020100020491db2f9002032dcdc9020425a4b73d020455f04253041c77616e67787565736f6e673733313131395f313434313830383935380201000201000400" length="133350" md5="ba455214c706a05192d88f67777bab9e" />
+</msg>`
    2015-09-09 22:30:08,我,:st:`哦`
    2015-09-09 22:30:31,你,:rt:`老田这人太复杂了，咱们公司的领导层面的人都挺复杂`
    2015-09-09 22:30:51,你,:rt:`你，洪越，严丹，老杨`

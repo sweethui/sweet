@@ -26,7 +26,7 @@
    2015-11-23 08:43:20,我,:st:`检票了吗？`
    2015-11-23 08:43:28,你,:rt:`没呢`
    2015-11-23 08:48:59,你,:rt:`检票了，太好了`
-   2015-11-23 08:49:53,我,:st:`自相矛盾才有第一等智慧 | BetterRead http://mp.weixin.qq.com/s?__biz=MzAxODYzNjY5Ng==&amp;mid=400381471&amp;idx=1&amp;sn=0a9e944ca9a082da73ed571aaac69bc4&amp;scene=1&amp;srcid=1123Vlw2o2TprRgsCdl5lcBw#rd`
+   2015-11-23 08:49:53,我,:st:`<msg><appmsg appid=""  sdkver="0"><title>自相矛盾才有第一等智慧 | BetterRead</title><des>同时葆有全然相反的两种观念，还能正常行事，是第一等智慧。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><url>http://mp.weixin.qq.com/s?__biz=MzAxODYzNjY5Ng==&amp;mid=400381471&amp;idx=1&amp;sn=0a9e944ca9a082da73ed571aaac69bc4&amp;scene=1&amp;srcid=1123Vlw2o2TprRgsCdl5lcBw#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>304d0201000446304402010002042e5105f802030f44370204f5240d6f0204565262b40422333438343630313438384063686174726f6f6d393330345f313434383233393030360201000201000400</cdnthumburl><cdnthumblength>8536</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>34656435323163353139376133373064</cdnthumbaeskey><aeskey>34656435323163353139376133373064</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_05edbfbdeabe</sourceusername><sourcedisplayname>BetterRead</sourcedisplayname><commenturl></commenturl><thumburl></thumburl>(null)</appmsg><appinfo><version>0</version><appname></appname><isforceupdate>1</isforceupdate></appinfo></msg>`
    2015-11-23 09:18:45,我,:st:`旭明气死我了`
    2015-11-23 09:19:01,我,:st:`还吊儿郎当的`
    2015-11-23 09:23:53,你,:rt:`怎么了，`
@@ -224,7 +224,7 @@
    2015-11-23 16:58:27,我,:st:`好的`
    2015-11-23 16:58:35,你,:rt:`现在周围都是人，特别不方便`
    2015-11-23 16:58:40,我,:st:`是`
-   2015-11-23 17:35:07,我,:st:`简谈Mac体验与软件配置 - 头条 - 伯乐在线 http://top.jobbole.com/30394/`
+   2015-11-23 17:35:07,我,:st:`<msg><appmsg appid="wxe082de20d41f6240"  sdkver="0"><title>简谈Mac体验与软件配置 - 头条 - 伯乐在线</title><des></des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><url>http://top.jobbole.com/30394/</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl>(null)</appmsg><appinfo><version>0</version><appname>Moke</appname><isforceupdate>1</isforceupdate></appinfo></msg>`
    2015-11-23 18:18:10,你,:rt:`我走了`
    2015-11-23 18:18:18,你,:rt:`今天搭车，早点走`
    2015-11-23 18:18:25,我,:st:`好的`

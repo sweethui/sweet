@@ -86,7 +86,15 @@
    2015-11-19 16:30:28,你,:rt:`别生气就行`
    2015-11-19 16:30:41,你,:rt:`别真生气就行`
    2015-11-19 16:30:44,我,:st:`是呗，哪有你那么乖`
-   2015-11-19 17:08:57,你,:rt:`在哲学家眼里，技术的本质是…… http://mp.weixin.qq.com/s?__biz=MjAzNzMzNTkyMQ==&amp;mid=401259317&amp;idx=1&amp;sn=2bfa7001d448391c2cb61e5f342d3875&amp;scene=1&amp;srcid=1119NfuWDNCbKN1IjVAExDZb#rd`
+   2015-11-19 17:08:57,你,:rt:`<msg>
+<appmsg appid=""  sdkver="0"><title>在哲学家眼里，技术的本质是……</title><des>36氪微信号：wow36kr哲学之思与技术之美的交汇。编者按：本文经授权转载自微信公众号“我和世界之间”，作</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><url>http://mp.weixin.qq.com/s?__biz=MjAzNzMzNTkyMQ==&amp;mid=401259317&amp;idx=1&amp;sn=2bfa7001d448391c2cb61e5f342d3875&amp;scene=1&amp;srcid=1119NfuWDNCbKN1IjVAExDZb#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3046020100043f303d020100020491db2f9002032dcdc9020428a4b73d0204564d91aa041b77616e67787565736f6e6737333236365f313434373932343133330201000201000400</cdnthumburl><cdnthumblength>4416</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>65636666383730633237363135653430</cdnthumbaeskey><aeskey>65636666383730633237363135653430</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>wxid_1970509702912</sourceusername><sourcedisplayname>36氪</sourcedisplayname><commenturl></commenturl><thumburl></thumburl>(null)<md5></md5></appmsg>
+<fromusername>lihui9097</fromusername>
+<scene>0</scene>
+<appinfo>
+<version>1</version>
+<appname></appname>
+</appinfo>
+<commenturl></commenturl></msg>`
    2015-11-19 17:09:06,你,:rt:`看不懂`
    2015-11-19 17:09:45,我,:st:`我回来看看，现在没空`
    2015-11-19 17:32:50,你,:rt:`困死了`
@@ -109,7 +117,7 @@
    2015-11-19 17:57:46,我,:st:`我去给你拿一片西洋参，可以解乏`
    2015-11-19 17:57:59,我,:st:`一定要吃，不准不吃`
    2015-11-19 18:05:17,你,:rt:`不吃`
-   2015-11-19 18:05:27,你,:rt:`[动画表情]`
+   2015-11-19 18:05:27,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="ea2d2730d0633a4c7feb764c64206cf0" len = "85625" productid="com.tencent.xin.emoticon.emoticat" androidmd5="ea2d2730d0633a4c7feb764c64206cf0" androidlen="85625" s60v3md5 = "ea2d2730d0633a4c7feb764c64206cf0" s60v3len="85625" s60v5md5 = "ea2d2730d0633a4c7feb764c64206cf0" s60v5len="85625" cdnurl = "" designerid = "" thumburl = "http://wx.qlogo.cn/mmhead/mEMdfrX5RU2h9WBsXEjL1jYPKIia1pqjarWibja4muhp4/0" encrypturl = "" aeskey= "" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
    2015-11-19 18:07:16,我,:st:`好心疼`
    2015-11-19 18:07:38,我,:st:`乖，吃吧`
    2015-11-19 18:07:57,我,:st:`会感觉好一点`
@@ -224,12 +232,22 @@
    2015-11-19 21:17:09,你,:rt:`我看你今天老因为问题的事发火，挺着急的`
    2015-11-19 21:17:20,我,:st:`用微信发给你行吗`
    2015-11-19 21:17:26,我,:st:`是`
-   2015-11-19 21:17:27,你,:rt:`[图片]`
+   2015-11-19 21:17:27,你,:rt:`<?xml version="1.0"?>
+<msg>
+	<img aeskey="cd0a65421735459f8239d98765f6ec86" encryver="1" cdnthumbaeskey="cd0a65421735459f8239d98765f6ec86" cdnthumburl="3046020100043f303d020100020491db2f9002032dcdc9020427a4b73d0204564dcbe5041b77616e67787565736f6e6737333430365f313434373933393034370201000201000400" cdnthumblength="3001" cdnthumbheight="120" cdnthumbwidth="67" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3046020100043f303d020100020491db2f9002032dcdc9020427a4b73d0204564dcbe5041b77616e67787565736f6e6737333430365f313434373933393034370201000201000400" length="149669" md5="dbcc3c911092cf9027b9bf0c43ad6eda" />
+</msg>`
    2015-11-19 21:17:36,你,:rt:`发吧，没事`
    2015-11-19 21:17:46,你,:rt:`我就给他发了条微信，`
    2015-11-19 21:17:50,你,:rt:`你猜怎么着`
    2015-11-19 21:18:08,你,:rt:`他立马把电话给我打过来了`
-   2015-11-19 21:18:15,我,:st:`主要工作说的有点碎，评委不知道你干的是什么  需求体现用户价值 不用的分析法不要讲 需求本质和优先级不一样，概念不清 需求易变，不是变化 需求的扩展 软件设计`
+   2015-11-19 21:18:15,我,:st:`主要工作说的有点碎，评委不知道你干的是什么
+
+需求体现用户价值
+不用的分析法不要讲
+需求本质和优先级不一样，概念不清
+需求易变，不是变化
+需求的扩展
+软件设计`
    2015-11-19 21:18:16,你,:rt:`问我什么情况，`
    2015-11-19 21:19:02,你,:rt:`好的，多谢`
    2015-11-19 21:20:08,我,:st:`你怎么和他说的`
@@ -501,7 +519,7 @@
    2015-11-19 22:48:37,你,:rt:`好好休息，明天接着干`
    2015-11-19 22:48:39,你,:rt:`哈哈`
    2015-11-19 22:48:44,我,:st:`哦`
-   2015-11-19 22:48:55,你,:rt:`[动画表情]`
+   2015-11-19 22:48:55,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="84c0388b5189e6f18af23b7e300edd45" len = "57169" productid="com.tencent.xin.emoticon.emoticat" androidmd5="84c0388b5189e6f18af23b7e300edd45" androidlen="57169" s60v3md5 = "84c0388b5189e6f18af23b7e300edd45" s60v3len="57169" s60v5md5 = "84c0388b5189e6f18af23b7e300edd45" s60v5len="57169" cdnurl = "" designerid = "" thumburl = "http://wx.qlogo.cn/mmhead/mEMdfrX5RU2h9WBsXEjL1oTMJemdwauRHOoGb6AyV3I/0" encrypturl = "" aeskey= "" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
    2015-11-19 22:49:01,我,:st:`明天不干，陪你聊天`
    2015-11-19 22:49:30,你,:rt:`明天我还有两个活，我才不信你有空呢`
    2015-11-19 22:49:37,你,:rt:`睡了`

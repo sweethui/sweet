@@ -85,7 +85,9 @@
    2015-10-23 10:30:53,我,:st:`和你说正事吧`
    2015-10-23 10:31:50,我,:st:`我给你出个题吧`
    2015-10-23 10:32:09,你,:rt:`好`
-   2015-10-23 10:32:35,我,:st:`@DarthVada：//@西瓜大丸子汤：以前生育养老抚恤家务性生活都是捆绑销售的。现在这些全被打破，婚姻就变得可有可无了，至少被拆成几个分离的民事合同。//@_檀檀:婚姻和生育从必然选择变成了可选项之一，该项责任重大，大可以选择不承受，从而纵向使用自身的精力。  //@西瓜大丸子汤：育儿成本的高昂，婚姻的解体，福利的扩张，教育和养老的国家化，将削弱基因在社会结构形成中的作用，使群体的适应性越来越多得基于文因meme而非基因gene。相应的，利他主义是基于文因的而非基因。爱国主义取代民族主义，学术传承取代家族传承，git repo取代子宫`
+   2015-10-23 10:32:35,我,:st:`@DarthVada：//@西瓜大丸子汤：以前生育养老抚恤家务性生活都是捆绑销售的。现在这些全被打破，婚姻就变得可有可无了，至少被拆成几个分离的民事合同。//@_檀檀:婚姻和生育从必然选择变成了可选项之一，该项责任重大，大可以选择不承受，从而纵向使用自身的精力。
+
+//@西瓜大丸子汤：育儿成本的高昂，婚姻的解体，福利的扩张，教育和养老的国家化，将削弱基因在社会结构形成中的作用，使群体的适应性越来越多得基于文因meme而非基因gene。相应的，利他主义是基于文因的而非基因。爱国主义取代民族主义，学术传承取代家族传承，git repo取代子宫`
    2015-10-23 10:33:01,我,:st:`这是我从微博上看来的，你先看看，然后谈谈自己的感想`
    2015-10-23 10:37:41,你,:rt:`等`
    2015-10-23 11:10:37,你,:rt:`What a bitch`
@@ -198,7 +200,15 @@
    2015-10-23 17:34:36,你,:rt:`我不来`
    2015-10-23 17:34:43,我,:st:`我就不来了`
    2015-10-23 17:40:37,我,:st:`还有一件事`
-   2015-10-23 17:41:13,你,:rt:`千万不要和比你好看的人拍照，有图有真相！ http://mp.weixin.qq.com/s?__biz=MzA3MjQ1NjQxMA==&amp;mid=400109918&amp;idx=3&amp;sn=e87feaa650de702d050184719fc9e360&amp;scene=1&amp;srcid=1023QY85XYKDAQrso7zMCSk5#rd`
+   2015-10-23 17:41:13,你,:rt:`<msg>
+<appmsg appid=""  sdkver="0"><title>千万不要和比你好看的人拍照，有图有真相！</title><des>点击上面-“360doc个人图书馆”-进行关注 图片较多，加载不易，建议在WiFi状态下阅读，土豪请随意~ </des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><url>http://mp.weixin.qq.com/s?__biz=MzA3MjQ1NjQxMA==&amp;mid=400109918&amp;idx=3&amp;sn=e87feaa650de702d050184719fc9e360&amp;scene=1&amp;srcid=1023QY85XYKDAQrso7zMCSk5#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>30470201000440303e020100020491db2f9002032dcdc9020427a4b73d0204562a00b9041c77616e67787565736f6e673733313539355f313434353539333237300201000201000400</cdnthumburl><cdnthumblength>6088</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>33373038666232356436326634616663</cdnthumbaeskey><aeskey>33373038666232356436326634616663</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_6a3bebd5a4fd</sourceusername><sourcedisplayname>360doc个人图书馆</sourcedisplayname><commenturl></commenturl><thumburl></thumburl>(null)<md5></md5></appmsg>
+<fromusername>lihui9097</fromusername>
+<scene>0</scene>
+<appinfo>
+<version>1</version>
+<appname></appname>
+</appinfo>
+<commenturl></commenturl></msg>`
    2015-10-23 17:41:23,我,:st:`今天严丹说的对，你在评审的时候应该强硬点`
    2015-10-23 17:44:10,你,:rt:`恩，我觉得他也是为我好`
    2015-10-23 17:44:15,你,:rt:`说得也对`

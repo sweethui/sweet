@@ -145,7 +145,7 @@
    2016-01-20 11:21:05,你,:rt:`我当然知道`
    2016-01-20 11:37:36,你,:rt:`我吃饭来了`
    2016-01-20 11:38:00,我,:st:`好的，我们还在开会[流泪]`
-   2016-01-20 11:38:13,你,:rt:`[动画表情]`
+   2016-01-20 11:38:13,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="10f99ca36a2d68f86f1a5ccf8587608b" len = "135912" productid="com.tencent.xin.emoticon.ali2" androidmd5="10f99ca36a2d68f86f1a5ccf8587608b" androidlen="135912" s60v3md5 = "10f99ca36a2d68f86f1a5ccf8587608b" s60v3len="135912" s60v5md5 = "10f99ca36a2d68f86f1a5ccf8587608b" s60v5len="135912" cdnurl = "http://emoji.qpic.cn/wx_emoji/bXLQ2CQtPMq3FZAVaFoiaN6sIkBiacT5oh7pNHbvibM84C48xyu7voictg/" designerid = "" thumburl = "http://mmbiz.qpic.cn/mmemoticon/dx4Y70y9Xcv4yfSKyEvKbRzwejH3DQOrMpQUiaTwfretPcXCbhvcOFg/0" encrypturl = "http://emoji.qpic.cn/wx_emoji/WaSaWflrrknz7KcyRMZ6DibsibX9Ric4aQQR6SSOofoznE1hkpdrbwYxA/" aeskey= "7bf49f49e752a42ae3f9380f550eace6" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
    2016-01-20 11:38:47,你,:rt:`你咋还给王洪越点赞了呢`
    2016-01-20 11:39:14,我,:st:`战略性点赞`
    2016-01-20 11:39:19,我,:st:`[偷笑]`
@@ -153,7 +153,7 @@
    2016-01-20 11:40:08,你,:rt:`他那个大显摆，谁知道他说的啥`
    2016-01-20 11:40:30,我,:st:`我觉得他自己都不知道`
    2016-01-20 11:41:24,你,:rt:`我觉得也是`
-   2016-01-20 11:41:33,你,:rt:`[动画表情]`
+   2016-01-20 11:41:33,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="877c2c48ca39a9c4215b66c293e0bfcc" len = "91436" productid="com.tencent.xin.emoticon.ali2" androidmd5="877c2c48ca39a9c4215b66c293e0bfcc" androidlen="91436" s60v3md5 = "877c2c48ca39a9c4215b66c293e0bfcc" s60v3len="91436" s60v5md5 = "877c2c48ca39a9c4215b66c293e0bfcc" s60v5len="91436" cdnurl = "http://emoji.qpic.cn/wx_emoji/p6LhyTLgAdZ6KsaNJaw4ONQRZtmYTwicXqZZeLiaYiaDS6lOLYDSDzIcw/" designerid = "" thumburl = "http://mmbiz.qpic.cn/mmemoticon/dx4Y70y9Xcv4yfSKyEvKbYN9VwIibOFDnwNgssI4xj9nOoLPMN49oqQ/0" encrypturl = "http://emoji.qpic.cn/wx_emoji/XDFJcuaMDBQCETKFaNMnM0GOpEIhX3zicU0t1n8T1Bv9qSV2K6bdbzA/" aeskey= "d452ddccddc9a812b518e1d4ce9d5356" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
    2016-01-20 12:06:45,你,:rt:`完事了吗`
    2016-01-20 12:07:00,我,:st:`没有`
    2016-01-20 12:10:32,我,:st:`饿死了`

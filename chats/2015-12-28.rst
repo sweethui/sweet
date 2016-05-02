@@ -150,7 +150,15 @@
    2015-12-28 15:47:59,你,:rt:`我待会发给你个链接 有段ted的演讲 讲女人对待家暴的`
    2015-12-28 15:48:10,我,:st:`好的`
    2015-12-28 15:48:13,你,:rt:`我昨天看的 我老公在家就没法给你`
-   2015-12-28 15:48:49,你,:rt:`家暴的受害者为什么难以离开所在家庭？ http://mp.weixin.qq.com/s?__biz=MzA3MjQ1NjQxMA==&amp;mid=401075446&amp;idx=1&amp;sn=a1f7db84a9c7bf4e66bb4f9205430421&amp;scene=1&amp;srcid=1228Nw5gUGKB8Jljd4w3TVoK#rd`
+   2015-12-28 15:48:49,你,:rt:`<msg>
+<appmsg appid=""  sdkver="0"><title>家暴的受害者为什么难以离开所在家庭？</title><des>更多精彩，请关注【360doc个人图书馆】 长按指纹，识别二维码！不信你试试！</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://mp.weixin.qq.com/s?__biz=MzA3MjQ1NjQxMA==&amp;mid=401075446&amp;idx=1&amp;sn=a1f7db84a9c7bf4e66bb4f9205430421&amp;scene=1&amp;srcid=1228Nw5gUGKB8Jljd4w3TVoK#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>304a020100044330410201000204adebb15202030f44370204c0240d6f02045680e961041f777869645f766969346a626f6c347969723132315f313435313230383533370201000201000400</cdnthumburl><cdnthumblength>6903</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>62643266626339666439326334623165</cdnthumbaeskey><aeskey>62643266626339666439326334623165</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_6a3bebd5a4fd</sourceusername><sourcedisplayname>360doc个人图书馆</sourcedisplayname><commenturl></commenturl><thumburl></thumburl><streamvideo><streamvideourl><![CDATA[]]></streamvideourl><streamvideototaltime>0</streamvideototaltime><streamvideotitle><![CDATA[]]></streamvideotitle>            <streamvideowording><![CDATA[]]></streamvideowording><streamvideoweburl><![CDATA[]]></streamvideoweburl><streamvideothumburl><![CDATA[]]></streamvideothumburl></streamvideo>(null)<md5></md5></appmsg>
+<fromusername>lihui9097</fromusername>
+<scene>0</scene>
+<appinfo>
+<version>1</version>
+<appname></appname>
+</appinfo>
+<commenturl></commenturl></msg>`
    2015-12-28 15:50:47,你,:rt:`文字的分析不如演讲的说得好`
    2015-12-28 15:51:08,我,:st:`我回去找找看`
    2015-12-28 15:57:17,我,:st:`你看完了有什么想法`
@@ -329,7 +337,7 @@
    2015-12-28 16:50:35,我,:st:`可以`
    2015-12-28 17:02:31,我,:st:`终于完了`
    2015-12-28 17:02:40,你,:rt:`哈哈`
-   2015-12-28 17:02:50,你,:rt:`[动画表情]`
+   2015-12-28 17:02:50,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="877C2C48CA39A9C4215B66C293E0BFCC" len = "91436" productid="com.tencent.xin.emoticon.ali2" androidmd5="877C2C48CA39A9C4215B66C293E0BFCC" androidlen="91436" s60v3md5 = "877C2C48CA39A9C4215B66C293E0BFCC" s60v3len="91436" s60v5md5 = "877C2C48CA39A9C4215B66C293E0BFCC" s60v5len="91436" cdnurl = "http://emoji.qpic.cn/wx_emoji/p6LhyTLgAdZ6KsaNJaw4ONQRZtmYTwicXqZZeLiaYiaDS6lOLYDSDzIcw/" designerid = "" thumburl = "http://mmbiz.qpic.cn/mmemoticon/dx4Y70y9Xcv4yfSKyEvKbYN9VwIibOFDnwNgssI4xj9nOoLPMN49oqQ/0" encrypturl = "" aeskey= "" ></emoji> </msg>`
    2015-12-28 17:58:07,我,:st:`回来更忙`
    2015-12-28 17:58:19,我,:st:`我到底欠了你多少东西`
    2015-12-28 17:58:24,你,:rt:`哦`

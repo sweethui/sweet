@@ -56,7 +56,15 @@
    2015-10-28 11:02:06,你,:rt:`Anytime`
    2015-10-28 11:02:35,我,:st:`中午想和你面谈，行不行？`
    2015-10-28 11:02:50,我,:st:`有太多话想和你说`
-   2015-10-28 11:03:03,你,:rt:`爱外出散步的猫——喵吉 https://moment.douban.com/post/126147/?douban_rec=1?platform=iPhone&amp;from=singlemessage&amp;isappinstalled=0`
+   2015-10-28 11:03:03,你,:rt:`<msg>
+<appmsg appid=""  sdkver="0"><title>爱外出散步的猫——喵吉</title><des>https://moment.douban.com/post/126147/?douban_rec=1?platform=iPhone&amp;from=singlemessage&amp;isappinstalled=0</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><url>https://moment.douban.com/post/126147/?douban_rec=1?platform=iPhone&amp;from=singlemessage&amp;isappinstalled=0</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>304d02010004463044020100020475b1108c02030f4437020416200d6f020456303ae70422777869645f767a7234626d36727a6d316d3231313033305f313434353935383938360201000201000400</cdnthumburl><cdnthumblength>6790</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>63616638346166666130303430333938</cdnthumbaeskey><aeskey>63616638346166666130303430333938</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl>(null)<md5></md5></appmsg>
+<fromusername>lihui9097</fromusername>
+<scene>0</scene>
+<appinfo>
+<version>1</version>
+<appname></appname>
+</appinfo>
+<commenturl></commenturl></msg>`
    2015-10-28 11:03:26,你,:rt:`行`
    2015-10-28 11:03:31,你,:rt:`几点`
    2015-10-28 11:03:50,我,:st:`看你`
@@ -210,7 +218,9 @@
    2015-10-28 16:51:49,你,:rt:`我忘了`
    2015-10-28 16:51:53,你,:rt:`你别生气啊`
    2015-10-28 16:52:08,我,:st:`不生气`
-   2015-10-28 16:52:23,我,:st:`@DarthVada：//@西瓜大丸子汤：以前生育养老抚恤家务性生活都是捆绑销售的。现在这些全被打破，婚姻就变得可有可无了，至少被拆成几个分离的民事合同。//@_檀檀:婚姻和生育从必然选择变成了可选项之一，该项责任重大，大可以选择不承受，从而纵向使用自身的精力。  //@西瓜大丸子汤：育儿成本的高昂，婚姻的解体，福利的扩张，教育和养老的国家化，将削弱基因在社会结构形成中的作用，使群体的适应性越来越多得基于文因meme而非基因gene。相应的，利他主义是基于文因的而非基因。爱国主义取代民族主义，学术传承取代家族传承，git repo取代子宫`
+   2015-10-28 16:52:23,我,:st:`@DarthVada：//@西瓜大丸子汤：以前生育养老抚恤家务性生活都是捆绑销售的。现在这些全被打破，婚姻就变得可有可无了，至少被拆成几个分离的民事合同。//@_檀檀:婚姻和生育从必然选择变成了可选项之一，该项责任重大，大可以选择不承受，从而纵向使用自身的精力。
+
+//@西瓜大丸子汤：育儿成本的高昂，婚姻的解体，福利的扩张，教育和养老的国家化，将削弱基因在社会结构形成中的作用，使群体的适应性越来越多得基于文因meme而非基因gene。相应的，利他主义是基于文因的而非基因。爱国主义取代民族主义，学术传承取代家族传承，git repo取代子宫`
    2015-10-28 16:52:29,我,:st:`你再看看`
    2015-10-28 16:59:30,你,:rt:`你想让我看什么？`
    2015-10-28 16:59:37,你,:rt:`我不知道，有问题吗？`
