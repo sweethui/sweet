@@ -244,15 +244,7 @@
    2016-03-04 18:11:54,你,:rt:`刚看到雷军说的一句话 ：不要用战术的勤奋，掩盖战略的懒惰`
    2016-03-04 18:12:12,我,:st:`对`
    2016-03-04 18:14:33,你,:rt:`我记得你说过差不多的话`
-   2016-03-04 18:15:58,你,:rt:`<msg>
-<appmsg appid=""  sdkver="0"><title>勤奋是最猛的毒药 ，为啥说大部分勤奋都是无效的</title><des>更多精彩，请关注【360doc个人图书馆】 长按指纹，识别二维码！不信你试试！</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://mp.weixin.qq.com/s?__biz=MzA3MjQ1NjQxMA==&amp;mid=401562178&amp;idx=2&amp;sn=331a529b57c1158ff9d0e812a946e6d3&amp;scene=1&amp;srcid=03043MDPpiGprQATnOOZ2Yvk#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3045020100043e303c020100020491db2f9002030f4df902042e3239b7020456d9605e041a77616e67787565736f6e67373332315f313435373038363535350201000201000400</cdnthumburl><cdnthumblength>5337</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>fcca84ff133f44559ed20dee70c48c39</cdnthumbaeskey><aeskey>fcca84ff133f44559ed20dee70c48c39</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_6a3bebd5a4fd</sourceusername><sourcedisplayname>360doc个人图书馆</sourcedisplayname><commenturl></commenturl><thumburl></thumburl><md5></md5></appmsg>
-<fromusername>lihui9097</fromusername>
-<scene>0</scene>
-<appinfo>
-<version>1</version>
-<appname></appname>
-</appinfo>
-<commenturl></commenturl></msg>`
+   2016-03-04 18:15:58,你,:rt:`[动画表情]`
    2016-03-04 18:18:30,我,:st:`是`
    2016-03-04 18:20:17,你,:rt:`啰里八嗦的，感觉好多废话`
    2016-03-04 18:20:42,我,:st:`那是说给其他人听的`

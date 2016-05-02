@@ -74,7 +74,7 @@
    2015-12-11 09:25:44,我,:st:`猜`
    2015-12-11 09:25:53,你,:rt:`乖乖`
    2015-12-11 09:26:18,我,:st:`才不是呢，太显眼了`
-   2015-12-11 09:26:26,我,:st:`<msg><img hdlength="0" length="56790" cdnbigimgurl="" cdnmidimgurl="3042020100043b3039020100020410d7630002030f44370204e5240d6f0204566a264204176c69687569393039373739315f313434393739373138360201000201000400" aeskey="a9af7e9986f1433b9a600a176c496a93" cdnthumburl="3042020100043b3039020100020410d7630002030f44370204e5240d6f0204566a264204176c69687569393039373739315f313434393739373138360201000201000400" cdnthumblength="2326" cdnthumbwidth="67" cdnthumbheight="120" cdnthumbaeskey="a9af7e9986f1433b9a600a176c496a93" encryver="1"/><commenturl></commenturl><MMAsset><m_assetUrlForSystem><![CDATA[3D3F2CDE-D1B9-41C0-A1FF-754EB13CB07C/L0/001]]></m_assetUrlForSystem><m_isNeedOriginImage>0</m_isNeedOriginImage><m_isFailedFromIcloud>0</m_isFailedFromIcloud><m_isLoadingFromIcloud>0</m_isLoadingFromIcloud></MMAsset></msg>`
+   2015-12-11 09:26:26,我,:st:`[图片]`
    2015-12-11 09:26:31,你,:rt:`李笨`
    2015-12-11 09:26:36,我,:st:`知道了吗`
    2015-12-11 09:26:39,你,:rt:`哈哈`
@@ -160,7 +160,7 @@
    2015-12-11 16:20:34,我,:st:`你能早点见到`
    2015-12-11 16:20:38,你,:rt:`嗯`
    2015-12-11 16:20:49,你,:rt:`你怎么可以一下午不跟我说话呢`
-   2015-12-11 16:20:53,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="c8774fd944bfe9ca36ea9ae551c2f396" len = "80024" productid="com.tencent.xin.emoticon.emoticat" androidmd5="c8774fd944bfe9ca36ea9ae551c2f396" androidlen="80024" s60v3md5 = "c8774fd944bfe9ca36ea9ae551c2f396" s60v3len="80024" s60v5md5 = "c8774fd944bfe9ca36ea9ae551c2f396" s60v5len="80024" cdnurl = "http://emoji.qpic.cn/wx_emoji/aMZuX7m9UficPjiaBUUV80BMjlpNrLYmg1BE8N8aslEsljh5xoCUMpiaw/" designerid = "" thumburl = "http://wx.qlogo.cn/mmhead/mEMdfrX5RU2h9WBsXEjL1hl4ZAibGpuSVSeViaGwM7vMM/0" encrypturl = "http://emoji.qpic.cn/wx_emoji/ruMJSJ6QjgQuy0VjMXzzkibibhPRmL4Kme3Fd78IewN7AjAic0V4Xvy2A/" aeskey= "f590f1ae57fb35972b381d02abd0be08" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
+   2015-12-11 16:20:53,你,:rt:`[动画表情]`
    2015-12-11 16:21:02,你,:rt:`拍死你`
    2015-12-11 16:21:09,我,:st:`你也没找我`
    2015-12-11 16:21:18,你,:rt:`不想找`
@@ -186,7 +186,7 @@
    2015-12-11 17:25:56,你,:rt:`出门就碰杨总了，`
    2015-12-11 17:26:07,你,:rt:`他说没事`
    2015-12-11 17:26:13,我,:st:`命好`
-   2015-12-11 17:26:23,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="446e40164099ca118e1547d588151019" len = "81474" productid="com.tencent.xin.emoticon.emoticat" androidmd5="446e40164099ca118e1547d588151019" androidlen="81474" s60v3md5 = "446e40164099ca118e1547d588151019" s60v3len="81474" s60v5md5 = "446e40164099ca118e1547d588151019" s60v5len="81474" cdnurl = "http://emoji.qpic.cn/wx_emoji/4cVvOKuwTB08QIxjMUTRI78901eDgE5zoUdbmB7Dqmesj4ccYdOaZw/" designerid = "" thumburl = "http://wx.qlogo.cn/mmhead/mEMdfrX5RU2h9WBsXEjL1qZCcPBYicciclHqaAw7ic9loQ/0" encrypturl = "http://emoji.qpic.cn/wx_emoji/4cVvOKuwTB08QIxjMUTRI78901eDgE5zLMYxMb0XpjYwuPfhT8J5Hw/" aeskey= "72055536b18a9fe8969636e8860a93e1" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
+   2015-12-11 17:26:23,你,:rt:`[动画表情]`
    2015-12-11 17:26:33,你,:rt:`这只猫好可怜`
    2015-12-11 17:27:01,我,:st:`是呗，瞧被你折磨的`
    2015-12-11 17:27:22,你,:rt:`走了`

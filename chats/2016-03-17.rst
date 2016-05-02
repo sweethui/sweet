@@ -15,7 +15,7 @@
    2016-03-17 09:26:58,我,:st:`回来和你说吧`
    2016-03-17 09:27:28,我,:st:`还是因为老毛说的太多了`
    2016-03-17 09:27:35,你,:rt:`哦`
-   2016-03-17 09:28:36,我,:st:`<msg><img hdlength="0" length="73792" cdnbigimgurl="" cdnmidimgurl="3043020100043c303a020100020410d7630002033d14bb020470803379020456ea084404186c6968756939303937363833335f313435383137383131360201000201000400" aeskey="eb7ecdea4d244d7d8a93022bfa85bfd6" cdnthumburl="3043020100043c303a020100020410d7630002033d14bb020470803379020456ea084404186c6968756939303937363833335f313435383137383131360201000201000400" cdnthumblength="3123" cdnthumbwidth="67" cdnthumbheight="120" cdnthumbaeskey="eb7ecdea4d244d7d8a93022bfa85bfd6" encryver="1"/><commenturl></commenturl></msg>`
+   2016-03-17 09:28:36,我,:st:`[图片]`
    2016-03-17 09:29:20,你,:rt:`淡定`
    2016-03-17 09:29:30,你,:rt:`别生事`
    2016-03-17 09:29:37,我,:st:`是`
@@ -128,7 +128,7 @@
    2016-03-17 13:18:46,你,:rt:`没有`
    2016-03-17 13:18:56,我,:st:`啊`
    2016-03-17 13:19:06,我,:st:`没睡着吗`
-   2016-03-17 13:25:30,我,:st:`<msg><appmsg appid="wx9c7fe8af5735e486"  sdkver="0"><title></title><des></des><action></action><type>2</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url></url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>60676</totallen><attachid>@cdn_3043020100043c303a020100020410d7630002030f53230204eba8fe36020456ea3fcf04186c6968756939303937363934365f313435383139323333300201000201000400_bd3866dda5474d5ca4f6ad282cb0e73c_1</attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnattachurl>3043020100043c303a020100020410d7630002030f53230204eba8fe36020456ea3fcf04186c6968756939303937363934365f313435383139323333300201000201000400</cdnattachurl><cdnthumburl>3043020100043c303a020100020410d7630002030f53230204eba8fe36020456ea3fcf04186c6968756939303937363934365f313435383139323333300201000201000400</cdnthumburl><cdnthumblength>15529</cdnthumblength><cdnthumbwidth>150</cdnthumbwidth><cdnthumbheight>267</cdnthumbheight><cdnthumbaeskey>bd3866dda5474d5ca4f6ad282cb0e73c</cdnthumbaeskey><aeskey>bd3866dda5474d5ca4f6ad282cb0e73c</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl></appmsg><appinfo><version>0</version><appname>WeicoPro 微博客户端</appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-03-17 13:25:30,我,:st:`[动画表情]`
    2016-03-17 13:27:56,你,:rt:`后边两个什么意思`
    2016-03-17 13:28:08,你,:rt:`like to be alone`
    2016-03-17 13:28:13,你,:rt:`like  the last one?`
@@ -156,7 +156,7 @@
    2016-03-17 15:29:06,我,:st:`好的`
    2016-03-17 15:47:28,我,:st:`你有空吗？给你分享一篇文章`
    2016-03-17 15:47:34,你,:rt:`好`
-   2016-03-17 15:47:53,我,:st:`<msg><appmsg appid="wxd5d193765919a447"  sdkver="0"><title>简书 | 一个死理性派的自我救赎</title><des>一个死理性派的自我救赎 文/子戈 人呢，都是理性和感性的结合体。理性时刻多于感性时刻的人，我们会说他是个理性的人；反之则是感性的人。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://www.wandoujia.com/items/-7907999977019717507?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3043020100043c303a020100020410d7630002030f53230204eba8fe36020456ea612a04186c6968756939303937363937345f313435383230303837330201000201000400</cdnthumburl><cdnthumblength>5380</cdnthumblength><cdnthumbwidth>150</cdnthumbwidth><cdnthumbheight>150</cdnthumbheight><cdnthumbaeskey>5320b4d557094225835c4bfb24fdbf4e</cdnthumbaeskey><aeskey>5320b4d557094225835c4bfb24fdbf4e</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl></appmsg><appinfo><version>0</version><appname>豌豆荚一览</appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-03-17 15:47:53,我,:st:`[动画表情]`
    2016-03-17 16:07:14,你,:rt:`看完了`
    2016-03-17 16:09:40,你,:rt:`你忙吗？`
    2016-03-17 16:09:59,我,:st:`有点，你说吧`

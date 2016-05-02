@@ -117,10 +117,7 @@
    2016-02-01 14:33:09,我,:st:`是`
    2016-02-01 14:39:32,我,:st:`笑什么呢`
    2016-02-01 14:40:00,你,:rt:`刚才看见一个朋友圈`
-   2016-02-01 14:40:29,你,:rt:`<?xml version="1.0"?>
-<msg>
-	<img aeskey="074ee4c74dda446aa8bbd8e53242941b" encryver="1" cdnthumbaeskey="074ee4c74dda446aa8bbd8e53242941b" cdnthumburl="3046020100043f303d020100020491db2f9002033d14b9020453e503b7020456aefddd041b77616e67787565736f6e6737333131345f313435343330383832380201000201000400" cdnthumblength="2736" cdnthumbheight="120" cdnthumbwidth="67" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3046020100043f303d020100020491db2f9002033d14b9020453e503b7020456aefddd041b77616e67787565736f6e6737333131345f313435343330383832380201000201000400" length="123071" md5="84124e9e4f75fe7db53bdec8b15ab8a5" />
-</msg>`
+   2016-02-01 14:40:29,你,:rt:`[图片]`
    2016-02-01 14:41:05,我,:st:`哈哈`
    2016-02-01 14:41:33,你,:rt:`是不是很逗`
    2016-02-01 14:42:38,我,:st:`是`
@@ -167,7 +164,7 @@
    2016-02-01 15:42:52,我,:st:`他们肯定会喊我`
    2016-02-01 15:42:53,你,:rt:`好耶`
    2016-02-01 15:42:58,你,:rt:`去 一定去啊`
-   2016-02-01 15:43:14,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="877C2C48CA39A9C4215B66C293E0BFCC" len = "91436" productid="com.tencent.xin.emoticon.ali2" androidmd5="877C2C48CA39A9C4215B66C293E0BFCC" androidlen="91436" s60v3md5 = "877C2C48CA39A9C4215B66C293E0BFCC" s60v3len="91436" s60v5md5 = "877C2C48CA39A9C4215B66C293E0BFCC" s60v5len="91436" cdnurl = "http://emoji.qpic.cn/wx_emoji/p6LhyTLgAdZ6KsaNJaw4ONQRZtmYTwicXqZZeLiaYiaDS6lOLYDSDzIcw/" designerid = "" thumburl = "http://mmbiz.qpic.cn/mmemoticon/dx4Y70y9Xcv4yfSKyEvKbYN9VwIibOFDnwNgssI4xj9nOoLPMN49oqQ/0" encrypturl = "http://emoji.qpic.cn/wx_emoji/XDFJcuaMDBQCETKFaNMnM0GOpEIhX3zicU0t1n8T1Bv9qSV2K6bdbzA/" aeskey= "d452ddccddc9a812b518e1d4ce9d5356" ></emoji> </msg>`
+   2016-02-01 15:43:14,你,:rt:`[动画表情]`
    2016-02-01 15:43:42,我,:st:`为了你我也要去呀`
    2016-02-01 15:49:56,你,:rt:`刚才王洪越 建了个群 我们要发红包 一次500 5个人抢`
    2016-02-01 15:50:01,你,:rt:`我晕`
@@ -207,7 +204,7 @@
    2016-02-01 16:13:27,我,:st:`好`
    2016-02-01 16:13:35,我,:st:`你命真好`
    2016-02-01 16:21:26,我,:st:`开会，无聊`
-   2016-02-01 16:21:43,我,:st:`<msg><emoji md5="ef88993a7aec866a181bcb97d6225f6a" type="2" len = "38478" cdnurl="(null)" productid="com.tencent.xin.emoticon.luoxiaohei"></emoji><gameext type="0" content="0" ></gameext></msg>`
+   2016-02-01 16:21:43,我,:st:`[动画表情]`
    2016-02-01 16:25:12,你,:rt:`哈哈`
    2016-02-01 16:25:41,你,:rt:`多的都被我得瑟出去了`
    2016-02-01 16:26:01,我,:st:`就你人品好`
@@ -242,15 +239,7 @@
    2016-02-01 17:23:32,你,:rt:`你参与了吗`
    2016-02-01 17:24:34,我,:st:`没有，主要是田说测试做不到，我是研发，不相关`
    2016-02-01 17:25:27,你,:rt:`好`
-   2016-02-01 17:35:50,你,:rt:`<msg>
-<appmsg appid=""  sdkver="0"><title>白头偕老不一定是真爱，也许是将就</title><des>更多精彩，请关注【360doc个人图书馆】 长按指纹，识别二维码！不信你试试！</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://mp.weixin.qq.com/s?__biz=MzA3MjQ1NjQxMA==&amp;mid=401347860&amp;idx=1&amp;sn=a1a3baaedd3eae3694bd12c321c6a893&amp;scene=1&amp;srcid=0201f2XGgmaqlvzFvANiERqD#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>304d020100044630440201000204251d1e2c02033d14b9020453e503b7020456af26f60422313432353237353737394063686174726f6f6d333737335f313435343233333536350201000201000400</cdnthumburl><cdnthumblength>7811</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>35316438353162323964373663393731</cdnthumbaeskey><aeskey>35316438353162323964373663393731</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_6a3bebd5a4fd</sourceusername><sourcedisplayname>360doc个人图书馆</sourcedisplayname><commenturl></commenturl><thumburl></thumburl>(null)<md5></md5></appmsg>
-<fromusername>lihui9097</fromusername>
-<scene>0</scene>
-<appinfo>
-<version>1</version>
-<appname></appname>
-</appinfo>
-<commenturl></commenturl></msg>`
+   2016-02-01 17:35:50,你,:rt:`[动画表情]`
    2016-02-01 18:04:44,你,:rt:`你别生气了，`
    2016-02-01 18:07:42,你,:rt:`你生气也是气着自己，何苦`
    2016-02-01 18:07:55,我,:st:`没事`

@@ -37,7 +37,7 @@
    2016-03-09 11:26:33,我,:st:`被禁了`
    2016-03-09 11:26:42,你,:rt:`这是啥`
    2016-03-09 11:27:06,我,:st:`我在给你找吧，这个是在 Mac 下使用 Windows 的虚机`
-   2016-03-09 11:59:03,我,:st:`<msg><appmsg appid="wxe082de20d41f6240"  sdkver="0"><title>这一切会在二三十年内发生。当前家庭制度的弊端以很明显//@孙明明_SmarterChina:需求导致现象，现象导致稳定的社会心理，社会心理维持状态，新需求与现象出现，当前社会心理与新现象博弈，当前社会心理退场，新现象形成新的社会心理。当前社会心理是维持专偶和家庭，但专偶和家庭迟早是会解体的。</title><des>按照恩格斯的理解，专偶婚家庭的出现，是要生育有确凿无疑的生父的子女，因为子女要继承父家长的财产。那么，是不是意味着DNA技术的出现，就会从根本上颠覆家庭存在的必要性。所以啊，文科的东西，即使是经典，也都说说而已啦。不要当真。如若视为教条，那还不如没有的好。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://weibo.com/1932835417/DlpbqcTV6</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3041020100043a3038020100020410d7630002030f4437020419200d6f020456df9f87041666696c6568656c706572355f313435373439353835330201000201000400</cdnthumburl><cdnthumblength>4822</cdnthumblength><cdnthumbwidth>180</cdnthumbwidth><cdnthumbheight>180</cdnthumbheight><cdnthumbaeskey>fb823c5ac35f42bda09518408222c110</cdnthumbaeskey><aeskey>fb823c5ac35f42bda09518408222c110</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl></appmsg><appinfo><version>0</version><appname>Moke</appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-03-09 11:59:03,我,:st:`[动画表情]`
    2016-03-09 13:16:30,我,:st:`睡醒了`
    2016-03-09 13:34:35,你,:rt:`你儿子是在二中呢吗？`
    2016-03-09 13:34:59,我,:st:`是，怎么啦`
@@ -47,7 +47,7 @@
    2016-03-09 13:36:30,你,:rt:`是`
    2016-03-09 13:40:35,我,:st:`给你转个文章看`
    2016-03-09 13:40:41,你,:rt:`好`
-   2016-03-09 13:41:06,我,:st:`<msg><appmsg appid=""  sdkver="0"><title>比起三千傻白甜，我却爱你野心勃勃的脸</title><des>女性难道不能天然就拥有野心吗？她的欲望、奋斗、心机，全要出自情非得已？而她本来的全部梦想，总不过是“嫁给这世上最好的男子”？</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://mp.weixin.qq.com/s?__biz=MzA3NDg1NTIyNw==&amp;mid=401577951&amp;idx=1&amp;sn=87dbea0a54a39f85c90bc29a1188cb5c&amp;scene=1&amp;srcid=0309jxLbaAkkn9ZncU2bEaQH#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>304c020100044530430201000204127b5a8b02030f4437020419200d6f020456dfb77804213631323835353337354063686174726f6f6d373637315f313435373435343336390201000201000400</cdnthumburl><cdnthumblength>9892</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>b98ceef4e2634ae88b8f201cd3e7eb8f</cdnthumbaeskey><aeskey>b98ceef4e2634ae88b8f201cd3e7eb8f</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_c2115bbeae10</sourceusername><sourcedisplayname>花儿街参考</sourcedisplayname><commenturl></commenturl><thumburl></thumburl></appmsg><appinfo><version>0</version><appname></appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-03-09 13:41:06,我,:st:`[动画表情]`
    2016-03-09 13:52:42,你,:rt:`看完了`
    2016-03-09 13:52:50,你,:rt:`你喜欢傻白甜还是野心家啊`
    2016-03-09 13:52:57,我,:st:`你说呢`
@@ -202,7 +202,7 @@
    2016-03-09 15:46:41,我,:st:`对呀`
    2016-03-09 15:46:56,你,:rt:`所以我也在慢慢消化你说的话`
    2016-03-09 15:47:12,你,:rt:`但毕竟还是有很大差距`
-   2016-03-09 15:47:13,我,:st:`<msg><appmsg appid="wxd5d193765919a447"  sdkver="0"><title>壹心理 | 男女之间真的存在纯友谊么？</title><des>文：长消莫卒丨壹心理专栏作者 凡能成为密友的都带着爱。 有人认为男女之间关系的根本都是性的；有人却认为确实有男姐们儿、女哥们儿的存在。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://www.wandoujia.com/items/4435932062889178761?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3043020100043c303a020100020410d7630002030f4437020419200d6f020456dfd50904186c6968756939303937353034305f313435373530393633330201000201000400</cdnthumburl><cdnthumblength>5637</cdnthumblength><cdnthumbwidth>150</cdnthumbwidth><cdnthumbheight>150</cdnthumbheight><cdnthumbaeskey>c1892d4ceab446f8ab733c2ac9fac48c</cdnthumbaeskey><aeskey>c1892d4ceab446f8ab733c2ac9fac48c</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl></appmsg><appinfo><version>0</version><appname>豌豆荚一览</appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-03-09 15:47:13,我,:st:`[动画表情]`
    2016-03-09 15:47:21,我,:st:`你看看这个`
    2016-03-09 15:57:55,你,:rt:`你说人类会发明出机器人吗`
    2016-03-09 15:58:07,你,:rt:`类似人的`

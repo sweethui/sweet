@@ -125,7 +125,7 @@
    2016-01-25 15:27:55,你,:rt:`好难过`
    2016-01-25 15:28:17,我,:st:`天下没有不散的宴席`
    2016-01-25 15:28:32,我,:st:`分手是必然的`
-   2016-01-25 15:29:47,我,:st:`<msg><appmsg appid="wxd5d193765919a447"  sdkver="0"><title>壹心理 | 比起经济独立，中国女性更需要精神独立</title><des>文：斑马丨壹心理专栏作者 女人多大算大龄？ 这是一个女孩前几天问我的问题。我反问：那你多大？她说，我89年的，担心再不结婚就嫁不出去了。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://www.wandoujia.com/items/7127795808429060952?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3044020100043d303b020100020410d7630002030f44370204c0240d6f020456a5cef104196c696875693930393733343031375f313435333730363938370201000201000400</cdnthumburl><cdnthumblength>5581</cdnthumblength><cdnthumbwidth>150</cdnthumbwidth><cdnthumbheight>150</cdnthumbheight><cdnthumbaeskey>65363566326264613138646334343730</cdnthumbaeskey><aeskey>65363566326264613138646334343730</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl>(null)</appmsg><appinfo><version>0</version><appname>豌豆荚一览</appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-01-25 15:29:47,我,:st:`[动画表情]`
    2016-01-25 15:31:14,你,:rt:`哎 没准除了你 别人有知道的 只是他没告诉我而已`
    2016-01-25 15:31:46,我,:st:`你是说刘甲辞职`
    2016-01-25 15:31:55,你,:rt:`是`

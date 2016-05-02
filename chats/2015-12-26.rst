@@ -67,50 +67,7 @@
    2015-12-26 11:04:51,你,:rt:`我今天有点事`
    2015-12-26 11:05:11,你,:rt:`先不看那书了 有个文档我先看下`
    2015-12-26 11:05:20,我,:st:`好`
-   2015-12-26 12:53:28,我,:st:`<?xml version="1.0"?>
-<msg>
-	<appmsg appid="" sdkver="0">
-		<title>关于需求的11个真相 - 简书</title>
-		<des>http://www.jianshu.com/p/8990d79db7c0</des>
-		<action />
-		<type>5</type>
-		<showtype>0</showtype>
-		<mediatagname />
-		<messageext />
-		<messageaction />
-		<content />
-		<url>http://www.jianshu.com/p/8990d79db7c0</url>
-		<lowurl />
-		<dataurl />
-		<lowdataurl />
-		<appattach>
-			<totallen>0</totallen>
-			<attachid />
-			<emoticonmd5 />
-			<fileext>304b02010004443042020100020410d7630002030f443702045f881e6f0204567e1d42042077616e67787565736f6e673733315f6d73655f313435313130353630373633330201000201000400</fileext>
-			<cdnthumburl>304b02010004443042020100020410d7630002030f443702045f881e6f0204567e1d42042077616e67787565736f6e673733315f6d73655f313435313130353630373633330201000201000400</cdnthumburl>
-			<cdnthumblength>4282</cdnthumblength>
-			<cdnthumbwidth>120</cdnthumbwidth>
-			<cdnthumbheight>94</cdnthumbheight>
-			<cdnthumbaeskey>d18dee8630e522110d7459439396c30c</cdnthumbaeskey>
-			<aeskey>d18dee8630e522110d7459439396c30c</aeskey>
-			<encryptver>0</encryptver>
-		</appattach>
-		<extinfo />
-		<sourceusername />
-		<sourcedisplayname />
-		<commenturl />
-		<thumburl />
-		<md5>adf54951eabb49f7d6c9f9c3fc5ccbed</md5>
-	</appmsg>
-	<fromusername>wangxuesong73</fromusername>
-	<scene>0</scene>
-	<appinfo>
-		<version>1</version>
-		<appname></appname>
-	</appinfo>
-	<commenturl></commenturl>
-</msg>`
+   2015-12-26 12:53:28,我,:st:`[动画表情]`
    2015-12-26 13:10:08,我,:st:`你没回宿舍睡觉吗`
    2015-12-26 13:10:16,你,:rt:`没有`
    2015-12-26 13:10:45,我,:st:`应该回去睡一会`
@@ -144,15 +101,15 @@
    2015-12-26 13:18:44,我,:st:`没注意，当时脑子都在干活呢`
    2015-12-26 13:19:35,我,:st:`对不起，真的不是故意的`
    2015-12-26 13:20:20,我,:st:`真对不起`
-   2015-12-26 13:21:17,我,:st:`<msg><emoji md5="cd014a6611cccd03c73b83e17e967f60" type="2" len = "18554" cdnurl="(null)" productid="com.tencent.xin.emoticon.puppytime"></emoji><gameext type="0" content="0" ></gameext></msg>`
+   2015-12-26 13:21:17,我,:st:`[动画表情]`
    2015-12-26 13:21:48,你,:rt:`算了，你歇会吧`
    2015-12-26 13:22:14,我,:st:`我得赶紧干活，好待会陪你`
    2015-12-26 13:22:57,你,:rt:`你忙吧`
    2015-12-26 13:23:24,我,:st:`你不会不理我吧[委屈]`
    2015-12-26 13:23:34,你,:rt:`不会啊，你忙吧`
-   2015-12-26 13:24:08,我,:st:`<msg><emoji md5="a7e1d52e48ab94856b3893296dc906af" type="2" len = "58370" cdnurl="(null)" productid="com.tencent.xin.emoticon.puppytime"></emoji><gameext type="0" content="0" ></gameext></msg>`
+   2015-12-26 13:24:08,我,:st:`[动画表情]`
    2015-12-26 13:27:25,你,:rt:`不喜欢这个表情`
-   2015-12-26 13:27:52,我,:st:`<msg><emoji md5="bc4f31a4ca3973ce7e3d766cebf5b9fd" type="2" len = "45613" cdnurl="(null)" productid="com.tencent.xin.emoticon.atom"></emoji><gameext type="0" content="0" ></gameext></msg>`
+   2015-12-26 13:27:52,我,:st:`[动画表情]`
    2015-12-26 13:59:37,我,:st:`我更新了文档，你先看一眼吧`
    2015-12-26 13:59:52,你,:rt:`哦`
    2015-12-26 14:01:24,你,:rt:`我看完了`
@@ -252,7 +209,7 @@
    2015-12-26 14:20:41,我,:st:`我是真的不爱吃鸡`
    2015-12-26 14:20:45,你,:rt:`行啦`
    2015-12-26 14:20:48,你,:rt:`别说这个了`
-   2015-12-26 14:21:00,我,:st:`<msg><emoji md5="bc4f31a4ca3973ce7e3d766cebf5b9fd" type="2" len = "45613" cdnurl="(null)" productid="com.tencent.xin.emoticon.atom"></emoji><gameext type="0" content="0" ></gameext></msg>`
+   2015-12-26 14:21:00,我,:st:`[动画表情]`
    2015-12-26 14:21:09,你,:rt:`你一说我都觉得恶心了`
    2015-12-26 14:21:24,我,:st:`不说了`
    2015-12-26 14:21:37,我,:st:`你下午几点走`

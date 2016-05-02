@@ -4,12 +4,4 @@
 .. csv-table::
    :widths: 25, 1, 60
 
-   2016-04-03 11:14:22,你,:rt:`<msg>
-<appmsg appid=""  sdkver="0"><title>CAT |“再见啦，福丸，我最最亲爱的福丸...”</title><des>奶奶和白猫，相守是最温暖的承诺。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://mp.weixin.qq.com/s?__biz=MzI4NTEzMjg3Mw==&amp;mid=403443684&amp;idx=1&amp;sn=2e42a918f09befac854fcb0e6cee2125&amp;scene=1&amp;srcid=0402AID9xY0Ude1lIjVKQTYi#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>304c02010004453043020100020491db2f9002032dcdc9020427a4b73d020457008a8d0421777869645f36383038353138303834383131373430385f313435393635333234300201000201000400</cdnthumburl><cdnthumblength>6274</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>718a9783c7b74c3dbbd9cf0723eacffe</cdnthumbaeskey><aeskey>718a9783c7b74c3dbbd9cf0723eacffe</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_3c416664a368</sourceusername><sourcedisplayname>有粮吃</sourcedisplayname><commenturl></commenturl><thumburl></thumburl><md5></md5></appmsg>
-<fromusername>lihui9097</fromusername>
-<scene>0</scene>
-<appinfo>
-<version>1</version>
-<appname></appname>
-</appinfo>
-<commenturl></commenturl></msg>`
+   2016-04-03 11:14:22,你,:rt:`[动画表情]`

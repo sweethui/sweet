@@ -247,7 +247,7 @@
    2016-03-11 18:19:14,你,:rt:`你们组的疯了吧`
    2016-03-11 18:19:15,我,:st:`我带你的时候你也有`
    2016-03-11 18:19:22,我,:st:`只是我比较包容你`
-   2016-03-11 18:19:34,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="95a4b1d1bdc5c7e6d05e88a00401b6bb" len = "110186" productid="com.tencent.xin.emoticon.luoxiaohei" androidmd5="95a4b1d1bdc5c7e6d05e88a00401b6bb" androidlen="110186" s60v3md5 = "95a4b1d1bdc5c7e6d05e88a00401b6bb" s60v3len="110186" s60v5md5 = "95a4b1d1bdc5c7e6d05e88a00401b6bb" s60v5len="110186" cdnurl = "http://emoji.qpic.cn/wx_emoji/40hgibhiaFqH3dLNf2AYiaRS7Nqoic2jibTsS9l2ia731tUHga6uuH7hVR9A/" designerid = "" thumburl = "http://mmbiz.qpic.cn/mmemoticon/dx4Y70y9XcufXAOmG9vIO1lo6bfEd0tSbOnaqIXGv8J5vxQ8c2ViaMQ/0" encrypturl = "http://emoji.qpic.cn/wx_emoji/RYcJ46LLSDpQduYLP20gaKicdicLS4micbXAquzb0NHnXf4Q3qb7icBWPQ/" aeskey= "93ed8173d4067dc648a0383ce807414e" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
+   2016-03-11 18:19:34,你,:rt:`[动画表情]`
    2016-03-11 18:19:46,我,:st:`这也算是一种修炼吧`
    2016-03-11 18:19:50,你,:rt:`是`
    2016-03-11 18:20:32,我,:st:`你老说我很乐观，其实是我已经经过了这个阶段`

@@ -185,10 +185,7 @@
    2016-04-21 16:16:49,我,:st:`我不想管了`
    2016-04-21 16:16:56,我,:st:`辞职算了`
    2016-04-21 16:17:01,你,:rt:`哈哈`
-   2016-04-21 16:17:40,你,:rt:`<?xml version="1.0"?>
-<msg>
-	<img aeskey="f8443e1a0861448ab1cddd651e1e8856" encryver="1" cdnthumbaeskey="f8443e1a0861448ab1cddd651e1e8856" cdnthumburl="3046020100043f303d020100020491db2f9002033d14b9020456e503b7020457188ca4041b77616e67787565736f6e6737333138325f313436313232363635380201000201000400" cdnthumblength="4681" cdnthumbheight="120" cdnthumbwidth="85" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3046020100043f303d020100020491db2f9002033d14b9020456e503b7020457188ca4041b77616e67787565736f6e6737333138325f313436313232363635380201000201000400" length="100333" md5="5a3c7be5bead172819586bd8817d51be" />
-</msg>`
+   2016-04-21 16:17:40,你,:rt:`[图片]`
    2016-04-21 16:17:52,你,:rt:`你看看他们的后脑勺`
    2016-04-21 16:17:56,我,:st:`哈哈`
    2016-04-21 16:18:05,你,:rt:`是不是很可爱`
@@ -250,7 +247,7 @@
    2016-04-21 17:17:53,我,:st:`没办法`
    2016-04-21 17:18:22,我,:st:`亲，我有多久没给你备份手机了？`
    2016-04-21 17:18:33,你,:rt:`不知道`
-   2016-04-21 17:18:48,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="7c495f663307af0d15672f528f6dd011" len = "32656" productid="com.tencent.xin.emoticon.luoxiaohei" androidmd5="7c495f663307af0d15672f528f6dd011" androidlen="32656" s60v3md5 = "7c495f663307af0d15672f528f6dd011" s60v3len="32656" s60v5md5 = "7c495f663307af0d15672f528f6dd011" s60v5len="32656" cdnurl = "http://emoji.qpic.cn/wx_emoji/4BFdmpxrqZfdGOGiaIStZ7k3mlx03mpWCZmhbOaWpWllhgemuYiavKSQ/" designerid = "" thumburl = "http://mmbiz.qpic.cn/mmemoticon/dx4Y70y9XcufXAOmG9vIO8yU9H8RFbYUo9Nc5Q4eKCpsLCgqSbJDIw/0" encrypturl = "http://emoji.qpic.cn/wx_emoji/Sk0WBibkjqj6FqgReGybibBTd8kgTHafQM29YHFVyK2DKICOn09aGiaLg/" aeskey= "5c4d413d613e9313e13ae4f9ed6bffb9" width= "240" height= "240" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
+   2016-04-21 17:18:48,你,:rt:`[动画表情]`
    2016-04-21 17:18:52,我,:st:`赶紧给你备份吧`
    2016-04-21 17:18:56,我,:st:`哈哈`
    2016-04-21 17:19:01,我,:st:`好可爱`
@@ -366,7 +363,7 @@
    2016-04-21 18:27:30,我,:st:`我也打算走`
    2016-04-21 18:27:31,你,:rt:`我老公来接我了`
    2016-04-21 18:27:37,你,:rt:`我不想让他等我`
-   2016-04-21 18:27:40,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="95a4b1d1bdc5c7e6d05e88a00401b6bb" len = "110186" productid="com.tencent.xin.emoticon.luoxiaohei" androidmd5="95a4b1d1bdc5c7e6d05e88a00401b6bb" androidlen="110186" s60v3md5 = "95a4b1d1bdc5c7e6d05e88a00401b6bb" s60v3len="110186" s60v5md5 = "95a4b1d1bdc5c7e6d05e88a00401b6bb" s60v5len="110186" cdnurl = "http://emoji.qpic.cn/wx_emoji/40hgibhiaFqH3dLNf2AYiaRS7Nqoic2jibTsS9l2ia731tUHga6uuH7hVR9A/" designerid = "" thumburl = "http://mmbiz.qpic.cn/mmemoticon/dx4Y70y9XcufXAOmG9vIO1lo6bfEd0tSbOnaqIXGv8J5vxQ8c2ViaMQ/0" encrypturl = "http://emoji.qpic.cn/wx_emoji/RYcJ46LLSDpQduYLP20gaKicdicLS4micbXAquzb0NHnXf4Q3qb7icBWPQ/" aeskey= "93ed8173d4067dc648a0383ce807414e" width= "240" height= "240" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
+   2016-04-21 18:27:40,你,:rt:`[动画表情]`
    2016-04-21 18:27:49,我,:st:`唉`
    2016-04-21 18:27:50,你,:rt:`没办法带你了`
    2016-04-21 18:27:54,你,:rt:`唉`

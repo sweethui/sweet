@@ -119,7 +119,7 @@
    2016-04-15 14:46:42,你,:rt:`你跟我说说树村呗，`
    2016-04-15 14:46:55,我,:st:`回来再说`
    2016-04-15 14:47:04,我,:st:`给你看个东西`
-   2016-04-15 14:47:32,我,:st:`<msg><appmsg appid=""  sdkver="0"><title>男女关系之二：男性性策略</title><des>人类不像动物靠体力争夺配偶，对男人来说，权力、财富、名望才是性竞争力的体现，虽然进取型的男人拥有强大竞争力，</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://mp.weixin.qq.com/s?__biz=MjM5NzQwNjcyMQ==&amp;mid=201129120&amp;idx=3&amp;sn=4ff8bc366817c6fe9325e37bc946efeb&amp;scene=1&amp;srcid=0414zxaPsyMRLLC9GtpSVK98#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3044020100043d303b020100020410d7630002030f4437020495250d6f020457108e8804196c696875693930393731323536395f313436303730323835320201000201000400</cdnthumburl><cdnthumblength>4343</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>35cb1034b7954147a7e94c3d1edcc217</cdnthumbaeskey><aeskey>35cb1034b7954147a7e94c3d1edcc217</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_58b42b81e073</sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl></appmsg><appinfo><version>0</version><appname></appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-04-15 14:47:32,我,:st:`[动画表情]`
    2016-04-15 14:48:12,你,:rt:`好吧`
    2016-04-15 14:49:27,你,:rt:`刚才燕丹说18号要出splunk`
    2016-04-15 14:49:30,你,:rt:`结果`

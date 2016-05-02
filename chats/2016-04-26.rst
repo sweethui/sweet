@@ -10,7 +10,7 @@
    2016-04-26 08:47:32,我,:st:`是`
    2016-04-26 08:47:40,你,:rt:`真的吗？`
    2016-04-26 08:48:33,我,:st:`对呀，只要没事我就去`
-   2016-04-26 09:01:40,我,:st:`<msg><img hdlength="0" length="50414" cdnbigimgurl="" cdnmidimgurl="3044020100043d303b020100020410d7630002033d0af70204128e1e6f0204571ebdf404196c696875693930393731353339355f313436313633323530300201000201000400" aeskey="c62728f06a7d4ad88f01f48d63dae8c4" cdnthumburl="3044020100043d303b020100020410d7630002033d0af70204128e1e6f0204571ebdf404196c696875693930393731353339355f313436313633323530300201000201000400" cdnthumblength="2881" cdnthumbwidth="120" cdnthumbheight="120" cdnthumbaeskey="c62728f06a7d4ad88f01f48d63dae8c4" encryver="1"/><commenturl></commenturl><MMAsset><m_assetUrlForSystem><![CDATA[C0D34E4C-53EF-47A1-8615-FFB87ABC5EB0/L0/001]]></m_assetUrlForSystem><m_isNeedOriginImage>0</m_isNeedOriginImage><m_isFailedFromIcloud>0</m_isFailedFromIcloud><m_isLoadingFromIcloud>0</m_isLoadingFromIcloud></MMAsset></msg>`
+   2016-04-26 09:01:40,我,:st:`[图片]`
    2016-04-26 09:26:57,我,:st:`今天几个人打球`
    2016-04-26 09:57:28,你,:rt:`张蓓蓓、张明静、王国华、赵兴华、耿燕、陈彪、张翠萍、李辉`
    2016-04-26 09:57:56,我,:st:`车够吗`
@@ -172,7 +172,7 @@
    2016-04-26 12:53:06,你,:rt:`你一喊 我就睡不着了 想听发生啥事了`
    2016-04-26 12:53:09,你,:rt:`没事拉`
    2016-04-26 12:53:14,你,:rt:`我睡了一会了`
-   2016-04-26 12:54:10,我,:st:`<msg><appmsg appid=""  sdkver="0"><title>» 沐猿而冠·附录·何为理性动物</title><des>http://headsalon.org/archives/6814.html</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://headsalon.org/archives/6814.html</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl><statextstr></statextstr></appmsg><appinfo><version>0</version><appname></appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-04-26 12:54:10,我,:st:`[动画表情]`
    2016-04-26 12:54:34,我,:st:`你看看这个`
    2016-04-26 12:54:40,你,:rt:`哦`
    2016-04-26 13:07:22,你,:rt:`看完了`
@@ -197,8 +197,8 @@
    2016-04-26 13:16:07,你,:rt:`太多了`
    2016-04-26 13:16:15,我,:st:`我再给你一次吧`
    2016-04-26 13:16:30,你,:rt:`恩`
-   2016-04-26 13:16:43,我,:st:`<msg><appmsg appid=""  sdkver="0"><title>男女关系之一：纠结的一夫一妻制</title><des>尽管多数人类会结成单偶制家庭，但无论在生理还是心理上，配偶关系都未必和谐。两性关系的纠结冲突，源自人类的两难境地。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://mp.weixin.qq.com/s?__biz=MjM5NzQwNjcyMQ==&amp;mid=200913345&amp;idx=1&amp;sn=234ab8bb91355051c49203a41e1f1892&amp;scene=1&amp;srcid=0414eLVipFpuDjyseWlfEdla#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3044020100043d303b020100020410d7630002033d0af702047c8e1e6f0204571ef9bf04196c696875693930393731353538325f313436313634373830330201000201000400</cdnthumburl><cdnthumbmd5>7d2149b7b093a61042f7ecef2abb012a</cdnthumbmd5><cdnthumblength>2654</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>78c0e3a960564660b166ff76160f6e67</cdnthumbaeskey><aeskey>78c0e3a960564660b166ff76160f6e67</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_58b42b81e073</sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl><statextstr></statextstr></appmsg><appinfo><version>0</version><appname></appname><isforceupdate>1</isforceupdate></appinfo></msg>`
-   2016-04-26 13:16:51,我,:st:`<msg><appmsg appid=""  sdkver="0"><title>男女关系之二：男性性策略</title><des>人类不像动物靠体力争夺配偶，对男人来说，权力、财富、名望才是性竞争力的体现，虽然进取型的男人拥有强大竞争力，</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://mp.weixin.qq.com/s?__biz=MjM5NzQwNjcyMQ==&amp;mid=201129120&amp;idx=3&amp;sn=4ff8bc366817c6fe9325e37bc946efeb&amp;scene=1&amp;srcid=0414zxaPsyMRLLC9GtpSVK98#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3044020100043d303b020100020410d7630002033d0af702047c8e1e6f0204571ef9c604196c696875693930393731353538335f313436313634373831310201000201000400</cdnthumburl><cdnthumbmd5>8783f47b5a0ff4049453182cf63980dc</cdnthumbmd5><cdnthumblength>4343</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>6ce8611f2677491caef991655af6dc06</cdnthumbaeskey><aeskey>6ce8611f2677491caef991655af6dc06</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_58b42b81e073</sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl><statextstr></statextstr></appmsg><appinfo><version>0</version><appname></appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-04-26 13:16:43,我,:st:`[动画表情]`
+   2016-04-26 13:16:51,我,:st:`[动画表情]`
    2016-04-26 13:26:16,我,:st:`这几天忙都忘了问你，你姐怎么样了`
    2016-04-26 13:27:26,你,:rt:`她早好了 没事`
    2016-04-26 13:27:38,我,:st:`好的`

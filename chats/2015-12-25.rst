@@ -11,10 +11,7 @@
    2015-12-25 08:44:09,我,:st:`你是说梦龙吧`
    2015-12-25 08:47:44,你,:rt:`不知道`
    2015-12-25 08:48:11,我,:st:`你从哪看来的开会`
-   2015-12-25 08:48:33,你,:rt:`<?xml version="1.0"?>
-<msg>
-	<img aeskey="ddd39a87c779402c86125cc62bb61dbe" encryver="1" cdnthumbaeskey="ddd39a87c779402c86125cc62bb61dbe" cdnthumburl="3044020100043d303b020100020491db2f9002030f44370204f4240d6f0204567c9261041977616e67787565736f6e673733385f313435313030343531320201000201000400" cdnthumblength="2795" cdnthumbheight="120" cdnthumbwidth="67" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3044020100043d303b020100020491db2f9002030f44370204f4240d6f0204567c9261041977616e67787565736f6e673733385f313435313030343531320201000201000400" length="162523" md5="f588bf03b705adac640261c12febc257" />
-</msg>`
+   2015-12-25 08:48:33,你,:rt:`[图片]`
    2015-12-25 08:49:04,我,:st:`说的是一件事`
    2015-12-25 08:49:10,我,:st:`你不知道上下文`
    2015-12-25 08:49:38,我,:st:`那海涛推荐奖下来了，我们让他请客`
@@ -41,7 +38,7 @@
    2015-12-25 09:13:26,我,:st:`王旭有压力了`
    2015-12-25 09:22:40,我,:st:`借机又训他一次`
    2015-12-25 09:23:02,你,:rt:`你怎么这样`
-   2015-12-25 09:23:19,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="D02EEA7E1B7BBBA3C18731AA55CCE8BC" len = "52450" productid="com.tencent.xin.emoticon.ali2" androidmd5="D02EEA7E1B7BBBA3C18731AA55CCE8BC" androidlen="52450" s60v3md5 = "D02EEA7E1B7BBBA3C18731AA55CCE8BC" s60v3len="52450" s60v5md5 = "D02EEA7E1B7BBBA3C18731AA55CCE8BC" s60v5len="52450" cdnurl = "http://emoji.qpic.cn/wx_emoji/xIza7y79e8Rw3t7mDic73JDKhsNNRq4ibCTbIyCBNibQaHRmLiciapxia2FQ/" designerid = "" thumburl = "http://mmbiz.qpic.cn/mmemoticon/dx4Y70y9Xcv4yfSKyEvKbUYjCXwIJTHTo8hsyEJUF7Gtj6O50Rllbg/0" encrypturl = "" aeskey= "" ></emoji> </msg>`
+   2015-12-25 09:23:19,你,:rt:`[动画表情]`
    2015-12-25 09:23:32,我,:st:`总得找点由头吧`
    2015-12-25 09:24:41,我,:st:`拖延一下时间，好多看你几眼`
    2015-12-25 09:32:46,你,:rt:`吃不了了怎么办`
@@ -119,7 +116,7 @@
    2015-12-25 11:25:12,我,:st:`所以我才喜欢和你说`
    2015-12-25 11:54:02,我,:st:`中午又和领导去吃饭，还有田`
    2015-12-25 11:54:46,我,:st:`[流汗]`
-   2015-12-25 12:06:38,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="10f99ca36a2d68f86f1a5ccf8587608b" len = "135912" productid="com.tencent.xin.emoticon.ali2" androidmd5="10f99ca36a2d68f86f1a5ccf8587608b" androidlen="135912" s60v3md5 = "10f99ca36a2d68f86f1a5ccf8587608b" s60v3len="135912" s60v5md5 = "10f99ca36a2d68f86f1a5ccf8587608b" s60v5len="135912" cdnurl = "http://emoji.qpic.cn/wx_emoji/bXLQ2CQtPMq3FZAVaFoiaN6sIkBiacT5oh7pNHbvibM84C48xyu7voictg/" designerid = "" thumburl = "http://mmbiz.qpic.cn/mmemoticon/dx4Y70y9Xcv4yfSKyEvKbRzwejH3DQOrMpQUiaTwfretPcXCbhvcOFg/0" encrypturl = "" aeskey= "" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
+   2015-12-25 12:06:38,你,:rt:`[动画表情]`
    2015-12-25 12:10:23,我,:st:`[抓狂]`
    2015-12-25 15:43:49,我,:st:`干什么呢`
    2015-12-25 15:44:02,你,:rt:`洪越让我统计文档页数呢`

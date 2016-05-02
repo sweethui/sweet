@@ -71,10 +71,7 @@
    2015-12-07 16:09:26,你,:rt:`不好看`
    2015-12-07 16:09:32,你,:rt:`手机看不出分页来`
    2015-12-07 16:10:12,我,:st:`哦，最上面没有sheet页标签吗？`
-   2015-12-07 16:11:00,你,:rt:`<?xml version="1.0"?>
-<msg>
-	<img aeskey="c1b1a6c0b38c4cf7b1553f093d796c80" encryver="1" cdnthumbaeskey="c1b1a6c0b38c4cf7b1553f093d796c80" cdnthumburl="3045020100043e303c020100020491db2f9002030f52be020446ce69b8020456653f12041a77616e67787565736f6e67373336385f313434393437353835360201000201000400" cdnthumblength="3775" cdnthumbheight="120" cdnthumbwidth="67" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3045020100043e303c020100020491db2f9002030f52be020446ce69b8020456653f12041a77616e67787565736f6e67373336385f313434393437353835360201000201000400" length="319083" md5="db967f8a44f471b9581191314e3bcf88" />
-</msg>`
+   2015-12-07 16:11:00,你,:rt:`[图片]`
    2015-12-07 16:11:10,我,:st:`你把网址发给我`
    2015-12-07 16:11:47,你,:rt:`http://1drv.ms/1fvLiMX`
    2015-12-07 16:12:19,你,:rt:`我能用电脑看吗？`
@@ -85,9 +82,9 @@
    2015-12-07 16:15:28,你,:rt:`截下图呗`
    2015-12-07 16:15:56,你,:rt:`看不到`
    2015-12-07 16:16:32,我,:st:`说错了，是右边`
-   2015-12-07 16:16:50,我,:st:`<msg><img hdlength="0" length="144353" cdnbigimgurl="" cdnmidimgurl="3042020100043b3039020100020410d7630002030f525902043f94cdcb02045665407304176c69687569393039373837335f313434393437363231300201000201000400" aeskey="edb9f20350524d53be1dc00c585fded4" cdnthumburl="3042020100043b3039020100020410d7630002030f525902043f94cdcb02045665407304176c69687569393039373837335f313434393437363231300201000201000400" cdnthumblength="3926" cdnthumbwidth="67" cdnthumbheight="120" cdnthumbaeskey="edb9f20350524d53be1dc00c585fded4" encryver="1"/><commenturl></commenturl><MMAsset><m_assetUrlForSystem><![CDATA[88670664-32E0-414B-A1B5-27C10A9E5D8F/L0/001]]></m_assetUrlForSystem><m_isNeedOriginImage>0</m_isNeedOriginImage><m_isFailedFromIcloud>0</m_isFailedFromIcloud><m_isLoadingFromIcloud>0</m_isLoadingFromIcloud></MMAsset></msg>`
-   2015-12-07 16:16:51,我,:st:`<msg><img hdlength="0" length="72829" cdnbigimgurl="" cdnmidimgurl="3042020100043b3039020100020410d7630002030f525902043f94cdcb02045665407604176c69687569393039373837345f313434393437363231310201000201000400" aeskey="3b9d6f805af844be83bc13ce28b0b656" cdnthumburl="3042020100043b3039020100020410d7630002030f525902043f94cdcb02045665407604176c69687569393039373837345f313434393437363231310201000201000400" cdnthumblength="2331" cdnthumbwidth="67" cdnthumbheight="120" cdnthumbaeskey="3b9d6f805af844be83bc13ce28b0b656" encryver="1"/><commenturl></commenturl><MMAsset><m_assetUrlForSystem><![CDATA[E0CF624A-555A-46A4-BA56-A27CA9A24842/L0/001]]></m_assetUrlForSystem><m_isNeedOriginImage>0</m_isNeedOriginImage><m_isFailedFromIcloud>0</m_isFailedFromIcloud><m_isLoadingFromIcloud>0</m_isLoadingFromIcloud></MMAsset></msg>`
-   2015-12-07 16:16:52,我,:st:`<msg><img hdlength="0" length="23888" cdnbigimgurl="" cdnmidimgurl="3042020100043b3039020100020410d7630002030f525902043f94cdcb02045665407704176c69687569393039373837355f313434393437363231320201000201000400" aeskey="51d88a1d2a2c4fa488ea7ec3459244ab" cdnthumburl="3042020100043b3039020100020410d7630002030f525902043f94cdcb02045665407704176c69687569393039373837355f313434393437363231320201000201000400" cdnthumblength="1564" cdnthumbwidth="67" cdnthumbheight="120" cdnthumbaeskey="51d88a1d2a2c4fa488ea7ec3459244ab" encryver="1"/><commenturl></commenturl><MMAsset><m_assetUrlForSystem><![CDATA[0C32324B-F01F-4F1B-A275-A04087312CE7/L0/001]]></m_assetUrlForSystem><m_isNeedOriginImage>0</m_isNeedOriginImage><m_isFailedFromIcloud>0</m_isFailedFromIcloud><m_isLoadingFromIcloud>0</m_isLoadingFromIcloud></MMAsset></msg>`
+   2015-12-07 16:16:50,我,:st:`[图片]`
+   2015-12-07 16:16:51,我,:st:`[图片]`
+   2015-12-07 16:16:52,我,:st:`[图片]`
    2015-12-07 16:17:10,我,:st:`看见了吗`
    2015-12-07 16:17:59,你,:rt:`找到了`
    2015-12-07 16:18:09,我,:st:`好的`
@@ -236,8 +233,8 @@
    2015-12-07 23:16:59,我,:st:`好`
    2015-12-07 23:17:05,你,:rt:`明天事多吗`
    2015-12-07 23:17:20,我,:st:`好像不多，下午开评审会`
-   2015-12-07 23:17:43,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="4280" length="7159" bufid="4479762763940152" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong73230_1449501459" fromusername="lihui9097" /></msg>`
-   2015-12-07 23:17:46,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="1440" length="2617" bufid="1618769365434778" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong73231_1449501465" fromusername="lihui9097" /></msg>`
+   2015-12-07 23:17:43,你,:rt:`[语音]`
+   2015-12-07 23:17:46,你,:rt:`[语音]`
    2015-12-07 23:27:34,你,:rt:`好了`
    2015-12-07 23:27:50,我,:st:`好的`
    2015-12-07 23:27:52,你,:rt:`困不`

@@ -96,7 +96,7 @@
    2016-01-27 10:48:20,我,:st:`好`
    2016-01-27 10:52:08,我,:st:`给你看个东西，挺有意思的`
    2016-01-27 10:52:16,你,:rt:`好啊`
-   2016-01-27 10:52:23,我,:st:`<msg><appmsg appid="wxd5d193765919a447"  sdkver="0"><title>「壹心理 | 暗黑系的人格，更容易让你走向成功」</title><des>文：Valar | 壹心理精选 如果下面这些内心戏我说准了，你可要承认哟。 比如： （跟同事意见不合）我要不要跟他吵一架！</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://www.wandoujia.com/items/-3651740132021086907?utm_campaign=social&amp;utm_medium=wechat-friends&amp;utm_source=2251663</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3044020100043d303b020100020410d7630002030f443702040c250d6f020456a830ea04196c696875693930393733343432305f313435333836333134330201000201000400</cdnthumburl><cdnthumblength>5637</cdnthumblength><cdnthumbwidth>150</cdnthumbwidth><cdnthumbheight>150</cdnthumbheight><cdnthumbaeskey>36643965326530313434326666643839</cdnthumbaeskey><aeskey>36643965326530313434326666643839</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl>(null)</appmsg><appinfo><version>0</version><appname>豌豆荚一览</appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-01-27 10:52:23,我,:st:`[动画表情]`
    2016-01-27 11:00:05,你,:rt:`并且我们的思想、信念、欲望，天然就是有亲社会取向的。所以，即便小邪恶们冒出来了也不用担心。其实更重要的是，把自己的思想、信念、欲望和别人的区分开，这是获得和谐社会关系的关键。`
    2016-01-27 11:00:15,你,:rt:`这句话不是很能`
    2016-01-27 11:00:33,你,:rt:`这篇文章很有意思`
@@ -187,7 +187,7 @@
    2016-01-27 14:23:16,我,:st:`又给自己找事`
    2016-01-27 14:24:11,你,:rt:`好`
    2016-01-27 14:24:47,你,:rt:`哈哈`
-   2016-01-27 14:24:53,我,:st:`<msg><img hdlength="0" length="98872" cdnbigimgurl="" cdnmidimgurl="3044020100043d303b020100020410d7630002030f44350204a15d977b020456a862b604196c696875693930393733343531305f313435333837353839330201000201000400" aeskey="3bec7a56559546cfb0babc05d2278abd" cdnthumburl="3044020100043d303b020100020410d7630002030f44350204a15d977b020456a862b604196c696875693930393733343531305f313435333837353839330201000201000400" cdnthumblength="2684" cdnthumbwidth="67" cdnthumbheight="120" cdnthumbaeskey="3bec7a56559546cfb0babc05d2278abd" encryver="1"/><commenturl></commenturl><MMAsset><m_assetUrlForSystem><![CDATA[CE23E154-C346-435D-A579-87D0C9760ECD/L0/001]]></m_assetUrlForSystem><m_isNeedOriginImage>0</m_isNeedOriginImage><m_isFailedFromIcloud>0</m_isFailedFromIcloud><m_isLoadingFromIcloud>0</m_isLoadingFromIcloud></MMAsset></msg>`
+   2016-01-27 14:24:53,我,:st:`[图片]`
    2016-01-27 14:25:16,我,:st:`异步通讯`
    2016-01-27 14:30:07,我,:st:`我还是用自己的网了`
    2016-01-27 14:32:52,你,:rt:`我没网了`

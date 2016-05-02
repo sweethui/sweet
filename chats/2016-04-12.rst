@@ -121,7 +121,7 @@
    2016-04-12 14:36:03,我,:st:`其实逗王旭都算不上什么乐趣`
    2016-04-12 14:36:26,你,:rt:`是吗  我觉得挺好玩的 挺轻松的`
    2016-04-12 14:36:27,我,:st:`只是咱俩能直接接触的机会太少了`
-   2016-04-12 14:40:43,我,:st:`<msg><appmsg appid=""  sdkver="0"><title>柳岩事件：我想要尊严，也想要性感丨原创</title><des>心之助（微信：luyuexinli）女性心理健康与成长专业平台，陪伴你心灵成长， 获得幸福生活。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://mp.weixin.qq.com/s?__biz=MjM5Mjc2MDQwMw==&amp;mid=402805702&amp;idx=1&amp;sn=5ec6b1b7e342df23859f7d0a539389cd&amp;scene=1&amp;srcid=0412tmd5ATfHK9rwrfFfNYzV#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3044020100043d303b020100020410d7630002033d0af702040e8e1e6f0204570c987104196c696875693930393731313633395f313436303434333234330201000201000400</cdnthumburl><cdnthumblength>6715</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>38aa212ccea44449a1f7ee625f5e1a01</cdnthumbaeskey><aeskey>38aa212ccea44449a1f7ee625f5e1a01</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_4a59789bfb88</sourceusername><sourcedisplayname>心之助</sourcedisplayname><commenturl></commenturl><thumburl></thumburl></appmsg><appinfo><version>0</version><appname></appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-04-12 14:40:43,我,:st:`[动画表情]`
    2016-04-12 15:06:02,我,:st:`你知道我看你吗`
    2016-04-12 15:15:50,你,:rt:`不知道`
    2016-04-12 15:16:23,我,:st:`哦`
@@ -307,7 +307,7 @@
    2016-04-12 17:28:33,你,:rt:`女性自强了 自然会得到尊重`
    2016-04-12 17:28:51,你,:rt:`谁不会尊重强者？`
    2016-04-12 17:28:56,你,:rt:`这是社会问题`
-   2016-04-12 17:28:57,我,:st:`<msg><appmsg appid=""  sdkver="0"><title>柳岩事件：我想要尊严，也想要性感丨原创</title><des>心之助（微信：luyuexinli）女性心理健康与成长专业平台，陪伴你心灵成长， 获得幸福生活。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://mp.weixin.qq.com/s?__biz=MjM5Mjc2MDQwMw==&amp;mid=402805702&amp;idx=1&amp;sn=5ec6b1b7e342df23859f7d0a539389cd&amp;scene=1&amp;srcid=0412H36TfEFnfzRbKXHncoY3#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3044020100043d303b020100020410d7630002033d0af70204748e1e6f0204570cbfe004196c696875693930393731313633395f313436303434333234330201000201000400</cdnthumburl><cdnthumblength>6715</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>38aa212ccea44449a1f7ee625f5e1a01</cdnthumbaeskey><aeskey>38aa212ccea44449a1f7ee625f5e1a01</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_4a59789bfb88</sourceusername><sourcedisplayname>心之助</sourcedisplayname><commenturl></commenturl><thumburl></thumburl></appmsg><appinfo><version>0</version><appname></appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-04-12 17:28:57,我,:st:`[动画表情]`
    2016-04-12 17:29:06,你,:rt:`女性的地位越来越高了`
    2016-04-12 17:29:15,我,:st:`你说的不对`
    2016-04-12 17:29:25,你,:rt:`你看过西西里的美丽传说这个电影吗`
@@ -345,15 +345,7 @@
    2016-04-12 17:40:10,你,:rt:`一个对自己的性感和自己的欲望接受的女人，是可以坦然拥有自己的自尊的，当一个人拥有了自己的价码的时候，她就不会做亏本的买卖，她的性感就是有品质的，有力量的。`
    2016-04-12 17:40:52,你,:rt:`这个世界上，有很多东西是我们无法选择的，比如当下中国有很多乱七八糟的现象，中国文化中很多对女性的压抑和不尊重，但我们唯一能决定的，就是我们自己的态度`
    2016-04-12 17:41:08,我,:st:`对`
-   2016-04-12 17:41:13,我,:st:`<msg>
-<appmsg appid=""  sdkver="0"><title>绩效反馈与面谈记录表_李东海_2016_1.doc</title><des></des><action></action><type>6</type><showtype>0</showtype><mediatagname></mediatagname><content></content><url></url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>75776</totallen><attachid>@cdn_3042020100043b3039020100020410d7630002033d0af70204178e1e6f0204570cc2b904176c69687569393039373334345f313436303435343037330201000201000400_66323166643631356166356334393730_1</attachid><emoticonmd5></emoticonmd5><fileext>doc</fileext><cdnattachurl>3042020100043b3039020100020410d7630002033d0af70204178e1e6f0204570cc2b904176c69687569393039373334345f313436303435343037330201000201000400</cdnattachurl><aeskey>66323166643631356166356334393730</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl><md5></md5></appmsg>
-<fromusername>wangxuesong73</fromusername>
-<scene>0</scene>
-<appinfo>
-<version>1</version>
-<appname></appname>
-</appinfo>
-<commenturl></commenturl></msg>`
+   2016-04-12 17:41:13,我,:st:`[动画表情]`
    2016-04-12 17:41:33,我,:st:`哈哈，发错了`
    2016-04-12 17:41:34,你,:rt:`态度`
    2016-04-12 17:41:41,你,:rt:`你想发给谁`

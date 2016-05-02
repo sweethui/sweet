@@ -24,7 +24,7 @@
    2015-10-21 11:05:11,你,:rt:`可能是想我回去吧`
    2015-10-21 11:05:32,你,:rt:`随便吧，无所谓`
    2015-10-21 11:05:54,我,:st:`是`
-   2015-10-21 11:59:14,我,:st:`<msg><appmsg appid=""  sdkver="0"><title>别闹，叔是女权主义者</title><des>在《别以为你没用网易邮箱就无所谓了……》里，我写了这么一段：我不太理解为什么都到了今天，还有很多女生一提到计</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><url>http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&amp;mid=400062383&amp;idx=1&amp;sn=b8b65b0475e76267b8bf84537eca69d3&amp;scene=1&amp;srcid=1021qtWhIz0ubdbvB4hZk7yC#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>30480201000441303f02010002047a83870c02030f443602043b68a16f020456270d97041d67685f6538356562643662623935373430355f313434353335373637320201000201000400</cdnthumburl><cdnthumblength>6530</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>62613939323663393836393730346431</cdnthumbaeskey><aeskey>62613939323663393836393730346431</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_505138431c3c</sourceusername><sourcedisplayname>学习学习再学习</sourcedisplayname><commenturl></commenturl><thumburl></thumburl>(null)</appmsg><appinfo><version>0</version><appname></appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2015-10-21 11:59:14,我,:st:`[动画表情]`
    2015-10-21 14:29:46,你,:rt:`你要不教教我怎么建模吧`
    2015-10-21 14:30:14,我,:st:`我一直在教你`
    2015-10-21 14:30:42,我,:st:`以前咱俩在公司聊天也是在教你建模`

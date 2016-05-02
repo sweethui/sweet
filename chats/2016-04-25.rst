@@ -496,7 +496,7 @@
    2016-04-25 18:26:08,我,:st:`我给你看个东西`
    2016-04-25 18:26:12,你,:rt:`好`
    2016-04-25 18:26:15,你,:rt:`什么东西`
-   2016-04-25 18:26:31,我,:st:`<msg><appmsg appid="wx1b2b274bd250c6b6"  sdkver="0"><title>推荐文章《《女人的起源》读书笔记》</title><des>第一次读读这本书是因为这本书是小龙哥推荐的。但是层次没到，理解起来还真是吃力，勉强将这部科普读物看完，不过还是一头雾水，等到了一定的阅历再读第二遍吧~文章开始为了驳斥大男人主义和性吸引说法，引用水生...</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://www.jianshu.com/p/24f1744f3b28?utm_campaign=hugo&amp;utm_medium=reader_share&amp;utm_content=note&amp;utm_source=weixin-friends</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3042020100043b303902010002047721c13c02033d0af702046c8e1e6f0204571df0dd041766696c6568656c70657239325f313436313530363134310201000201000400</cdnthumburl><cdnthumbmd5>fe39d9eb3fb4454f817ce49c08f6bdc8</cdnthumbmd5><cdnthumblength>9822</cdnthumblength><cdnthumbwidth>120</cdnthumbwidth><cdnthumbheight>120</cdnthumbheight><cdnthumbaeskey>4f12688cd2c74c05b7fba1c0a8a30a1d</cdnthumbaeskey><aeskey>4f12688cd2c74c05b7fba1c0a8a30a1d</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl><statextstr></statextstr></appmsg><appinfo><version>0</version><appname>简书</appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-04-25 18:26:31,我,:st:`[动画表情]`
    2016-04-25 18:43:09,我,:st:`看完了吗`
    2016-04-25 18:43:53,你,:rt:`你一说话就被你吸过去了`
    2016-04-25 18:44:06,我,:st:`哈哈，慢慢看，不着急`

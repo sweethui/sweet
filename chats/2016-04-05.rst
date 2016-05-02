@@ -72,7 +72,7 @@
    2016-04-05 11:40:15,你,:rt:`我看写的支持的数据库有三种`
    2016-04-05 11:40:39,你,:rt:`我想的就是先问田，然后看他整成啥样吧，`
    2016-04-05 11:41:05,你,:rt:`然后再看看问问你`
-   2016-04-05 11:41:31,我,:st:`<msg><appmsg appid=""  sdkver="0"><title>在一个男权世界里，女人该如何强大地活着丨原创</title><des>心之助（微信：luyuexinli）女性心理健康与成长专业平台，陪伴你心灵成长， 获得幸福生活。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://mp.weixin.qq.com/s?__biz=MjM5Mjc2MDQwMw==&amp;mid=402918089&amp;idx=1&amp;sn=46462e6b4a810bc1f6d810875fc4fe8f&amp;scene=1&amp;srcid=0405TRMhRbNHMWsGYnLT8vHY#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>304e02010004473045020100020431b6c5b002033d0af702041c8e1e6f0204570334030423777869645f66716f6a3230396464767262343132363432345f313435393832343036370201000201000400</cdnthumburl><cdnthumblength>6246</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>24d069ab011a4e43900066c6457a26e2</cdnthumbaeskey><aeskey>24d069ab011a4e43900066c6457a26e2</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_4a59789bfb88</sourceusername><sourcedisplayname>心之助</sourcedisplayname><commenturl></commenturl><thumburl></thumburl></appmsg><appinfo><version>0</version><appname></appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-04-05 11:41:31,我,:st:`[动画表情]`
    2016-04-05 11:41:55,我,:st:`你看看这个，写得非常好`
    2016-04-05 12:14:57,你,:rt:`好`
    2016-04-05 13:02:44,我,:st:`你没睡吗`
@@ -157,10 +157,7 @@
    2016-04-05 21:23:37,你,:rt:`恩，好`
    2016-04-05 21:24:08,我,:st:`路上慢点，不然我会担心你的`
    2016-04-05 21:24:21,你,:rt:`没事`
-   2016-04-05 21:24:29,你,:rt:`<?xml version="1.0"?>
-<msg>
-	<img aeskey="4c16c98cfa9b4146954eaca53638f977" encryver="1" cdnthumbaeskey="4c16c98cfa9b4146954eaca53638f977" cdnthumburl="3046020100043f303d020100020491db2f9002032dcdc9020428a4b73d02045703bc8b041b77616e67787565736f6e6737333135345f313435393836323636360201000201000400" cdnthumblength="3131" cdnthumbheight="120" cdnthumbwidth="90" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3046020100043f303d020100020491db2f9002032dcdc9020428a4b73d02045703bc8b041b77616e67787565736f6e6737333135345f313435393836323636360201000201000400" length="72271" md5="865ae0c559ca633899d4ffb6d9f9fda6" />
-</msg>`
+   2016-04-05 21:24:29,你,:rt:`[图片]`
    2016-04-05 21:24:49,你,:rt:`这人多会停车`
    2016-04-05 21:25:05,我,:st:`哈哈`
    2016-04-05 21:25:19,我,:st:`你没问题吧`

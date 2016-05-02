@@ -289,8 +289,8 @@
    2016-04-01 18:11:53,我,:st:`要是他忙或者开车就不会理你`
    2016-04-01 18:12:00,你,:rt:`恩，好`
    2016-04-01 18:12:06,你,:rt:`我就直接说得了`
-   2016-04-01 18:13:08,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="5180" length="10271" bufid="796021031075381685" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong73288_1459505582" fromusername="lihui9097" /></msg>`
-   2016-04-01 18:13:12,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="3220" length="6212" bufid="507115602442125722" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong73289_1459505589" fromusername="lihui9097" /></msg>`
+   2016-04-01 18:13:08,你,:rt:`[语音]`
+   2016-04-01 18:13:12,你,:rt:`[语音]`
    2016-04-01 18:13:13,我,:st:`是，就说你今天接到的任务，需求也不是很明确，你凭着自己的理解去调研的，让他看看有没有问题`
    2016-04-01 18:13:42,我,:st:`那你就加班呗`
    2016-04-01 18:16:36,你,:rt:`我要是那有出息就好了`
@@ -298,17 +298,14 @@
    2016-04-01 18:17:53,你,:rt:`哎`
    2016-04-01 18:18:08,你,:rt:`不跟你说了，我给我弟弟回个电话，他刚给我打电话了`
    2016-04-01 18:18:11,你,:rt:`舅舅家的`
-   2016-04-01 18:20:19,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="10740" length="21903" bufid="1587305748570112364" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong731_1459506009" fromusername="lihui9097" /></msg>`
-   2016-04-01 18:20:26,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="4560" length="9180" bufid="724607631005516195" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong732_1459506021" fromusername="lihui9097" /></msg>`
-   2016-04-01 18:20:31,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="3820" length="7327" bufid="578412742076137929" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong733_1459506028" fromusername="lihui9097" /></msg>`
-   2016-04-01 18:20:58,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="3080" length="6150" bufid="508392006295421289" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong734_1459506055" fromusername="lihui9097" /></msg>`
+   2016-04-01 18:20:19,你,:rt:`[语音]`
+   2016-04-01 18:20:26,你,:rt:`[语音]`
+   2016-04-01 18:20:31,你,:rt:`[语音]`
+   2016-04-01 18:20:58,你,:rt:`[语音]`
    2016-04-01 18:21:00,我,:st:`被宠坏了`
-   2016-04-01 18:21:06,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2000" length="3912" bufid="292285117342810499" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong736_1459506064" fromusername="lihui9097" /></msg>`
+   2016-04-01 18:21:06,你,:rt:`[语音]`
    2016-04-01 18:21:12,我,:st:`是`
-   2016-04-01 21:18:09,你,:rt:`<?xml version="1.0"?>
-<msg>
-	<img aeskey="3beb8d2a24b84e62a417f8351fff9510" encryver="1" cdnthumbaeskey="3beb8d2a24b84e62a417f8351fff9510" cdnthumburl="3044020100043d303b020100020491db2f9002032dcdc9020428a4b73d020456fe7510041977616e67787565736f6e673733315f313435393531363638370201000201000400" cdnthumblength="3350" cdnthumbheight="120" cdnthumbwidth="67" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3044020100043d303b020100020491db2f9002032dcdc9020428a4b73d020456fe7510041977616e67787565736f6e673733315f313435393531363638370201000201000400" length="199727" md5="cbd30467b6967aabe1eb9d0c4bda5681" />
-</msg>`
+   2016-04-01 21:18:09,你,:rt:`[图片]`
    2016-04-01 21:18:57,你,:rt:`别的就没说，`
    2016-04-01 21:19:03,你,:rt:`反正不用写文档了`
    2016-04-01 21:19:15,你,:rt:`我就看看会用就行了`

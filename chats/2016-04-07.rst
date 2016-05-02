@@ -155,20 +155,9 @@
    2016-04-07 11:09:06,我,:st:`果然心情好多了`
    2016-04-07 11:10:25,你,:rt:`你就是心里作用`
    2016-04-07 11:12:09,我,:st:`是，因为人是感情动物`
-   2016-04-07 12:11:48,你,:rt:`<msg>
-<appmsg appid=""  sdkver="0"><title>异性之间有纯友谊吗？</title><des>有人用微信聊天，有人却在微信中每天学习，自我成长。今天给大家推荐一些优质微信，愿您每天都能成长！★长按二维码</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://mp.weixin.qq.com/s?__biz=MjM5NzQ4MDg2MA==&amp;mid=402741602&amp;idx=1&amp;sn=3d8ce1ea812337c4196c7b8b76afaee6&amp;scene=1&amp;srcid=0406NKyRYeWHRpZLo0cs5viL#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>304b02010004443042020100020463f4ddb102033d14b9020490e503b702045705de040420777869645f6b3164336d70777a6972316d323231325f313435393934313936350201000201000400</cdnthumburl><cdnthumblength>7754</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>f1f9574ae6874a42a05c2224893d67aa</cdnthumbaeskey><aeskey>f1f9574ae6874a42a05c2224893d67aa</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_24f6d232e3de</sourceusername><sourcedisplayname>每天好书推荐</sourcedisplayname><commenturl></commenturl><thumburl></thumburl><md5></md5></appmsg>
-<fromusername>lihui9097</fromusername>
-<scene>0</scene>
-<appinfo>
-<version>1</version>
-<appname></appname>
-</appinfo>
-<commenturl></commenturl></msg>`
+   2016-04-07 12:11:48,你,:rt:`[动画表情]`
    2016-04-07 12:12:14,你,:rt:`这是你最开始发给我的`
-   2016-04-07 12:12:18,你,:rt:`<?xml version="1.0"?>
-<msg>
-	<img aeskey="45b887334d4d44b2bf7bc939e9c1b3f3" encryver="1" cdnthumbaeskey="45b887334d4d44b2bf7bc939e9c1b3f3" cdnthumburl="3046020100043f303d020100020491db2f9002033d14b9020490e503b702045705de22041b77616e67787565736f6e6737333135345f313436303030323333360201000201000400" cdnthumblength="3363" cdnthumbheight="120" cdnthumbwidth="67" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3046020100043f303d020100020491db2f9002033d14b9020490e503b702045705de22041b77616e67787565736f6e6737333135345f313436303030323333360201000201000400" length="189550" md5="9c47ef31b0493f36f53fe3b81b36ded1" />
-</msg>`
+   2016-04-07 12:12:18,你,:rt:`[图片]`
    2016-04-07 12:12:48,你,:rt:`这是最后一段说只有理性的男人和聪慧的女人才会有这种友谊`
    2016-04-07 12:13:00,你,:rt:`为什么需要男人的理性，女人的聪慧`
    2016-04-07 12:13:02,你,:rt:`哈哈`

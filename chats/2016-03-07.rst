@@ -184,18 +184,7 @@
    2016-03-07 16:27:30,我,:st:`是修行`
    2016-03-07 16:27:45,我,:st:`反常是因为自己没做到`
    2016-03-07 17:01:16,我,:st:`你忙啥呢`
-   2016-03-07 17:02:20,你,:rt:`<msg>
-<appmsg appid=""  sdkver="0"><title>程序员的武林江湖：技术为外功，思维乃内力</title><des>气沉丹田，内功深不可测；
-招招老练，出手地动山摇；
-
-让我们告诉你，程序员与武林高手的奇妙关系...</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://mp.weixin.qq.com/s?__biz=MjAzNzMzNTkyMQ==&amp;mid=405198761&amp;idx=1&amp;sn=3d449a3825cce04efbdefb85a05904f4&amp;scene=1&amp;srcid=0307vxb6H28ofUotuZUpayjX#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3046020100043f303d020100020491db2f9002032dcdc9020426a4b73d020456dd439c041b77616e67787565736f6e6737333138355f313435373334313333370201000201000400</cdnthumburl><cdnthumblength>4934</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>c28b9b6bef6a4176a1ae545d046bbdb2</cdnthumbaeskey><aeskey>c28b9b6bef6a4176a1ae545d046bbdb2</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>wxid_1970509702912</sourceusername><sourcedisplayname>36氪</sourcedisplayname><commenturl></commenturl><thumburl></thumburl><md5></md5></appmsg>
-<fromusername>lihui9097</fromusername>
-<scene>0</scene>
-<appinfo>
-<version>1</version>
-<appname></appname>
-</appinfo>
-<commenturl></commenturl></msg>`
+   2016-03-07 17:02:20,你,:rt:`[动画表情]`
    2016-03-07 17:07:06,我,:st:`挺好`
    2016-03-07 17:21:02,我,:st:`你笑什么`
    2016-03-07 17:21:18,你,:rt:`缓和下气氛啊`

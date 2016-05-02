@@ -8,7 +8,7 @@
    2016-03-16 08:50:14,我,:st:`现场暂时没问题了`
    2016-03-16 08:50:31,你,:rt:`那就好`
    2016-03-16 08:50:56,我,:st:`不过老毛有问题了`
-   2016-03-16 08:51:08,我,:st:`<msg><img hdlength="0" length="97796" cdnbigimgurl="" cdnmidimgurl="3043020100043c303a020100020410d7630002030f53230204a65b4a34020456e8adfc04186c6968756939303937363534305f313435383038393436380201000201000400" aeskey="1430bf3ed7b24cb1ac3c3f42affd7c42" cdnthumburl="3043020100043c303a020100020410d7630002030f53230204a65b4a34020456e8adfc04186c6968756939303937363534305f313435383038393436380201000201000400" cdnthumblength="3046" cdnthumbwidth="67" cdnthumbheight="120" cdnthumbaeskey="1430bf3ed7b24cb1ac3c3f42affd7c42" encryver="1"/><commenturl></commenturl><MMAsset><m_assetUrlForSystem><![CDATA[6EA5234E-1C8D-4ADC-B872-3FF03EB66F64/L0/001]]></m_assetUrlForSystem><m_isNeedOriginImage>0</m_isNeedOriginImage><m_isFailedFromIcloud>0</m_isFailedFromIcloud><m_isLoadingFromIcloud>0</m_isLoadingFromIcloud></MMAsset></msg>`
+   2016-03-16 08:51:08,我,:st:`[图片]`
    2016-03-16 08:51:31,我,:st:`武总要他汇报`
    2016-03-16 08:52:04,你,:rt:`是`
    2016-03-16 08:52:22,你,:rt:`没事啊 就这样吧 一线的永远是一线的 要快要思路清楚`
@@ -38,7 +38,7 @@
    2016-03-16 10:11:22,我,:st:`刚才田给洪越讲 JDBC 的负载均衡呢`
    2016-03-16 10:12:27,你,:rt:`我知道`
    2016-03-16 10:12:55,我,:st:`洪越和田争论呢`
-   2016-03-16 10:37:35,我,:st:`<msg><appmsg appid="wx9c7fe8af5735e486"  sdkver="0"><title>人的正确思想是从哪里来的？当然是实践。但实践之外的广泛阅读也是前提。课本和畅销书之外，肚子里至少装一千本书，才有资本谈思考。</title><des>人的正确思想是从哪里来的？当然是实践。但实践之外的广泛阅读也是前提。课本和畅销书之外，肚子里至少装一千本书，才有资本谈思考。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://m.weibo.cn/1932835417/Dmu3RaUGf/weixin?wm=3333_2001&amp;from=1040193010&amp;sourcetype=weixin&amp;isappinstalled=1</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>30400201000439303702010002035742ed02030f443702047b200d6f020456e8c6f20416677265656e3330303131365f313435383031363837370201000201000400</cdnthumburl><cdnthumblength>15195</cdnthumblength><cdnthumbwidth>150</cdnthumbwidth><cdnthumbheight>150</cdnthumbheight><cdnthumbaeskey>0d2b143040ee48858436a25da72bffaf</cdnthumbaeskey><aeskey>0d2b143040ee48858436a25da72bffaf</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl></appmsg><appinfo><version>0</version><appname>WeicoPro 微博客户端</appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-03-16 10:37:35,我,:st:`[动画表情]`
    2016-03-16 11:27:57,你,:rt:`亲，上海电信那个需求没事吧`
    2016-03-16 11:28:11,我,:st:`正在说`
    2016-03-16 11:28:36,我,:st:`领导的考虑当时我提出来过`
@@ -275,16 +275,16 @@
    2016-03-16 18:58:00,你,:rt:`好，我走慢点，我看到严丹的车了`
    2016-03-16 18:58:11,你,:rt:`没看到你`
    2016-03-16 18:58:29,我,:st:`哦，我到西门了`
-   2016-03-16 18:58:47,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="3420" length="6660" bufid="504620994831974785" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong73274_1458125925" fromusername="lihui9097" /></msg>`
-   2016-03-16 18:58:55,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="4680" length="8710" bufid="650240259187278182" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong73275_1458125931" fromusername="lihui9097" /></msg>`
+   2016-03-16 18:58:47,你,:rt:`[语音]`
+   2016-03-16 18:58:55,你,:rt:`[语音]`
    2016-03-16 18:58:57,我,:st:`错了，东门`
-   2016-03-16 18:59:29,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="4440" length="8590" bufid="648525351757349214" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong73277_1458125966" fromusername="lihui9097" /></msg>`
+   2016-03-16 18:59:29,你,:rt:`[语音]`
    2016-03-16 18:59:35,我,:st:`你去车那吧，我应该比你快`
-   2016-03-16 18:59:38,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="4160" length="8259" bufid="648892824869732707" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong73278_1458125975" fromusername="lihui9097" /></msg>`
-   2016-03-16 18:59:49,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="5160" length="10161" bufid="723975063600300430" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong73280_1458125984" fromusername="lihui9097" /></msg>`
-   2016-03-16 18:59:55,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2800" length="5106" bufid="432736140337086905" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong73281_1458125993" fromusername="lihui9097" /></msg>`
-   2016-03-16 19:00:08,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2840" length="5432" bufid="435695450381484493" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong73282_1458126005" fromusername="lihui9097" /></msg>`
-   2016-03-16 19:00:25,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="6940" length="13787" bufid="1011416806736593212" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong73283_1458126019" fromusername="lihui9097" /></msg>`
+   2016-03-16 18:59:38,你,:rt:`[语音]`
+   2016-03-16 18:59:49,你,:rt:`[语音]`
+   2016-03-16 18:59:55,你,:rt:`[语音]`
+   2016-03-16 19:00:08,你,:rt:`[语音]`
+   2016-03-16 19:00:25,你,:rt:`[语音]`
    2016-03-16 19:00:26,我,:st:`东门比西门近`
-   2016-03-16 19:00:40,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="3240" length="5837" bufid="433013810241470927" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong73285_1458126038" fromusername="lihui9097" /></msg>`
+   2016-03-16 19:00:40,你,:rt:`[语音]`
    2016-03-16 19:01:43,我,:st:`我到了`

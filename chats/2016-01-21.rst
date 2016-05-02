@@ -198,5 +198,5 @@
    2016-01-21 18:27:10,我,:st:`偶遇吧`
    2016-01-21 18:28:33,我,:st:`我收拾东西了`
    2016-01-21 18:38:10,我,:st:`我出来了`
-   2016-01-21 18:38:33,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="6280" length="12670" bufid="938701060478730676" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong732_1453372706" fromusername="lihui9097" /></msg>`
-   2016-01-21 18:38:37,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2820" length="5470" bufid="433942970168050069" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong733_1453372714" fromusername="lihui9097" /></msg>`
+   2016-01-21 18:38:33,你,:rt:`[语音]`
+   2016-01-21 18:38:37,你,:rt:`[语音]`

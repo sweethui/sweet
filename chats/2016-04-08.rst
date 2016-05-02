@@ -140,21 +140,13 @@
    2016-04-08 11:35:36,我,:st:`是`
    2016-04-08 11:35:46,我,:st:`今天我要忙死`
    2016-04-08 11:35:54,我,:st:`好几个事情`
-   2016-04-08 11:36:08,我,:st:`<msg><img hdlength="0" length="23521" cdnbigimgurl="" cdnmidimgurl="3044020100043d303b020100020410d7630002033d0af70204778e1e6f02045707272804196c696875693930393731313036385f313436303038363536380201000201000400" aeskey="30643365643363393165393433633464" cdnthumburl="3044020100043d303b020100020410d7630002033d0af70204778e1e6f02045707272804196c696875693930393731313036385f313436303038363536380201000201000400" cdnthumblength="5685" cdnthumbwidth="150" cdnthumbheight="84" cdnthumbaeskey="30643365643363393165393433633464" encryver="1"/><commenturl></commenturl></msg>`
+   2016-04-08 11:36:08,我,:st:`[图片]`
    2016-04-08 11:36:44,我,:st:`还有PBC没弄`
    2016-04-08 11:36:45,你,:rt:`开始了`
    2016-04-08 12:07:09,我,:st:`烦死了`
    2016-04-08 12:07:40,我,:st:`让旭明回一个给武总的邮件`
    2016-04-08 12:08:04,我,:st:`结果又惹祸了`
-   2016-04-08 12:09:43,你,:rt:`<msg>
-<appmsg appid=""  sdkver="0"><title>猫照镜子时发现被剃了毛之后，就一直这样了...</title><des>爱猫人士都关注了的猫图文公号点击标题下方蓝色字关注 大爱猫咪控</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://mp.weixin.qq.com/s?__biz=MjM5MDAzNDcwMA==&amp;mid=404436057&amp;idx=1&amp;sn=fb89c02e9c5e70c92a67e069924baa6a&amp;scene=1&amp;srcid=0408wyOwvlUx7EtV1S9CZiAL#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3046020100043f303d020100020420f38af702033d14b9020494e503b7020457072f07041b6a69616a6961333833303837313131345f313436303038373334330201000201000400</cdnthumburl><cdnthumblength>8635</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>75f537ccca4b4d9d8fdcee3c6951ef53</cdnthumbaeskey><aeskey>75f537ccca4b4d9d8fdcee3c6951ef53</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_e6a1e5e333f4</sourceusername><sourcedisplayname>大爱猫咪控</sourcedisplayname><commenturl></commenturl><thumburl></thumburl><md5></md5></appmsg>
-<fromusername>lihui9097</fromusername>
-<scene>0</scene>
-<appinfo>
-<version>1</version>
-<appname></appname>
-</appinfo>
-<commenturl></commenturl></msg>`
+   2016-04-08 12:09:43,你,:rt:`[动画表情]`
    2016-04-08 12:10:14,我,:st:`哈哈`
    2016-04-08 12:10:25,你,:rt:`开心了吧`
    2016-04-08 12:10:41,我,:st:`是`
@@ -301,7 +293,7 @@
    2016-04-08 14:59:33,你,:rt:`哈哈`
    2016-04-08 14:59:49,你,:rt:`你不需要面谈吗`
    2016-04-08 15:00:21,我,:st:`和谁面谈？`
-   2016-04-08 15:14:45,我,:st:`<msg><appmsg appid="wx9c7fe8af5735e486"  sdkver="0"><title>ELK在广告系统监控中的应用 及 Elasticsearch简介 - Youmi Tech Blog. http://tech.youmi.net/2016/02/137134732.html?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io</title><des></des><action></action><type>1</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url></url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl></appmsg><appinfo><version>0</version><appname>WeicoPro 微博客户端</appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-04-08 15:14:45,我,:st:`[动画表情]`
    2016-04-08 15:27:28,你,:rt:`清明节后我四姑家妹妹的丈夫查出脑瘤来了`
    2016-04-08 15:27:53,我,:st:`啊`
    2016-04-08 15:28:03,我,:st:`什么情况`

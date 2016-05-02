@@ -4,7 +4,7 @@
 .. csv-table::
    :widths: 25, 1, 60
 
-   2016-03-02 09:08:36,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="0F28195ECD9D4E3D87EE03122992EB67" len = "115446" productid="com.tencent.xin.emoticon.ali2" androidmd5="0F28195ECD9D4E3D87EE03122992EB67" androidlen="115446" s60v3md5 = "0F28195ECD9D4E3D87EE03122992EB67" s60v3len="115446" s60v5md5 = "0F28195ECD9D4E3D87EE03122992EB67" s60v5len="115446" cdnurl = "http://emoji.qpic.cn/wx_emoji/ZwKWvXGDRdMnACZ3G0EtgzILhzicDqHh60Ke97a7PGzm5UwN10iaRE9A/" designerid = "" thumburl = "http://mmbiz.qpic.cn/mmemoticon/dx4Y70y9Xcv4yfSKyEvKbUwIyB5ZjGBbZxvAuAia3pHrUoQof8rduJw/0" encrypturl = "http://emoji.qpic.cn/wx_emoji/AGdOkKjaiaU5F0v6sA16sgmM1BM6gvq7o7r8gZeZJ3pzxPQAmXQ11iaQ/" aeskey= "7cf7bfae2ca25a18ebadc153d03381e8" ></emoji> </msg>`
+   2016-03-02 09:08:36,你,:rt:`[动画表情]`
    2016-03-02 09:08:53,我,:st:`早`
    2016-03-02 09:49:52,我,:st:`今天田说让月会讲调研，就是你准备的`
    2016-03-02 09:50:00,我,:st:`领导不让讲`
@@ -40,10 +40,7 @@
    2016-03-02 13:24:48,你,:rt:`这么用功`
    2016-03-02 13:25:02,我,:st:`没办法，我耽误进度了`
    2016-03-02 13:44:35,我,:st:`忘了问你，傲骨贤妻都能找到字幕吗`
-   2016-03-02 13:48:08,你,:rt:`<?xml version="1.0"?>
-<msg>
-	<img aeskey="63653532313065323439313561626334" encryver="1" cdnthumbaeskey="63653532313065323439313561626334" cdnthumburl="304c02010004453043020100020491db2f9002030f44370204ef831e6f020456d67e9804213439613538393764303265366336636635353135306531383632386664663230310201000201000400" cdnthumblength="4442" cdnthumbheight="150" cdnthumbwidth="112" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="304c02010004453043020100020491db2f9002030f44370204ef831e6f020456d67e9804213439613538393764303265366336636635353135306531383632386664663230310201000201000400" length="79448" cdnbigimgurl="304c02010004453043020100020491db2f9002030f44370204ef831e6f020456d67e9804213439613538393764303265366336636635353135306531383632386664663230310201000201000400" hdlength="85657" md5="f5aa4ca6320ff168f0d6732f30cf335c" />
-</msg>`
+   2016-03-02 13:48:08,你,:rt:`[图片]`
    2016-03-02 13:48:21,你,:rt:`休息休息脑子`
    2016-03-02 13:48:39,我,:st:`哈哈`
    2016-03-02 13:49:34,你,:rt:`好不好玩`

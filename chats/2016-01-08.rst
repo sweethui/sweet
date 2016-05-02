@@ -154,7 +154,7 @@
    2016-01-08 14:50:17,你,:rt:`我也是没啥事瞎捉摸`
    2016-01-08 14:50:40,我,:st:`这是天性`
    2016-01-08 14:50:48,我,:st:`他就这样`
-   2016-01-08 14:54:21,我,:st:`<msg><appmsg appid="wxd5d193765919a447"  sdkver="0"><title>壹心理 | 为什么男人都喜欢胸大腰细的女人？</title><des>文：陈琼 丨 壹心理专栏作者 俗话说：男怕入错行，女怕嫁错郎。可见从传统观念的意义上来说，婚姻对于女性的重要性比较高。所谓：嫁汉嫁汉，穿衣吃饭。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://www.wandoujia.com/items/6252832275679618227?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;from=ripple</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3043020100043c303a020100020410d7630002030f443702045f881e6f0204568f5d1f04186c6968756939303937313236395f313435323233363036310201000201000400</cdnthumburl><cdnthumblength>5208</cdnthumblength><cdnthumbwidth>150</cdnthumbwidth><cdnthumbheight>150</cdnthumbheight><cdnthumbaeskey>31613739386531313130656239333735</cdnthumbaeskey><aeskey>31613739386531313130656239333735</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl>(null)</appmsg><appinfo><version>0</version><appname>豌豆荚一览</appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-01-08 14:54:21,我,:st:`[动画表情]`
    2016-01-08 14:54:45,你,:rt:`哈哈`
    2016-01-08 14:54:50,你,:rt:`我好好看看`
    2016-01-08 15:10:59,我,:st:`我怎么越来越喜欢看你`
@@ -259,7 +259,7 @@
    2016-01-08 17:12:20,你,:rt:`谁欺负你了`
    2016-01-08 17:12:31,我,:st:`你猜`
    2016-01-08 17:13:37,你,:rt:`这怎么猜？`
-   2016-01-08 17:13:44,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="00448BF3E9DF7EAA97A273BFAF065ABC" len = "69082" productid="com.tencent.xin.emoticon.luoxiaohei" androidmd5="00448BF3E9DF7EAA97A273BFAF065ABC" androidlen="69082" s60v3md5 = "00448BF3E9DF7EAA97A273BFAF065ABC" s60v3len="69082" s60v5md5 = "00448BF3E9DF7EAA97A273BFAF065ABC" s60v5len="69082" cdnurl = "http://emoji.qpic.cn/wx_emoji/G8PPmtmh2mu2CjuzJN8egZAYBcKSNZskeJEEiaQeGlGpxBIibeeZr56w/" designerid = "" thumburl = "http://mmbiz.qpic.cn/mmemoticon/dx4Y70y9XcufXAOmG9vIOyf3bzaFvxhv0GiaAnSxaYg7o06QHtaRwpQ/0" encrypturl = "" aeskey= "" ></emoji> </msg>`
+   2016-01-08 17:13:44,你,:rt:`[动画表情]`
    2016-01-08 17:14:27,我,:st:`杂事太多`
    2016-01-08 17:16:04,我,:st:`你的邮件发了吗`
    2016-01-08 17:16:23,你,:rt:`发了，`

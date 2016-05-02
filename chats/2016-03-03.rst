@@ -111,7 +111,7 @@
    2016-03-03 14:11:56,我,:st:`这个不是机制的问题`
    2016-03-03 14:12:12,我,:st:`是他们的意识问题`
    2016-03-03 14:12:48,你,:rt:`机制也是为了培养意识嘛`
-   2016-03-03 14:12:53,我,:st:`<msg><appmsg appid=""  sdkver="0"><title>抽象的能力</title><des>写代码需要抽象能力，无比需要。如果你不想一辈子都做一个初级码农，如果你想写出来一些自己也感觉到满意的代码，如果你想未来不被更高级的编码工具取代，你需要学会抽象。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&amp;mid=401779088&amp;idx=1&amp;sn=99554843a8324b4fbfe5684784e38cb9&amp;scene=0#rd</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>304d0201000446304402010002041260d89b02030f52be020446ce69b8020456d7d5e704223533363037363839374063686174726f6f6d36363739375f313435363938353438340201000201000400</cdnthumburl><cdnthumblength>9206</cdnthumblength><cdnthumbwidth>320</cdnthumbwidth><cdnthumbheight>168</cdnthumbheight><cdnthumbaeskey>aba58de73fce41d4b6199fdc9c9878b7</cdnthumbaeskey><aeskey>aba58de73fce41d4b6199fdc9c9878b7</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername>gh_c354045e8e96</sourceusername><sourcedisplayname>程序人生</sourcedisplayname><commenturl></commenturl><thumburl></thumburl></appmsg><appinfo><version>0</version><appname></appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-03-03 14:12:53,我,:st:`[动画表情]`
    2016-03-03 14:13:04,我,:st:`你看看这个`
    2016-03-03 14:13:11,你,:rt:`我们写日报 作用也在总结啊 这是汇报的功能之一`
    2016-03-03 14:13:25,我,:st:`这个不对`

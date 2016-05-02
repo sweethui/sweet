@@ -311,10 +311,7 @@
    2016-03-10 12:48:41,我,:st:`也好，这事风险很高。我们组的都去了吗？你和谁一桌？`
    2016-03-10 12:48:58,你,:rt:`跟你们组的，吃的挺好的`
    2016-03-10 12:49:48,我,:st:`我好可怜[委屈]，连张照片都没看见`
-   2016-03-10 13:16:37,你,:rt:`<?xml version="1.0"?>
-<msg>
-	<img aeskey="fd2b588c61914f0384c218a2b3b3297b" encryver="1" cdnthumbaeskey="fd2b588c61914f0384c218a2b3b3297b" cdnthumburl="3045020100043e303c020100020491db2f9002032dcdc9020425a4b73d020456e10333041a77616e67787565736f6e67373331345f313435373538363939350201000201000400" cdnthumblength="4894" cdnthumbheight="120" cdnthumbwidth="90" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3045020100043e303c020100020491db2f9002032dcdc9020425a4b73d020456e10333041a77616e67787565736f6e67373331345f313435373538363939350201000201000400" length="145438" md5="9af0d577127660b9ff6b85698346c8d6" />
-</msg>`
+   2016-03-10 13:16:37,你,:rt:`[图片]`
    2016-03-10 13:16:53,我,:st:`菜呢`
    2016-03-10 13:33:11,我,:st:`你下午几点讲`
    2016-03-10 13:34:32,你,:rt:`3点`
@@ -647,7 +644,7 @@
    2016-03-10 19:06:09,我,:st:`这些东西都属于潜意识里的`
    2016-03-10 19:06:39,你,:rt:`谁会做这些啊，笨蛋`
    2016-03-10 19:06:43,你,:rt:`除了你`
-   2016-03-10 19:06:50,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="028afad8c071133c6054205f9946009f" len = "94060" productid="com.tencent.xin.emoticon.ali2" androidmd5="028afad8c071133c6054205f9946009f" androidlen="94060" s60v3md5 = "028afad8c071133c6054205f9946009f" s60v3len="94060" s60v5md5 = "028afad8c071133c6054205f9946009f" s60v5len="94060" cdnurl = "http://emoji.qpic.cn/wx_emoji/r2ZEP6pjIDYBFjGGOkFbcTjPGRtlExXJOo4icyY1fiadBuqhT2afFWXw/" designerid = "" thumburl = "http://mmbiz.qpic.cn/mmemoticon/dx4Y70y9Xcv4yfSKyEvKbW4ns1uCBm8SudkicdOORHFfwmVFQGoYyqg/0" encrypturl = "http://emoji.qpic.cn/wx_emoji/HRbpvYOtXEUkmwrxEmXbaefEFiaGMLvNTLFiau6ibV495YOA7UpJKicIPg/" aeskey= "617f554f0b33924896d1d7e6c39a9177" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
+   2016-03-10 19:06:50,你,:rt:`[动画表情]`
    2016-03-10 19:07:17,我,:st:`其实所有人都应该做心理分析`
    2016-03-10 19:07:53,我,:st:`有时候就因为心里那道坎过不去，影响了自己一辈子`
    2016-03-10 19:08:37,我,:st:`国外心理分析师可比律师挣得多`

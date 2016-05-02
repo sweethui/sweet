@@ -9,18 +9,12 @@
    2015-12-05 10:05:17,你,:rt:`没事就好 别毁了`
    2015-12-05 10:05:20,你,:rt:`回`
    2015-12-05 10:05:34,你,:rt:`别回了`
-   2015-12-05 17:08:32,你,:rt:`<?xml version="1.0"?>
-<msg>
-	<img aeskey="96ea33ee259c49298052162ea3ac482f" encryver="1" cdnthumbaeskey="96ea33ee259c49298052162ea3ac482f" cdnthumburl="3044020100043d303b020100020491db2f9002030f52be020465ce69b802045662a98d041977616e67787565736f6e673733315f313434393330363530380201000201000400" cdnthumblength="2908" cdnthumbheight="120" cdnthumbwidth="90" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3044020100043d303b020100020491db2f9002030f52be020465ce69b802045662a98d041977616e67787565736f6e673733315f313434393330363530380201000201000400" length="397907" md5="23c60fe012d1f9b3661dc385e8a0e526" />
-</msg>`
+   2015-12-05 17:08:32,你,:rt:`[图片]`
    2015-12-05 17:08:45,你,:rt:`我画线的这句话对吗？`
    2015-12-05 17:09:04,你,:rt:`好像二维三维这个概念有的模糊`
    2015-12-05 17:09:19,我,:st:`对`
    2015-12-05 17:09:30,你,:rt:`还有需要反复推敲用户目标这句话`
-   2015-12-05 17:09:53,你,:rt:`<?xml version="1.0"?>
-<msg>
-	<img aeskey="1b1a00c75a234f02bacdb07280952f8c" encryver="1" cdnthumbaeskey="1b1a00c75a234f02bacdb07280952f8c" cdnthumburl="3044020100043d303b020100020491db2f9002030f52be020465ce69b802045662a9e0041977616e67787565736f6e673733365f313434393330363539310201000201000400" cdnthumblength="2267" cdnthumbheight="120" cdnthumbwidth="90" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3044020100043d303b020100020491db2f9002030f52be020465ce69b802045662a9e0041977616e67787565736f6e673733365f313434393330363539310201000201000400" length="59485" md5="5a6441a6f0f6dd422203721a2bc70cf4" />
-</msg>`
+   2015-12-05 17:09:53,你,:rt:`[图片]`
    2015-12-05 17:09:55,我,:st:`也对`
    2015-12-05 17:10:21,我,:st:`这个不太对`
    2015-12-05 17:10:35,你,:rt:`拿这幅图来说，是个二维的，就不能体现纬度和纬度的关系`
@@ -36,27 +30,27 @@
    2015-12-05 17:16:00,你,:rt:`三角形是可以切出四边形的，但球体永远是圆形，所以球体的模型是错的`
    2015-12-05 17:16:03,你,:rt:`就是`
    2015-12-05 17:16:44,我,:st:`那么你的维度是对应的层还是边`
-   2015-12-05 17:16:49,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="20380" length="40025" bufid="2272703842550178" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7321_1449306989" fromusername="lihui9097" /></msg>`
-   2015-12-05 17:16:59,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="4660" length="8175" bufid="1051283792396685" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7323_1449307016" fromusername="lihui9097" /></msg>`
+   2015-12-05 17:16:49,你,:rt:`[语音]`
+   2015-12-05 17:16:59,你,:rt:`[语音]`
    2015-12-05 17:17:04,你,:rt:`棱`
    2015-12-05 17:17:36,我,:st:`对了`
-   2015-12-05 17:17:57,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="12920" length="23932" bufid="2590483933299018" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7326_1449307064" fromusername="lihui9097" /></msg>`
+   2015-12-05 17:17:57,你,:rt:`[语音]`
    2015-12-05 17:17:58,我,:st:`所以球形是没有维度的`
-   2015-12-05 17:18:09,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="10200" length="20135" bufid="2724534157574474" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7328_1449307079" fromusername="lihui9097" /></msg>`
-   2015-12-05 17:18:37,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="4300" length="7620" bufid="1068910215299470" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7329_1449307113" fromusername="lihui9097" /></msg>`
-   2015-12-05 17:18:50,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="10360" length="20210" bufid="258303977193817" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7330_1449307119" fromusername="lihui9097" /></msg>`
-   2015-12-05 17:18:59,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="8320" length="15995" bufid="3922589687349622" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7331_1449307131" fromusername="lihui9097" /></msg>`
-   2015-12-05 17:19:08,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="3540" length="6414" bufid="3100077521699149" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7332_1449307145" fromusername="lihui9097" /></msg>`
+   2015-12-05 17:18:09,你,:rt:`[语音]`
+   2015-12-05 17:18:37,你,:rt:`[语音]`
+   2015-12-05 17:18:50,你,:rt:`[语音]`
+   2015-12-05 17:18:59,你,:rt:`[语音]`
+   2015-12-05 17:19:08,你,:rt:`[语音]`
    2015-12-05 17:19:12,我,:st:`你已经有基本的抽象和建模能力了`
    2015-12-05 17:19:45,你,:rt:`我先把需求这块搞明白`
-   2015-12-05 17:19:59,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="7540" length="14454" bufid="1944151729373599" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7335_1449307191" fromusername="lihui9097" /></msg>`
-   2015-12-05 17:20:35,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="8740" length="15465" bufid="1796718167064900" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7336_1449307227" fromusername="lihui9097" /></msg>`
-   2015-12-05 17:21:01,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="7400" length="12764" bufid="1934273235255653" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7337_1449307254" fromusername="lihui9097" /></msg>`
+   2015-12-05 17:19:59,你,:rt:`[语音]`
+   2015-12-05 17:20:35,你,:rt:`[语音]`
+   2015-12-05 17:21:01,你,:rt:`[语音]`
    2015-12-05 17:21:22,你,:rt:`你们今天没事吧`
    2015-12-05 17:21:33,我,:st:`需求金字塔重点在层次`
    2015-12-05 17:21:45,我,:st:`所以顶点无意义`
    2015-12-05 17:22:02,你,:rt:`哦，原来如此`
-   2015-12-05 17:22:14,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="6960" length="13382" bufid="1862379691966811" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7342_1449307328" fromusername="lihui9097" /></msg>`
+   2015-12-05 17:22:14,你,:rt:`[语音]`
    2015-12-05 17:22:24,我,:st:`今天没事，我中午就回来了`
    2015-12-05 17:22:28,你,:rt:`我说呢`
    2015-12-05 17:22:37,我,:st:`对`
@@ -66,11 +60,11 @@
    2015-12-05 17:23:38,你,:rt:`昨天我问的`
    2015-12-05 17:23:40,我,:st:`？`
    2015-12-05 17:23:53,我,:st:`第一次那个问题吗`
-   2015-12-05 17:24:04,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="1940" length="3482" bufid="1646274273083792" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7352_1449307443" fromusername="lihui9097" /></msg>`
-   2015-12-05 17:24:17,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="10020" length="17646" bufid="2789259492655496" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7353_1449307447" fromusername="lihui9097" /></msg>`
-   2015-12-05 17:24:24,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="5620" length="10033" bufid="3620782336901519" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7354_1449307459" fromusername="lihui9097" /></msg>`
-   2015-12-05 17:24:36,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="10060" length="19845" bufid="2471178331816266" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7355_1449307466" fromusername="lihui9097" /></msg>`
-   2015-12-05 17:24:56,你,:rt:`<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2500" length="4355" bufid="4428373698675115" clientmsgid="495196f47d87afee7cd3edcbbf542f54wangxuesong7357_1449307493" fromusername="lihui9097" /></msg>`
+   2015-12-05 17:24:04,你,:rt:`[语音]`
+   2015-12-05 17:24:17,你,:rt:`[语音]`
+   2015-12-05 17:24:24,你,:rt:`[语音]`
+   2015-12-05 17:24:36,你,:rt:`[语音]`
+   2015-12-05 17:24:56,你,:rt:`[语音]`
    2015-12-05 17:25:35,你,:rt:`语音是不是不好听`
    2015-12-05 17:25:40,你,:rt:`你回家了吗`
    2015-12-05 17:25:58,我,:st:`我回家了`

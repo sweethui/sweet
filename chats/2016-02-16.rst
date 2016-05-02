@@ -15,23 +15,17 @@
    2016-02-16 10:33:10,你,:rt:`不忙 看文档`
    2016-02-16 10:33:44,我,:st:`给你看个东西吧`
    2016-02-16 10:33:57,你,:rt:`好啊`
-   2016-02-16 10:34:35,我,:st:`<msg><appmsg appid="wxd5d193765919a447"  sdkver="0"><title>壹心理 | 道德不是一种越高越好的东西</title><des>文：农庄春阳|壹心理专栏作者 Oh, there ain&apos;t no rest for the wicked.——《Lucifer》 在农历新年期间，电视一直都在回放春晚的内容。</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://www.wandoujia.com/items/7598053350311945326?utm_medium=wechat-friends&amp;utm_source=2251663&amp;utm_campaign=social&amp;client=ripple</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3042020100043b3039020100020461be109802030f4437020495250d6f020456c28abd04176a696a6930313438313538395f313435353531373531390201000201000400</cdnthumburl><cdnthumblength>5637</cdnthumblength><cdnthumbwidth>150</cdnthumbwidth><cdnthumbheight>150</cdnthumbheight><cdnthumbaeskey>0f17e08f8cc144838b3fe46a25148d22</cdnthumbaeskey><aeskey>0f17e08f8cc144838b3fe46a25148d22</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl></appmsg><appinfo><version>0</version><appname>豌豆荚一览</appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-02-16 10:34:35,我,:st:`[动画表情]`
    2016-02-16 10:42:04,我,:st:`看完了吗？`
    2016-02-16 10:42:12,你,:rt:`没 等会`
    2016-02-16 10:59:12,你,:rt:`看完了`
    2016-02-16 10:59:23,我,:st:`好玩吧`
    2016-02-16 10:59:49,你,:rt:`有啥好玩的`
-   2016-02-16 11:00:02,你,:rt:`<?xml version="1.0"?>
-<msg>
-	<img aeskey="37653933316362373865643838323364" encryver="1" cdnthumbaeskey="37653933316362373865643838323364" cdnthumburl="304c02010004453043020100020491db2f9002030f4437020490250d6f020456c290b204213031666562623263646339336631356537633739376661633762633935326565310201000201000400" cdnthumblength="2872" cdnthumbheight="84" cdnthumbwidth="150" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="304c02010004453043020100020491db2f9002030f4437020490250d6f020456c290b204213031666562623263646339336631356537633739376661633762633935326565310201000201000400" length="39917" cdnbigimgurl="304c02010004453043020100020491db2f9002030f4437020490250d6f020456c290b204213031666562623263646339336631356537633739376661633762633935326565310201000201000400" hdlength="93208" md5="f4c1ebd203cf2802da96293698a0740f" />
-</msg>`
+   2016-02-16 11:00:02,你,:rt:`[图片]`
    2016-02-16 11:00:06,你,:rt:`这才好玩呢`
    2016-02-16 11:00:09,我,:st:`这个好玩`
    2016-02-16 11:00:15,我,:st:`哈哈`
-   2016-02-16 11:00:36,你,:rt:`<?xml version="1.0"?>
-<msg>
-	<img aeskey="34383361383332393936316564303462" encryver="1" cdnthumbaeskey="34383361383332393936316564303462" cdnthumburl="304c02010004453043020100020491db2f9002030f4437020490250d6f020456c290d404213037363065633066613333666437646166396239323138616335383135303961310201000201000400" cdnthumblength="3346" cdnthumbheight="150" cdnthumbwidth="100" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="304c02010004453043020100020491db2f9002030f4437020490250d6f020456c290d404213037363065633066613333666437646166396239323138616335383135303961310201000201000400" length="56724" cdnbigimgurl="304c02010004453043020100020491db2f9002030f4437020490250d6f020456c290d404213037363065633066613333666437646166396239323138616335383135303961310201000201000400" hdlength="83968" md5="4ad09be9913556b636d6f739285cb2d9" />
-</msg>`
+   2016-02-16 11:00:36,你,:rt:`[图片]`
    2016-02-16 11:00:42,你,:rt:`你看他的爪子`
    2016-02-16 11:00:49,你,:rt:`好想摸摸`
    2016-02-16 11:01:04,我,:st:`是`

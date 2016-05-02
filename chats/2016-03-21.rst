@@ -180,7 +180,7 @@
    2016-03-21 15:09:39,你,:rt:`不知道`
    2016-03-21 15:10:02,你,:rt:`郑李辉是leader 吗？`
    2016-03-21 15:12:22,我,:st:`单机的，就算吧，类似旭明这样的角色`
-   2016-03-21 15:25:17,我,:st:`<msg><img hdlength="0" length="62499" cdnbigimgurl="" cdnmidimgurl="3043020100043c303a020100020410d7630002033d0af70204718e1e6f020456efa1dd04186c6968756939303937373338315f313435383534353131370201000201000400" aeskey="25bc2ff61f7b4a69ac8a317168db2e04" cdnthumburl="3043020100043c303a020100020410d7630002033d0af70204718e1e6f020456efa1dd04186c6968756939303937373338315f313435383534353131370201000201000400" cdnthumblength="2046" cdnthumbwidth="67" cdnthumbheight="120" cdnthumbaeskey="25bc2ff61f7b4a69ac8a317168db2e04" encryver="1"/><commenturl></commenturl><MMAsset><m_assetUrlForSystem><![CDATA[C5037645-A7FF-4277-BF7E-7671A9A8BBBF/L0/001]]></m_assetUrlForSystem><m_isNeedOriginImage>0</m_isNeedOriginImage><m_isFailedFromIcloud>0</m_isFailedFromIcloud><m_isLoadingFromIcloud>0</m_isLoadingFromIcloud></MMAsset></msg>`
+   2016-03-21 15:25:17,我,:st:`[图片]`
    2016-03-21 16:18:05,我,:st:`还没完吗`
    2016-03-21 16:35:38,你,:rt:`被耿大姐粘住了`
    2016-03-21 16:35:50,我,:st:`哦`

@@ -4,7 +4,7 @@
 .. csv-table::
    :widths: 25, 1, 60
 
-   2016-02-18 09:02:58,你,:rt:`<msg><emoji fromusername = "lihui9097" tousername = "wangxuesong73" type="2" idbuffer="media:0_0" md5="0f28195ecd9d4e3d87ee03122992eb67" len = "115446" productid="" androidmd5="0f28195ecd9d4e3d87ee03122992eb67" androidlen="115446" s60v3md5 = "0f28195ecd9d4e3d87ee03122992eb67" s60v3len="115446" s60v5md5 = "0f28195ecd9d4e3d87ee03122992eb67" s60v5len="115446" cdnurl = "http://emoji.qpic.cn/wx_emoji/ZwKWvXGDRdMnACZ3G0EtgzILhzicDqHh60Ke97a7PGzm5UwN10iaRE9A/" designerid = "" thumburl = "http://mmbiz.qpic.cn/mmemoticon/dx4Y70y9Xcv4yfSKyEvKbUwIyB5ZjGBbZxvAuAia3pHrUoQof8rduJw/0" encrypturl = "http://emoji.qpic.cn/wx_emoji/AGdOkKjaiaU5F0v6sA16sgmM1BM6gvq7o7r8gZeZJ3pzxPQAmXQ11iaQ/" aeskey= "7cf7bfae2ca25a18ebadc153d03381e8" ></emoji> <gameext type="0" content="0" ></gameext></msg>`
+   2016-02-18 09:02:58,你,:rt:`[动画表情]`
    2016-02-18 09:11:59,我,:st:`早`
    2016-02-18 09:36:50,你,:rt:`杨总昨天把我的oa日志看了 从1月25号到2月3号`
    2016-02-18 09:53:38,我,:st:`挺好`

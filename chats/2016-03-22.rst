@@ -147,7 +147,7 @@
    2016-03-22 16:08:38,你,:rt:`我觉得也别看了`
    2016-03-22 16:08:40,我,:st:`对呀`
    2016-03-22 16:08:42,你,:rt:`字太多`
-   2016-03-22 16:09:06,我,:st:`<msg><appmsg appid=""  sdkver="0"><title>分享 @半生浮日 的头条文章</title><des>为PU（亲子不确定性）正名</des><action></action><type>5</type><showtype>0</showtype><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction><content></content><contentattr>0</contentattr><url>http://media.weibo.cn/article?id=2309403938493494639253&amp;jumpfrom=weibocom</url><lowurl></lowurl><dataurl></dataurl><lowdataurl></lowdataurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext><cdnthumburl>3043020100043c303a020100020410d7630002030f52590204c694cdcb020456f0fda404186c6968756939303937373538305f313435383633343134360201000201000400</cdnthumburl><cdnthumblength>12011</cdnthumblength><cdnthumbwidth>160</cdnthumbwidth><cdnthumbheight>160</cdnthumbheight><cdnthumbaeskey>7e06a8191b0b4d9cb57e8d97536ea552</cdnthumbaeskey><aeskey>7e06a8191b0b4d9cb57e8d97536ea552</aeskey><encryver>0</encryver></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl><thumburl></thumburl></appmsg><appinfo><version>0</version><appname></appname><isforceupdate>1</isforceupdate></appinfo></msg>`
+   2016-03-22 16:09:06,我,:st:`[动画表情]`
    2016-03-22 16:09:22,我,:st:`你看看这个`
    2016-03-22 16:10:40,你,:rt:`好`
    2016-03-22 16:26:45,你,:rt:`看完了`
@@ -239,10 +239,7 @@
    2016-03-22 20:10:45,你,:rt:`打完了`
    2016-03-22 20:15:41,我,:st:`好`
    2016-03-22 20:15:46,我,:st:`我到家了`
-   2016-03-22 20:46:01,你,:rt:`<?xml version="1.0"?>
-<msg>
-	<img aeskey="77f499b021e44a48989fe1df229549f6" encryver="1" cdnthumbaeskey="77f499b021e44a48989fe1df229549f6" cdnthumburl="3044020100043d303b020100020491db2f9002032dcdc9020424a4b73d020456f13e89041977616e67787565736f6e673733315f313435383635303736300201000201000400" cdnthumblength="9071" cdnthumbheight="75" cdnthumbwidth="100" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3044020100043d303b020100020491db2f9002032dcdc9020424a4b73d020456f13e89041977616e67787565736f6e673733315f313435383635303736300201000201000400" length="87331" md5="5aaad94c4460688fbeb2f1fa4839bde1" />
-</msg>`
+   2016-03-22 20:46:01,你,:rt:`[图片]`
    2016-03-22 20:46:12,你,:rt:`欧斯曼科技`
    2016-03-22 20:46:16,你,:rt:`就在这里变`
    2016-03-22 20:46:24,你,:rt:`应该是学校弄的`
