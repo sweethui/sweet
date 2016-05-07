@@ -588,7 +588,11 @@
      - :st:`我出来了`
    * - 2016-01-21 18:38:33
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/33469.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-21 18:38:37
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/33470.mp3" type="audio/mpeg" />不能播放语音</audio>

@@ -315,7 +315,7 @@
      - :st:`我什么都没做呀`
    * - 2016-01-12 12:46:40
      - 你
-     - :rt:`[动画表情]`
+     - [动画表情]
    * - 2016-01-12 12:54:07
      - 我
      - :st:`对不起，我错了，虽然我不知道错哪了`
@@ -345,7 +345,7 @@
      - :rt:`哈哈`
    * - 2016-01-12 12:57:47
      - 我
-     - :st:`[动画表情]`
+     - [动画表情]
    * - 2016-01-12 12:58:02
      - 你
      - :rt:`我的问题解决了`
@@ -774,13 +774,19 @@
      - :st:`刘甲今天把我气疯了，我已经剥夺他的领导权了，由东海负责`
    * - 2016-01-12 20:26:41
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30068.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:26:46
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30069.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:27:14
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30070.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:27:21
      - 我
      - :st:`我出来了，宋文彬送我`
@@ -789,13 +795,19 @@
      - :st:`高速口`
    * - 2016-01-12 20:28:43
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30073.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:28:47
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30074.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:29:18
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30075.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:29:19
      - 我
      - :st:`哦`
@@ -804,13 +816,19 @@
      - :st:`明天你给我说说他们都说我什么`
    * - 2016-01-12 20:30:02
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30078.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:30:13
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30079.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:30:20
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30080.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:30:44
      - 我
      - :st:`是`
@@ -825,19 +843,27 @@
      - :st:`比我训建辉还厉害`
    * - 2016-01-12 20:31:20
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30085.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:31:52
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30086.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:32:00
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30087.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:32:06
      - 我
      - :st:`我已经说了，刘甲想干就干，不想干就走`
    * - 2016-01-12 20:32:16
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30089.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:32:40
      - 我
      - :st:`好，听你的`
@@ -846,10 +872,14 @@
      - :st:`我不生气了`
    * - 2016-01-12 20:33:03
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30092.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:33:39
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30093.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:33:57
      - 我
      - :st:`嗯`
@@ -858,31 +888,45 @@
      - :st:`我已经没事了`
    * - 2016-01-12 20:34:19
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30096.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:34:37
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30097.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:34:45
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30098.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:35:05
      - 我
      - :st:`真不错`
    * - 2016-01-12 20:35:07
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30100.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:35:26
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30101.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:35:27
      - 我
      - :st:`没事了，不骗你`
    * - 2016-01-12 20:35:37
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30103.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:35:55
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30104.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:36:03
      - 我
      - :st:`好`
@@ -894,13 +938,19 @@
      - :st:`太晚了`
    * - 2016-01-12 20:37:19
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30108.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:37:24
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30109.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:37:50
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30110.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:37:54
      - 我
      - :st:`听不见，你注意安全`
@@ -912,46 +962,68 @@
      - :st:`看见你就肯定没气了`
    * - 2016-01-12 20:38:38
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30114.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:38:39
      - 我
      - :st:`不好`
    * - 2016-01-12 20:38:53
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30116.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:39:06
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30117.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:39:19
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30118.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:39:31
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30119.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:39:43
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30120.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:39:55
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30121.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:40:25
      - 我
      - :st:`哈哈`
    * - 2016-01-12 20:40:49
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30123.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:40:55
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30124.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:41:23
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30125.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:41:39
      - 我
      - :st:`不错`
    * - 2016-01-12 20:41:51
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30127.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:42:56
      - 我
      - :st:`早不生气了`
@@ -960,34 +1032,46 @@
      - :st:`你是我的开心果`
    * - 2016-01-12 20:43:35
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30130.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:43:44
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30131.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:44:16
      - 我
      - :st:`谢谢你`
    * - 2016-01-12 20:44:20
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30133.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:45:48
      - 我
      - :st:`没问题`
    * - 2016-01-12 20:46:13
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30135.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:46:36
      - 我
      - :st:`没事的`
    * - 2016-01-12 20:48:10
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30137.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:48:29
      - 我
      - :st:`哈哈`
    * - 2016-01-12 20:50:10
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30139.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:50:27
      - 我
      - :st:`陪你呀`
@@ -996,7 +1080,9 @@
      - :st:`宋文彬走错道了[抓狂]`
    * - 2016-01-12 20:52:06
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/30142.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-01-12 20:52:24
      - 我
      - :st:`bye`

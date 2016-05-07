@@ -48,7 +48,7 @@
      - :rt:`不搭理我`
    * - 2016-04-23 18:08:45
      - 你
-     - :rt:`[动画表情]`
+     - [动画表情]
    * - 2016-04-23 18:08:49
      - 我
      - :st:`没有`
@@ -195,64 +195,96 @@
      - :st:`领导用人从来都是和我先商量`
    * - 2016-04-23 18:24:17
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/51569.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-23 18:24:27
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/51570.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-23 18:24:32
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/51571.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-23 18:24:48
      - 我
      - :st:`是`
    * - 2016-04-23 18:26:03
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/51573.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-23 18:26:04
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/51574.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-23 18:26:39
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/51575.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-23 18:26:49
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/51576.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-23 18:26:58
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/51577.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-23 18:27:01
      - 我
      - :st:`你说的正是我想的`
    * - 2016-04-23 18:27:35
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/51579.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-23 18:27:42
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/51580.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-23 18:28:41
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/51581.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-23 18:28:46
      - 我
      - :st:`是呗，旭明还是有点怕他`
    * - 2016-04-23 18:28:56
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/51583.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-23 18:29:18
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/51584.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-23 18:29:30
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/51585.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-23 18:29:57
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/51586.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-23 18:30:09
      - 我
      - :st:`你说的没错`
    * - 2016-04-23 18:30:11
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/51588.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-23 18:30:39
      - 我
      - :st:`没有呀，很可爱`
@@ -390,7 +422,7 @@
      - :rt:`分享篇文章`
    * - 2016-04-23 22:21:01
      - 你
-     - :rt:`[动画表情]`
+     - [动画表情]
    * - 2016-04-23 22:21:17
      - 你
      - :rt:`别回我`

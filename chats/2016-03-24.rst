@@ -489,28 +489,44 @@
      - :st:`行`
    * - 2016-03-24 18:58:44
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45255.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 18:58:53
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45256.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 18:59:05
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45257.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 18:59:16
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45258.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 18:59:27
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45259.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 18:59:33
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45260.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 18:59:41
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45261.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 18:59:47
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45262.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:00:24
      - 我
      - :st:`现在田宠着她`
@@ -519,58 +535,88 @@
      - :st:`她本来就这样`
    * - 2016-03-24 19:00:57
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45265.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:01:02
      - 我
      - :st:`和我说话都这样，让我顶回去两次`
    * - 2016-03-24 19:01:03
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45267.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:01:20
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45268.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:01:25
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45269.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:01:37
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45270.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:01:45
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45271.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:02:34
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45272.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:02:55
      - 我
      - :st:`她是这样`
    * - 2016-03-24 19:03:15
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45274.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:03:29
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45275.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:03:33
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45276.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:03:39
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45277.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:05:08
      - 我
      - :st:`田好像是想让她当组长`
    * - 2016-03-24 19:05:20
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45279.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:05:29
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45280.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:05:45
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45281.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:06:05
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45282.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:06:54
      - 我
      - :st:`别生气了`
@@ -579,7 +625,9 @@
      - :st:`画个圈圈诅咒她`
    * - 2016-03-24 19:07:44
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/45285.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-24 19:08:07
      - 我
      - :st:`好的`

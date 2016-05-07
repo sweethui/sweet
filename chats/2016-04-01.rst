@@ -861,10 +861,14 @@
      - :rt:`我就直接说得了`
    * - 2016-04-01 18:13:08
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/47161.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-01 18:13:12
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/47162.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-01 18:13:13
      - 我
      - :st:`是，就说你今天接到的任务，需求也不是很明确，你凭着自己的理解去调研的，让他看看有没有问题`
@@ -888,28 +892,39 @@
      - :rt:`舅舅家的`
    * - 2016-04-01 18:20:19
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/47170.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-01 18:20:26
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/47171.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-01 18:20:31
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/47172.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-01 18:20:58
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/47173.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-01 18:21:00
      - 我
      - :st:`被宠坏了`
    * - 2016-04-01 18:21:06
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/47175.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-04-01 18:21:12
      - 我
      - :st:`是`
    * - 2016-04-01 21:18:09
      - 你
-     - :rt:`[图片]`
+     - .. image:: images/47177.jpg
+          :width: 100px
    * - 2016-04-01 21:18:57
      - 你
      - :rt:`别的就没说，`

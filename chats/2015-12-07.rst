@@ -207,7 +207,8 @@
      - :st:`哦，最上面没有sheet页标签吗？`
    * - 2015-12-07 16:11:00
      - 你
-     - :rt:`[图片]`
+     - .. image:: images/22116.jpg
+          :width: 100px
    * - 2015-12-07 16:11:10
      - 我
      - :st:`你把网址发给我`
@@ -240,13 +241,16 @@
      - :st:`说错了，是右边`
    * - 2015-12-07 16:16:50
      - 我
-     - :st:`[图片]`
+     - .. image:: images/22127.jpg
+          :width: 100px
    * - 2015-12-07 16:16:51
      - 我
-     - :st:`[图片]`
+     - .. image:: images/22128.jpg
+          :width: 100px
    * - 2015-12-07 16:16:52
      - 我
-     - :st:`[图片]`
+     - .. image:: images/22129.jpg
+          :width: 100px
    * - 2015-12-07 16:17:10
      - 我
      - :st:`看见了吗`
@@ -693,10 +697,14 @@
      - :st:`好像不多，下午开评审会`
    * - 2015-12-07 23:17:43
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/22278.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-07 23:17:46
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/22279.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-07 23:27:34
      - 你
      - :rt:`好了`

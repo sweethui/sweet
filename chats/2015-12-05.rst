@@ -21,7 +21,8 @@
      - :rt:`别回了`
    * - 2015-12-05 17:08:32
      - 你
-     - :rt:`[图片]`
+     - .. image:: images/21262.jpg
+          :width: 100px
    * - 2015-12-05 17:08:45
      - 你
      - :rt:`我画线的这句话对吗？`
@@ -36,7 +37,8 @@
      - :rt:`还有需要反复推敲用户目标这句话`
    * - 2015-12-05 17:09:53
      - 你
-     - :rt:`[图片]`
+     - .. image:: images/21267.jpg
+          :width: 100px
    * - 2015-12-05 17:09:55
      - 我
      - :st:`也对`
@@ -84,10 +86,14 @@
      - :st:`那么你的维度是对应的层还是边`
    * - 2015-12-05 17:16:49
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21283.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:16:59
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21284.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:17:04
      - 你
      - :rt:`棱`
@@ -96,25 +102,37 @@
      - :st:`对了`
    * - 2015-12-05 17:17:57
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21287.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:17:58
      - 我
      - :st:`所以球形是没有维度的`
    * - 2015-12-05 17:18:09
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21289.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:18:37
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21290.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:18:50
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21291.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:18:59
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21292.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:19:08
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21293.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:19:12
      - 我
      - :st:`你已经有基本的抽象和建模能力了`
@@ -123,13 +141,19 @@
      - :rt:`我先把需求这块搞明白`
    * - 2015-12-05 17:19:59
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21296.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:20:35
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21297.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:21:01
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21298.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:21:22
      - 你
      - :rt:`你们今天没事吧`
@@ -144,7 +168,9 @@
      - :rt:`哦，原来如此`
    * - 2015-12-05 17:22:14
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21303.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:22:24
      - 我
      - :st:`今天没事，我中午就回来了`
@@ -174,19 +200,29 @@
      - :st:`第一次那个问题吗`
    * - 2015-12-05 17:24:04
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21313.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:24:17
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21314.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:24:24
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21315.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:24:36
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21316.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:24:56
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/21317.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2015-12-05 17:25:35
      - 你
      - :rt:`语音是不是不好听`

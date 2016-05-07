@@ -18,7 +18,8 @@
      - :st:`不过老毛有问题了`
    * - 2016-03-16 08:51:08
      - 我
-     - :st:`[图片]`
+     - .. image:: images/43414.jpg
+          :width: 100px
    * - 2016-03-16 08:51:31
      - 我
      - :st:`武总要他汇报`
@@ -108,7 +109,7 @@
      - :st:`洪越和田争论呢`
    * - 2016-03-16 10:37:35
      - 我
-     - :st:`[动画表情]`
+     - [动画表情]
    * - 2016-03-16 11:27:57
      - 你
      - :rt:`亲，上海电信那个需求没事吧`
@@ -819,40 +820,58 @@
      - :st:`哦，我到西门了`
    * - 2016-03-16 18:58:47
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/43681.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-16 18:58:55
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/43682.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-16 18:58:57
      - 我
      - :st:`错了，东门`
    * - 2016-03-16 18:59:29
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/43684.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-16 18:59:35
      - 我
      - :st:`你去车那吧，我应该比你快`
    * - 2016-03-16 18:59:38
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/43686.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-16 18:59:49
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/43687.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-16 18:59:55
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/43688.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-16 19:00:08
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/43689.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-16 19:00:25
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/43690.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-16 19:00:26
      - 我
      - :st:`东门比西门近`
    * - 2016-03-16 19:00:40
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/43692.mp3" type="audio/mpeg" />不能播放语音</audio>
    * - 2016-03-16 19:01:43
      - 我
      - :st:`我到了`

@@ -1263,4 +1263,6 @@
      - :rt:`好`
    * - 2016-01-07 22:08:30
      - 你
-     - :rt:`[语音]`
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/29223.mp3" type="audio/mpeg" />不能播放语音</audio>
