@@ -6,7 +6,7 @@
 
    * - 2015-12-10 07:24:19
      - 我
-     - [动画表情]
+     - [链接] `你的人生本无意义，除非…… <http://mp.weixin.qq.com/s?__biz=MzAxMTcwNzc3OQ==&mid=400962757&idx=1&sn=038c83aaf894d656c1cca7490e43b3c5&scene=1&srcid=1210Ix9Gs1mwG4jxm25Uxw2V#rd>`_
    * - 2015-12-10 09:22:59
      - 你
      - :rt:`你说这么大雾 我老公都不问问我上班怎么样`

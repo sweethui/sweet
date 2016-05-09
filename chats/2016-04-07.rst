@@ -459,7 +459,7 @@
      - :st:`是，因为人是感情动物`
    * - 2016-04-07 12:11:48
      - 你
-     - [动画表情]
+     - [链接] `异性之间有纯友谊吗？ <http://mp.weixin.qq.com/s?__biz=MjM5NzQ4MDg2MA==&mid=402741602&idx=1&sn=3d8ce1ea812337c4196c7b8b76afaee6&scene=1&srcid=0406NKyRYeWHRpZLo0cs5viL#rd>`_
    * - 2016-04-07 12:12:14
      - 你
      - :rt:`这是你最开始发给我的`

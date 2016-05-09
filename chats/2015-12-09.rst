@@ -6,7 +6,7 @@
 
    * - 2015-12-09 22:29:13
      - 你
-     - [动画表情]
+     - [链接] `年度大总结！太精辟了！ <http://mp.weixin.qq.com/s?__biz=MzA5NDUzMTYzMw==&mid=400976481&idx=1&sn=bf58d65248cd48c293fdf4f121c6fd93&scene=1&srcid=1209bJCyl5Tgoo1CIKPsXU1M#rd>`_
    * - 2015-12-09 22:33:30
      - 你
      - :rt:`感谢你的陪伴，感谢你陪我度过每一天`

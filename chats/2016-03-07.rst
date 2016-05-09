@@ -546,7 +546,7 @@
      - :st:`你忙啥呢`
    * - 2016-03-07 17:02:20
      - 你
-     - [动画表情]
+     - [链接] `程序员的武林江湖：技术为外功，思维乃内力 <http://mp.weixin.qq.com/s?__biz=MjAzNzMzNTkyMQ==&mid=405198761&idx=1&sn=3d449a3825cce04efbdefb85a05904f4&scene=1&srcid=0307vxb6H28ofUotuZUpayjX#rd>`_
    * - 2016-03-07 17:07:06
      - 我
      - :st:`挺好`

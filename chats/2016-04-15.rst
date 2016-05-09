@@ -351,7 +351,7 @@
      - :st:`给你看个东西`
    * - 2016-04-15 14:47:32
      - 我
-     - [动画表情]
+     - [链接] `男女关系之二：男性性策略 <http://mp.weixin.qq.com/s?__biz=MjM5NzQwNjcyMQ==&mid=201129120&idx=3&sn=4ff8bc366817c6fe9325e37bc946efeb&scene=1&srcid=0414zxaPsyMRLLC9GtpSVK98#rd>`_
    * - 2016-04-15 14:48:12
      - 你
      - :rt:`好吧`

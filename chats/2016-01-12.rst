@@ -345,7 +345,7 @@
      - :rt:`哈哈`
    * - 2016-01-12 12:57:47
      - 我
-     - [动画表情]
+     - [链接] `「橘子娱乐 | 看完这21个彩蛋，《星战：原力觉醒》会更好看」 <http://www.wandoujia.com/items/-1778903795633360122?utm_campaign=social&utm_medium=wechat-friends&utm_source=2251663>`_
    * - 2016-01-12 12:58:02
      - 你
      - :rt:`我的问题解决了`

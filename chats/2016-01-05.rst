@@ -420,7 +420,7 @@
      - :st:`哦`
    * - 2016-01-05 15:49:27
      - 我
-     - [动画表情]
+     - [链接] `壹心理 | 为何你在感情中总是喜欢冷战？ <http://www.wandoujia.com/items/2081539444069877758?utm_medium=wechat-friends&utm_source=2251663&utm_campaign=social&from=ripple>`_
    * - 2016-01-05 15:50:09
      - 你
      - :rt:`亲 王洪越让我写调研vertica的计划 我不会写 怎么办啊`

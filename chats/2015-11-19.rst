@@ -252,7 +252,7 @@
      - :st:`是呗，哪有你那么乖`
    * - 2015-11-19 17:08:57
      - 你
-     - [动画表情]
+     - [链接] `在哲学家眼里，技术的本质是…… <http://mp.weixin.qq.com/s?__biz=MjAzNzMzNTkyMQ==&mid=401259317&idx=1&sn=2bfa7001d448391c2cb61e5f342d3875&scene=1&srcid=1119NfuWDNCbKN1IjVAExDZb#rd>`_
    * - 2015-11-19 17:09:06
      - 你
      - :rt:`看不懂`

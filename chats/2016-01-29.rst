@@ -199,7 +199,7 @@
      - :st:`好`
    * - 2016-01-29 17:46:44
      - 我
-     - [动画表情]
+     - [链接] `简书 | 谈谈性，说说情 <http://www.wandoujia.com/items/5812602732934208199?utm_medium=wechat-friends&utm_source=2251663&utm_campaign=social&client=ripple>`_
    * - 2016-01-29 18:29:17
      - 我
      - :st:`看完了吗`

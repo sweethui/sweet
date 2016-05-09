@@ -6,7 +6,7 @@
 
    * - 2015-11-16 08:52:45
      - 我
-     - [动画表情]
+     - [链接] `欲望的断舍离 <http://mp.weixin.qq.com/s?__biz=MjM5NDIzMzU4MA==&mid=400473460&idx=1&sn=04bd1af14c825c14eef164f73e4660dd&scene=1&srcid=1116aIlgnvZlhr6RDL2gd4zJ#rd>`_
    * - 2015-11-16 08:53:27
      - 我
      - :st:`这篇文章可以告诉你我不想升职的原因`

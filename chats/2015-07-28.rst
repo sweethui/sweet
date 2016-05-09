@@ -174,7 +174,7 @@
      - :st:`哦`
    * - 2015-07-28 13:28:04
      - 我
-     - [动画表情]
+     - [链接] `http://oncol.dxy.cn/article/137123?from=weibo20150415 <http://oncol.dxy.cn/article/137123?from=weibo20150415>`_
    * - 2015-07-28 14:14:56
      - 我
      - :st:`你怎么样了`

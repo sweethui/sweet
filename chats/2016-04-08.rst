@@ -433,7 +433,7 @@
      - :st:`结果又惹祸了`
    * - 2016-04-08 12:09:43
      - 你
-     - [动画表情]
+     - [链接] `猫照镜子时发现被剃了毛之后，就一直这样了... <http://mp.weixin.qq.com/s?__biz=MjM5MDAzNDcwMA==&mid=404436057&idx=1&sn=fb89c02e9c5e70c92a67e069924baa6a&scene=1&srcid=0408wyOwvlUx7EtV1S9CZiAL#rd>`_
    * - 2016-04-08 12:10:14
      - 我
      - :st:`哈哈`
@@ -874,7 +874,7 @@
      - :st:`和谁面谈？`
    * - 2016-04-08 15:14:45
      - 我
-     - [动画表情]
+     - ELK在广告系统监控中的应用 及 Elasticsearch简介 - Youmi Tech Blog. http://tech.youmi.net/2016/02/137134732.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
    * - 2016-04-08 15:27:28
      - 你
      - :rt:`清明节后我四姑家妹妹的丈夫查出脑瘤来了`

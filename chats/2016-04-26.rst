@@ -511,7 +511,7 @@
      - :rt:`我睡了一会了`
    * - 2016-04-26 12:54:10
      - 我
-     - [动画表情]
+     - [链接] `» 沐猿而冠·附录·何为理性动物 <http://headsalon.org/archives/6814.html>`_
    * - 2016-04-26 12:54:34
      - 我
      - :st:`你看看这个`
@@ -586,10 +586,10 @@
      - :rt:`恩`
    * - 2016-04-26 13:16:43
      - 我
-     - [动画表情]
+     - [链接] `男女关系之一：纠结的一夫一妻制 <http://mp.weixin.qq.com/s?__biz=MjM5NzQwNjcyMQ==&mid=200913345&idx=1&sn=234ab8bb91355051c49203a41e1f1892&scene=1&srcid=0414eLVipFpuDjyseWlfEdla#rd>`_
    * - 2016-04-26 13:16:51
      - 我
-     - [动画表情]
+     - [链接] `男女关系之二：男性性策略 <http://mp.weixin.qq.com/s?__biz=MjM5NzQwNjcyMQ==&mid=201129120&idx=3&sn=4ff8bc366817c6fe9325e37bc946efeb&scene=1&srcid=0414zxaPsyMRLLC9GtpSVK98#rd>`_
    * - 2016-04-26 13:26:16
      - 我
      - :st:`这几天忙都忘了问你，你姐怎么样了`

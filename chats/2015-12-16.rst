@@ -972,7 +972,7 @@
      - :rt:`半点多吧`
    * - 2015-12-16 17:42:09
      - 你
-     - [动画表情]
+     - [链接] `曾经被禁，后来成为经典的30本书！你读过哪些？ <http://mp.weixin.qq.com/s?__biz=MzA3MjQ1NjQxMA==&mid=400948590&idx=2&sn=d72f925dc19ab9446b76d0ef979956ee&scene=1&srcid=12161kEEXwjllmvERELykJf3#rd>`_
    * - 2015-12-16 17:42:21
      - 你
      - :rt:`这些书你看过几本？`

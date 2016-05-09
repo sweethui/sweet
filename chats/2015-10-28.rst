@@ -162,7 +162,7 @@
      - :st:`有太多话想和你说`
    * - 2015-10-28 11:03:03
      - 你
-     - [动画表情]
+     - [链接] `爱外出散步的猫——喵吉 <https://moment.douban.com/post/126147/?douban_rec=1?platform=iPhone&from=singlemessage&isappinstalled=0>`_
    * - 2015-10-28 11:03:26
      - 你
      - :rt:`行`

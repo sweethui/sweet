@@ -726,7 +726,7 @@
      - :rt:`我记得你说过差不多的话`
    * - 2016-03-04 18:15:58
      - 你
-     - [动画表情]
+     - [链接] `勤奋是最猛的毒药 ，为啥说大部分勤奋都是无效的 <http://mp.weixin.qq.com/s?__biz=MzA3MjQ1NjQxMA==&mid=401562178&idx=2&sn=331a529b57c1158ff9d0e812a946e6d3&scene=1&srcid=03043MDPpiGprQATnOOZ2Yvk#rd>`_
    * - 2016-03-04 18:18:30
      - 我
      - :st:`是`
