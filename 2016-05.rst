@@ -12,3 +12,7 @@
 .. include:: chats/2016-05-10.rst
 .. include:: chats/2016-05-11.rst
 .. include:: chats/2016-05-12.rst
+.. include:: chats/2016-05-13.rst
+.. include:: chats/2016-05-14.rst
+.. include:: chats/2016-05-16.rst
+.. include:: chats/2016-05-17.rst
