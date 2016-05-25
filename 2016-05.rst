@@ -19,3 +19,5 @@
 .. include:: chats/2016-05-18.rst
 .. include:: chats/2016-05-19.rst
 .. include:: chats/2016-05-20.rst
+.. include:: chats/2016-05-23.rst
+.. include:: chats/2016-05-24.rst
