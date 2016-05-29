@@ -21,3 +21,7 @@
 .. include:: chats/2016-05-20.rst
 .. include:: chats/2016-05-23.rst
 .. include:: chats/2016-05-24.rst
+.. include:: chats/2016-05-25.rst
+.. include:: chats/2016-05-26.rst
+.. include:: chats/2016-05-27.rst
+.. include:: chats/2016-05-28.rst
