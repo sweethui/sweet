@@ -1,0 +1,23 @@
+.rt {
+  color: #00B400;
+}
+
+.st {
+  color: blue;
+}
+
+.wy-nav-content {
+    max-width: 1050px
+}
+
+.wy-table-responsive table td {
+  word-wrap: break-word;
+  word-break: break-all;
+  white-space: pre-wrap;
+}
+
+div[class^='highlight'] pre {
+  word-wrap: break-word;
+  word-break: break-all;
+  white-space: pre-wrap;
+}
