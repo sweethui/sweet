@@ -7,3 +7,6 @@
 .. include:: chats/2016-06-01.rst
 .. include:: chats/2016-06-02.rst
 .. include:: chats/2016-06-03.rst
+.. include:: chats/2016-06-06.rst
+.. include:: chats/2016-06-07.rst
+.. include:: chats/2016-06-08.rst
