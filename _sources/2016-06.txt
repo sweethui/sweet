@@ -18,3 +18,6 @@
 .. include:: chats/2016-06-15.rst
 .. include:: chats/2016-06-16.rst
 .. include:: chats/2016-06-17.rst
+.. include:: chats/2016-06-20.rst
+.. include:: chats/2016-06-21.rst
+.. include:: chats/2016-06-22.rst
