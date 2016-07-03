@@ -1,0 +1,7 @@
+2016-07
+==========
+
+.. role:: st
+.. role:: rt
+
+.. include:: chats/2016-07-01.rst
