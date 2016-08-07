@@ -1,0 +1,11 @@
+2016-08
+==========
+
+.. role:: st
+.. role:: rt
+
+.. include:: chats/2016-08-01.rst
+.. include:: chats/2016-08-02.rst
+.. include:: chats/2016-08-03.rst
+.. include:: chats/2016-08-04.rst
+.. include:: chats/2016-08-05.rst
