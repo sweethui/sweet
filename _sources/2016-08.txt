@@ -19,3 +19,4 @@
 .. include:: chats/2016-08-17.rst
 .. include:: chats/2016-08-18.rst
 .. include:: chats/2016-08-19.rst
+.. include:: chats/2016-08-20.rst
