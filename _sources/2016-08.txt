@@ -27,3 +27,6 @@
 .. include:: chats/2016-08-26.rst
 .. include:: chats/2016-08-27.rst
 .. include:: chats/2016-08-28.rst
+.. include:: chats/2016-08-29.rst
+.. include:: chats/2016-08-30.rst
+.. include:: chats/2016-08-31.rst
