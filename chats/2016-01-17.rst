@@ -570,7 +570,8 @@
      - :st:`晚安`
    * - 2016-01-17 22:51:34
      - 你
-     - [动画表情]
+     - .. image:: images/1453042294.gif
+          :width: 100px
    * - 2016-01-17 22:53:42
      - 你
      - [链接] `分享 光天化了日 的微博 <http://m.weibo.cn/5703121556/3932267154467083/weixin?sourceType=weixin&wm=9006_2001&from=timeline&isappinstalled=0>`_
