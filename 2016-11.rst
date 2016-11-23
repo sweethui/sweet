@@ -15,3 +15,10 @@
 .. include:: chats/2016-11-11.rst
 .. include:: chats/2016-11-14.rst
 .. include:: chats/2016-11-15.rst
+.. include:: chats/2016-11-16.rst
+.. include:: chats/2016-11-17.rst
+.. include:: chats/2016-11-18.rst
+.. include:: chats/2016-11-19.rst
+.. include:: chats/2016-11-21.rst
+.. include:: chats/2016-11-22.rst
+.. include:: chats/2016-11-23.rst
