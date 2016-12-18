@@ -1,0 +1,20 @@
+2016-12
+==========
+
+.. role:: st
+.. role:: rt
+
+.. include:: chats/2016-12-01.rst
+.. include:: chats/2016-12-02.rst
+.. include:: chats/2016-12-05.rst
+.. include:: chats/2016-12-06.rst
+.. include:: chats/2016-12-07.rst
+.. include:: chats/2016-12-08.rst
+.. include:: chats/2016-12-09.rst
+.. include:: chats/2016-12-11.rst
+.. include:: chats/2016-12-12.rst
+.. include:: chats/2016-12-13.rst
+.. include:: chats/2016-12-14.rst
+.. include:: chats/2016-12-15.rst
+.. include:: chats/2016-12-16.rst
+.. include:: chats/2016-12-17.rst

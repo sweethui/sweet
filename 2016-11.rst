@@ -22,3 +22,9 @@
 .. include:: chats/2016-11-21.rst
 .. include:: chats/2016-11-22.rst
 .. include:: chats/2016-11-23.rst
+.. include:: chats/2016-11-24.rst
+.. include:: chats/2016-11-25.rst
+.. include:: chats/2016-11-26.rst
+.. include:: chats/2016-11-28.rst
+.. include:: chats/2016-11-29.rst
+.. include:: chats/2016-11-30.rst
