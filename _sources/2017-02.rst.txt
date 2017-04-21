@@ -20,3 +20,8 @@
 .. include:: chats/2017-02-20.rst
 .. include:: chats/2017-02-21.rst
 .. include:: chats/2017-02-22.rst
+.. include:: chats/2017-02-23.rst
+.. include:: chats/2017-02-24.rst
+.. include:: chats/2017-02-26.rst
+.. include:: chats/2017-02-27.rst
+.. include:: chats/2017-02-28.rst
