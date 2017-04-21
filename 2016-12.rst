@@ -18,3 +18,15 @@
 .. include:: chats/2016-12-15.rst
 .. include:: chats/2016-12-16.rst
 .. include:: chats/2016-12-17.rst
+.. include:: chats/2016-12-19.rst
+.. include:: chats/2016-12-20.rst
+.. include:: chats/2016-12-21.rst
+.. include:: chats/2016-12-22.rst
+.. include:: chats/2016-12-23.rst
+.. include:: chats/2016-12-24.rst
+.. include:: chats/2016-12-26.rst
+.. include:: chats/2016-12-27.rst
+.. include:: chats/2016-12-28.rst
+.. include:: chats/2016-12-29.rst
+.. include:: chats/2016-12-30.rst
+.. include:: chats/2016-12-31.rst
