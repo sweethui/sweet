@@ -25,3 +25,4 @@
 .. include:: chats/2017-04-25.rst
 .. include:: chats/2017-04-26.rst
 .. include:: chats/2017-04-27.rst
+.. include:: chats/2017-04-28.rst
