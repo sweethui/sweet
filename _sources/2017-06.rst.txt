@@ -1,0 +1,12 @@
+2017-06
+==========
+
+.. role:: st
+.. role:: rt
+
+.. include:: chats/2017-06-01.rst
+.. include:: chats/2017-06-02.rst
+.. include:: chats/2017-06-03.rst
+.. include:: chats/2017-06-05.rst
+.. include:: chats/2017-06-06.rst
+.. include:: chats/2017-06-07.rst

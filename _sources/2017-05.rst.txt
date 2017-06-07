@@ -18,3 +18,15 @@
 .. include:: chats/2017-05-14.rst
 .. include:: chats/2017-05-15.rst
 .. include:: chats/2017-05-16.rst
+.. include:: chats/2017-05-17.rst
+.. include:: chats/2017-05-18.rst
+.. include:: chats/2017-05-19.rst
+.. include:: chats/2017-05-22.rst
+.. include:: chats/2017-05-23.rst
+.. include:: chats/2017-05-24.rst
+.. include:: chats/2017-05-25.rst
+.. include:: chats/2017-05-26.rst
+.. include:: chats/2017-05-27.rst
+.. include:: chats/2017-05-29.rst
+.. include:: chats/2017-05-30.rst
+.. include:: chats/2017-05-31.rst
