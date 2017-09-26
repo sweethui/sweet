@@ -24,3 +24,8 @@
 .. include:: chats/2017-06-21.rst
 .. include:: chats/2017-06-22.rst
 .. include:: chats/2017-06-23.rst
+.. include:: chats/2017-06-26.rst
+.. include:: chats/2017-06-27.rst
+.. include:: chats/2017-06-28.rst
+.. include:: chats/2017-06-29.rst
+.. include:: chats/2017-06-30.rst
