@@ -758,3 +758,12 @@
    * - 2017-09-26 18:08:23
      - 我
      - :st:`回来了`
+   * - 2017-09-26 18:46:09
+     - 你
+     - :rt:`别给我发消息了，东东来了`
+   * - 2017-09-26 23:01:18
+     - 你
+     - [链接] `李辉和孙晓亮的聊天记录 <https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/favorite_record__w_unsupport>`_
+   * - 2017-09-26 23:01:43
+     - 你
+     - :rt:`别回我了，我睡觉了，明天降温`

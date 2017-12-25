@@ -27,3 +27,7 @@
 .. include:: chats/2017-09-24.rst
 .. include:: chats/2017-09-25.rst
 .. include:: chats/2017-09-26.rst
+.. include:: chats/2017-09-27.rst
+.. include:: chats/2017-09-28.rst
+.. include:: chats/2017-09-29.rst
+.. include:: chats/2017-09-30.rst
