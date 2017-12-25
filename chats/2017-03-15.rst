@@ -515,7 +515,9 @@
      - :rt:`这照片拍的不错`
    * - 2017-03-15 13:24:54
      - 我
-     - :st:`<msg><videomsg length="1533183" playlength="9" offset="1533183" fromusername="" status="0" cameratype="2" source="1"                                          aeskey="8e890972da9b4d11981ed3219549d2ca" cdnvideourl="3045020100043e303c02010002048f21aada02033d0af70204af8e1e6f020458c8d027041a6c69687569393039373139383436325f313438393535353439340201000201000400" cdnthumburl="3045020100043e303c02010002048f21aada02033d0af70204af8e1e6f020458c8d027041a6c69687569393039373139383436325f313438393535353439340201000201000400" cdnthumblength="31193" cdnthumbwidth="540" cdnthumbheight="960" cdnthumbaeskey="8e890972da9b4d11981ed3219549d2ca" encryver="1" fileparam="" md5 ="" newmd5 ="" /><statextstr></statextstr></msg>`
+     - .. raw:: html
+       
+          <video controls="controls"><source src="_static/mp3/140968.mp4" type="video/mp4" />不能播放视频</video>
    * - 2017-03-15 13:26:15
      - 你
      - :rt:`土很湿啊`

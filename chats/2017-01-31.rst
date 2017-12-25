@@ -66,7 +66,9 @@
      - :st:`好的`
    * - 2017-01-31 19:59:15
      - 你
-     - :rt:`<msg><videomsg length="1508666" playlength="10" offset="1508672" fromusername="" status="4" cameratype="0" source="1"                                          aeskey="6e26aa9a5e5d49438e24c39002d1d4fe" cdnvideourl="304b02010004443042020100020479ec07eb02034c4d3502044e5b760a020458907be70420777869645f353034716365396c6f683269313238325f313438353836333931310201000201000400" cdnthumburl="304b02010004443042020100020479ec07eb02034c4d3502044e5b760a020458907be70420777869645f353034716365396c6f683269313238325f313438353836333931310201000201000400" cdnthumblength="8090" cdnthumbwidth="544" cdnthumbheight="960" cdnthumbaeskey="6e26aa9a5e5d49438e24c39002d1d4fe" encryver="1" fileparam="" md5 ="ad9f4994128c08ebd89233c4220943f2" newmd5 ="d8baa55f4f1df9571970ffcea8ca5b5f" /><statextstr></statextstr></msg>`
+     - .. raw:: html
+       
+          <video controls="controls"><source src="_static/mp3/132556.mp4" type="video/mp4" />不能播放视频</video>
    * - 2017-01-31 19:59:25
      - 你
      - :rt:`不用回，哈哈`
