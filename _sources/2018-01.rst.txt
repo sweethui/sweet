@@ -26,3 +26,6 @@
 .. include:: chats/2018-01-25.rst
 .. include:: chats/2018-01-26.rst
 .. include:: chats/2018-01-28.rst
+.. include:: chats/2018-01-29.rst
+.. include:: chats/2018-01-30.rst
+.. include:: chats/2018-01-31.rst
