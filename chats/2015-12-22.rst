@@ -1128,7 +1128,7 @@
      - :st:`谢谢`
    * - 2015-12-22 16:04:27
      - 你
-     - .. image:: images/1450771467.gif
+     - .. image:: images/D02EEA7E1B7BBBA3C18731AA55CCE8BC.gif
           :width: 100px
    * - 2015-12-22 16:05:29
      - 你
@@ -1408,11 +1408,12 @@
      - :rt:`哈哈`
    * - 2015-12-22 18:10:43
      - 你
-     - .. image:: images/1450779043.gif
+     - .. image:: images/10F99CA36A2D68F86F1A5CCF8587608B.gif
           :width: 100px
    * - 2015-12-22 18:11:21
      - 我
-     - [动画表情]
+     - .. image:: images/da0d1f6fd266865f00ffac844791590b.gif
+          :width: 100px
    * - 2015-12-22 18:11:51
      - 你
      - :rt:`你也有？`

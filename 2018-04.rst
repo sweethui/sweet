@@ -1,0 +1,12 @@
+2018-04
+==========
+
+.. role:: st
+.. role:: rt
+
+.. include:: chats/2018-04-02.rst
+.. include:: chats/2018-04-03.rst
+.. include:: chats/2018-04-04.rst
+.. include:: chats/2018-04-08.rst
+.. include:: chats/2018-04-09.rst
+.. include:: chats/2018-04-10.rst

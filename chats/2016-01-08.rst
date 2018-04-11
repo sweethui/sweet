@@ -771,7 +771,7 @@
      - :rt:`这怎么猜？`
    * - 2016-01-08 17:13:44
      - 你
-     - .. image:: images/1452244424.gif
+     - .. image:: images/00448BF3E9DF7EAA97A273BFAF065ABC.gif
           :width: 100px
    * - 2016-01-08 17:14:27
      - 我

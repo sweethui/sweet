@@ -315,7 +315,7 @@
      - :st:`我什么都没做呀`
    * - 2016-01-12 12:46:40
      - 你
-     - .. image:: images/1452574000.gif
+     - .. image:: images/D5F95F2780EDEA4C67EDDE2DDAA7AF97.gif
           :width: 100px
    * - 2016-01-12 12:54:07
      - 我

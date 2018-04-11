@@ -621,7 +621,7 @@
      - :st:`你走吧`
    * - 2017-08-31 17:53:47
      - 你
-     - .. image:: images/1504173227.gif
+     - .. image:: images/50a80fbfea9635e7be77f20b6ad4ba25.gif
           :width: 100px
    * - 2017-08-31 17:55:33
      - 我
