@@ -24,3 +24,6 @@
 .. include:: chats/2018-04-23.rst
 .. include:: chats/2018-04-24.rst
 .. include:: chats/2018-04-25.rst
+.. include:: chats/2018-04-26.rst
+.. include:: chats/2018-04-27.rst
+.. include:: chats/2018-04-28.rst
