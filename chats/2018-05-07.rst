@@ -702,8 +702,7 @@
      - :rt:`太抢手了`
    * - 2018-05-07 17:15:03
      - 我
-     - .. image:: images/2dcc18a834f054bb8da231323332a312.gif
-          :width: 100px
+     - [动画表情]
    * - 2018-05-07 18:24:15
      - 你
      - [链接] `孙晓亮和李辉的聊天记录 <https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/favorite_record__w_unsupport>`_

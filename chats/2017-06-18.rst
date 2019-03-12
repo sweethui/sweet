@@ -60,5 +60,4 @@
      - :st:`嗯`
    * - 2017-06-18 11:37:20
      - 你
-     - .. image:: images/de8e0fe953d451790ca40731fda5bdab.gif
-          :width: 100px
+     - [动画表情]

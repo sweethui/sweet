@@ -1094,8 +1094,7 @@
      - :rt:`好`
    * - 2017-03-14 11:55:07
      - 你
-     - .. image:: images/8e7c4ba5bfaf3b84bb0cb946da022f87.gif
-          :width: 100px
+     - [动画表情]
    * - 2017-03-14 14:58:03
      - 你
      - [链接] `李辉和Yunming的聊天记录 <https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/favorite_record__w_unsupport>`_

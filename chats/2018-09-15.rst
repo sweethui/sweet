@@ -1,0 +1,9 @@
+2018-09-15
+-------------
+
+.. list-table::
+   :widths: 25, 1, 60
+
+   * - 2018-09-15 13:24:54
+     - 我
+     - [链接] `王雪松和李杰的聊天记录 <https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/favorite_record__w_unsupport>`_
