@@ -15,3 +15,16 @@
 .. include:: chats/2020-06-10.rst
 .. include:: chats/2020-06-11.rst
 .. include:: chats/2020-06-12.rst
+.. include:: chats/2020-06-13.rst
+.. include:: chats/2020-06-15.rst
+.. include:: chats/2020-06-16.rst
+.. include:: chats/2020-06-17.rst
+.. include:: chats/2020-06-18.rst
+.. include:: chats/2020-06-19.rst
+.. include:: chats/2020-06-20.rst
+.. include:: chats/2020-06-22.rst
+.. include:: chats/2020-06-23.rst
+.. include:: chats/2020-06-24.rst
+.. include:: chats/2020-06-28.rst
+.. include:: chats/2020-06-29.rst
+.. include:: chats/2020-06-30.rst
