@@ -1,0 +1,7 @@
+2022-06
+==========
+
+.. role:: st
+.. role:: rt
+
+.. include:: chats/2022-06-02.rst

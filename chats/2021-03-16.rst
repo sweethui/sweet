@@ -1,0 +1,18 @@
+2021-03-16
+-------------
+
+.. list-table::
+   :widths: 25, 1, 60
+
+   * - 2021-03-16 09:42:40
+     - 你
+     - [链接] `李辉和夏青的聊天记录 <https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/favorite_record__w_unsupport>`_
+   * - 2021-03-16 09:42:47
+     - 你
+     - :rt:`了解一下`
+   * - 2021-03-16 11:34:57
+     - 你
+     - :rt:`我得跟你说一遍我记得才清楚`
+   * - 2021-03-16 11:35:00
+     - 你
+     - :rt:`不然我都忘了`

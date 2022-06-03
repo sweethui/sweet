@@ -1,0 +1,12 @@
+2021-07-22
+-------------
+
+.. list-table::
+   :widths: 25, 1, 60
+
+   * - 2021-07-22 11:48:06
+     - 我
+     - [链接] `群聊的聊天记录 <https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/favorite_record__w_unsupport>`_
+   * - 2021-07-22 12:27:07
+     - 你
+     - :rt:`收到`

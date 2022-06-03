@@ -12,7 +12,7 @@
      - [链接] `李辉和刘锐的聊天记录 <https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/favorite_record__w_unsupport>`_
    * - 2020-05-21 09:36:23
      - 你
-     - .. image:: /images/298081.jpg
+     - .. image:: /images/355273.jpg
           :width: 100px
    * - 2020-05-21 09:37:07
      - 我

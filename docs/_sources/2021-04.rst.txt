@@ -1,0 +1,26 @@
+2021-04
+==========
+
+.. role:: st
+.. role:: rt
+
+.. include:: chats/2021-04-01.rst
+.. include:: chats/2021-04-06.rst
+.. include:: chats/2021-04-07.rst
+.. include:: chats/2021-04-08.rst
+.. include:: chats/2021-04-09.rst
+.. include:: chats/2021-04-12.rst
+.. include:: chats/2021-04-13.rst
+.. include:: chats/2021-04-14.rst
+.. include:: chats/2021-04-16.rst
+.. include:: chats/2021-04-19.rst
+.. include:: chats/2021-04-20.rst
+.. include:: chats/2021-04-21.rst
+.. include:: chats/2021-04-22.rst
+.. include:: chats/2021-04-23.rst
+.. include:: chats/2021-04-25.rst
+.. include:: chats/2021-04-26.rst
+.. include:: chats/2021-04-27.rst
+.. include:: chats/2021-04-28.rst
+.. include:: chats/2021-04-29.rst
+.. include:: chats/2021-04-30.rst

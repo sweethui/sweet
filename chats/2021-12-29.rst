@@ -1,0 +1,24 @@
+2021-12-29
+-------------
+
+.. list-table::
+   :widths: 25, 1, 60
+
+   * - 2021-12-29 13:19:59
+     - 我
+     - [链接] `数据库国产化选型以外的事情 <http://mp.weixin.qq.com/s?__biz=MzA5MzQxNjk1NQ==&mid=2647845521&idx=1&sn=0acc0c5e3dfd12479b7bdce644c19e92&chksm=88787605bf0fff139e92fbaf998438ec97cae4dff23decdf7ebe2b250117d4e2c0a01d870766&mpshare=1&scene=1&srcid=1229uG7BRdYGYCKpU9SkL67w&sharer_sharetime=1640755189505&sharer_shareid=62fb900a1833e90e9d89107e4699d25e#rd>`_
+   * - 2021-12-29 14:29:33
+     - 你
+     - ids_adr_bookmap.pdf
+   * - 2021-12-29 16:41:47
+     - 你
+     - :rt:`我下班了`
+   * - 2021-12-29 16:41:55
+     - 你
+     - :rt:`刚去找你，你不在`
+   * - 2021-12-29 16:42:04
+     - 你
+     - :rt:`太冷，别出来了`
+   * - 2021-12-29 16:42:15
+     - 我
+     - :st:`我开会呢，你走吧，不送你了`

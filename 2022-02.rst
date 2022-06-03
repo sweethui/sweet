@@ -1,0 +1,16 @@
+2022-02
+==========
+
+.. role:: st
+.. role:: rt
+
+.. include:: chats/2022-02-07.rst
+.. include:: chats/2022-02-08.rst
+.. include:: chats/2022-02-10.rst
+.. include:: chats/2022-02-11.rst
+.. include:: chats/2022-02-14.rst
+.. include:: chats/2022-02-15.rst
+.. include:: chats/2022-02-16.rst
+.. include:: chats/2022-02-17.rst
+.. include:: chats/2022-02-21.rst
+.. include:: chats/2022-02-22.rst

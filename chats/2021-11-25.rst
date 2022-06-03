@@ -1,0 +1,125 @@
+2021-11-25
+-------------
+
+.. list-table::
+   :widths: 25, 1, 60
+
+   * - 2021-11-25 09:48:25
+     - 你
+     - :rt:`--记录类型
+       CREATE TYPE record_type AS RECORD (
+       	record_c1 test1.c1%TYPE,
+       	record_c2 test1.c2%TYPE
+       );`
+   * - 2021-11-25 09:50:20
+     - 你
+     - :rt:`CREATE TYPE record_type2 AS RECORD (
+       	record_c1 test1_object
+       );`
+   * - 2021-11-25 09:50:25
+     - 你
+     - :rt:`可以以 object作为record的其中一个字段`
+   * - 2021-11-25 10:05:03
+     - 我
+     - :st:`嗯`
+   * - 2021-11-25 10:48:48
+     - 你
+     - .. image:: /images/388706.jpg
+          :width: 100px
+   * - 2021-11-25 10:48:56
+     - 你
+     - :rt:`这3个有啥区别啊`
+   * - 2021-11-25 10:49:37
+     - 我
+     - :st:`是不是就是不同写法呀`
+   * - 2021-11-25 10:50:29
+     - 你
+     - :rt:`我看 Oracle 全文都没介绍 array`
+   * - 2021-11-25 10:50:36
+     - 你
+     - :rt:`只有语法树里有个关键字`
+   * - 2021-11-25 10:51:58
+     - 你
+     - :rt:`大部分都是：create type xxx as varray(10) of varchar2;`
+   * - 2021-11-25 10:52:08
+     - 你
+     - :rt:`没有这个例子 create type xxx as array(10) of varchar2;`
+   * - 2021-11-25 10:52:17
+     - 你
+     - :rt:`达梦的 array 挺多的`
+   * - 2021-11-25 10:54:41
+     - 我
+     - :st:`我试试`
+   * - 2021-11-25 10:55:00
+     - 我
+     - :st:`石英和你说了中午去吃饭吗`
+   * - 2021-11-25 10:56:25
+     - 你
+     - :rt:`说了`
+   * - 2021-11-25 11:05:13
+     - 我
+     - :st:`create type xxx1 as varying(10) of varchar2(10);
+       这个能创建成功，但是有一个错误`
+   * - 2021-11-25 11:05:26
+     - 我
+     - :st:`Type XXX1 compiled
+       LINE/COL  ERROR
+       --------- -------------------------------------------------------------
+       1/21      PLS-00103: Encountered the symbol "(" when expecting one of the following:     array The symbol "array" was substituted for "(" to continue. 
+       Errors: check compiler log`
+   * - 2021-11-25 11:05:43
+     - 我
+     - :st:`create type xxx2 as varying array(10) of varchar2(10);
+       这个没有问题`
+   * - 2021-11-25 11:07:00
+     - 我
+     - :st:`create type xxx3 as  array(10) of varchar2(10);
+       这个也没有问题`
+   * - 2021-11-25 11:07:03
+     - 你
+     - :rt:`我理解：
+       create type xxx2 as varying array(10) of varchar2(10);
+       =
+       create type xxx2 as varray(10) of varchar2(10);`
+   * - 2021-11-25 14:38:10
+     - 你
+     - :rt:`我们测试了 嵌套表的功能 完全可以用两张表实现。不用建立多个表，2张表就行`
+   * - 2021-11-25 14:38:27
+     - 我
+     - :st:`怎么做`
+   * - 2021-11-25 17:15:42
+     - 你
+     - :rt:`https://help.aliyun.com/document_detail/150059.html`
+   * - 2021-11-25 17:15:49
+     - 你
+     - :rt:`array 到底是个啥`
+   * - 2021-11-25 17:15:56
+     - 你
+     - :rt:`他跟 varray 有啥区别`
+   * - 2021-11-25 17:16:00
+     - 你
+     - :rt:`你帮我搞搞`
+   * - 2021-11-25 17:16:48
+     - 我
+     - :st:`我看看`
+   * - 2021-11-25 17:20:56
+     - 我
+     - :st:`array 应该就是 Hash 表或者叫 Map`
+   * - 2021-11-25 17:21:05
+     - 我
+     - :st:`保存 KV 对`
+   * - 2021-11-25 17:21:39
+     - 你
+     - :rt:`那跟 table index by 一样吗`
+   * - 2021-11-25 17:23:17
+     - 我
+     - :st:`table of ... index by 就是定义array 的关键字`
+   * - 2021-11-25 17:37:44
+     - 你
+     - :rt:`那就是我说的那样的`
+   * - 2021-11-25 17:38:02
+     - 你
+     - :rt:`create array 就等价于 table of ... index by`
+   * - 2021-11-25 17:38:08
+     - 我
+     - :st:`对`

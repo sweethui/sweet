@@ -1,0 +1,25 @@
+2020-10
+==========
+
+.. role:: st
+.. role:: rt
+
+.. include:: chats/2020-10-09.rst
+.. include:: chats/2020-10-10.rst
+.. include:: chats/2020-10-12.rst
+.. include:: chats/2020-10-13.rst
+.. include:: chats/2020-10-14.rst
+.. include:: chats/2020-10-15.rst
+.. include:: chats/2020-10-16.rst
+.. include:: chats/2020-10-17.rst
+.. include:: chats/2020-10-19.rst
+.. include:: chats/2020-10-20.rst
+.. include:: chats/2020-10-21.rst
+.. include:: chats/2020-10-22.rst
+.. include:: chats/2020-10-23.rst
+.. include:: chats/2020-10-24.rst
+.. include:: chats/2020-10-26.rst
+.. include:: chats/2020-10-27.rst
+.. include:: chats/2020-10-28.rst
+.. include:: chats/2020-10-29.rst
+.. include:: chats/2020-10-30.rst

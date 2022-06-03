@@ -1,0 +1,12 @@
+2020-11-03
+-------------
+
+.. list-table::
+   :widths: 25, 1, 60
+
+   * - 2020-11-03 10:14:45
+     - 你
+     - [链接] `群聊的聊天记录 <https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/favorite_record__w_unsupport>`_
+   * - 2020-11-03 10:15:35
+     - 我
+     - :st:`我来办`

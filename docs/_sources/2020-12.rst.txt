@@ -1,0 +1,28 @@
+2020-12
+==========
+
+.. role:: st
+.. role:: rt
+
+.. include:: chats/2020-12-01.rst
+.. include:: chats/2020-12-02.rst
+.. include:: chats/2020-12-03.rst
+.. include:: chats/2020-12-04.rst
+.. include:: chats/2020-12-07.rst
+.. include:: chats/2020-12-08.rst
+.. include:: chats/2020-12-09.rst
+.. include:: chats/2020-12-10.rst
+.. include:: chats/2020-12-11.rst
+.. include:: chats/2020-12-14.rst
+.. include:: chats/2020-12-15.rst
+.. include:: chats/2020-12-16.rst
+.. include:: chats/2020-12-17.rst
+.. include:: chats/2020-12-18.rst
+.. include:: chats/2020-12-21.rst
+.. include:: chats/2020-12-22.rst
+.. include:: chats/2020-12-23.rst
+.. include:: chats/2020-12-24.rst
+.. include:: chats/2020-12-25.rst
+.. include:: chats/2020-12-28.rst
+.. include:: chats/2020-12-30.rst
+.. include:: chats/2020-12-31.rst

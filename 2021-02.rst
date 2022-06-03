@@ -1,0 +1,21 @@
+2021-02
+==========
+
+.. role:: st
+.. role:: rt
+
+.. include:: chats/2021-02-01.rst
+.. include:: chats/2021-02-02.rst
+.. include:: chats/2021-02-03.rst
+.. include:: chats/2021-02-04.rst
+.. include:: chats/2021-02-05.rst
+.. include:: chats/2021-02-07.rst
+.. include:: chats/2021-02-08.rst
+.. include:: chats/2021-02-11.rst
+.. include:: chats/2021-02-17.rst
+.. include:: chats/2021-02-19.rst
+.. include:: chats/2021-02-20.rst
+.. include:: chats/2021-02-22.rst
+.. include:: chats/2021-02-23.rst
+.. include:: chats/2021-02-24.rst
+.. include:: chats/2021-02-26.rst

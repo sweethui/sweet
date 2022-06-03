@@ -1,0 +1,15 @@
+2021-07-12
+-------------
+
+.. list-table::
+   :widths: 25, 1, 60
+
+   * - 2021-07-12 09:04:15
+     - 我
+     - [链接] `丁明峰和王雪松的聊天记录 <https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/favorite_record__w_unsupport>`_
+   * - 2021-07-12 09:15:27
+     - 你
+     - :rt:`嗯`
+   * - 2021-07-12 17:01:54
+     - 我
+     - 群聊的聊天记录

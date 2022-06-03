@@ -51,7 +51,7 @@
      - [链接] `我与冥想（四）：一份实践清单 <http://mp.weixin.qq.com/s?__biz=MzIzNTQ4ODg4OA==&mid=2247485685&idx=1&sn=47ce9a6732a7e108d75643d4f01ae9d4&chksm=e8e71be2df9092f498eb0cda95f0327a4ab323863ee47e7da040a7cf9a27aa4724ccf410ace6&mpshare=1&scene=1&srcid=0622wwxFZqEkl53T8Sj7uq6h&sharer_sharetime=1592802545521&sharer_shareid=62fb900a1833e90e9d89107e4699d25e#rd>`_
    * - 2020-06-22 15:04:42
      - 你
-     - .. image:: /images/302292.jpg
+     - .. image:: /images/359484.jpg
           :width: 100px
    * - 2020-06-22 15:05:01
      - 我

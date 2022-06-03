@@ -1,0 +1,166 @@
+2022-01-20
+-------------
+
+.. list-table::
+   :widths: 25, 1, 60
+
+   * - 2022-01-20 10:25:42
+     - 你
+     - [链接] `群聊的聊天记录 <https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/favorite_record__w_unsupport>`_
+   * - 2022-01-20 10:34:11
+     - 你
+     - :rt:`我们的语句里有这种情况
+               SELECT
+               ID	as "id",
+               CATEGORY	as "category",
+               MESSAGE_TYPE_ID	as "messageTypeId",
+               STATE	as "state",
+               RETURN_STATUS	as "returnStatus",
+               OPERATE_START_TIME	as "operateStartTime",
+               OPERATE_RESULT	as "operateResult",
+               OPERATE_END_TIME	as "operateEndTime",
+               OPERATE_COUNT	as "operateCount",
+               EVENT_ID	as "eventId",
+               SERVICE_NAME	as "serviceName",
+               METHOD_NAME as "methodName",
+               RPC_TYPE	as "rpcType",
+               PROJECT_NAME      as "projectName",
+               MOUDLE_NAME      as "moduleName",
+               SEND_ADDRESS      as "sendAddress",
+               RECEIVE_ADDRESS      as "receiveAddress",
+               EXT1 as "ext1",
+               EXT2 as "ext2",
+               EXT3 as "ext3",
+               GROUP_NAME as "groupName",
+               HTTP_STATUS as "httpStatus"
+       FROM 某一个表`
+   * - 2022-01-20 10:34:24
+     - 你
+     - :rt:`像state这个字段我们预期也是要小写的`
+   * - 2022-01-20 10:35:18
+     - 你
+     - :rt:`「 李辉: 我们的语句里有这种情况
+               SELECT
+               ID	as "id",
+               CATEGORY	as "category",
+               MESSAGE_TYPE_ID	as "messageTypeId",
+               STATE	as "state",
+               RETURN_STATUS	as "returnStatus",
+               OPERATE_START_TIME	as "operateStartTime",
+               OPERATE_RESULT	as "operateResult",
+               OPERATE_END_TIME	as "operateEndTime",
+               OPERATE_COUNT	as "operateCount",
+               EVENT_ID	as "eventId",
+               SERVICE_NAME	as "serviceName",
+               METHOD_NAME as "methodName",
+               RPC_TYPE	as "rpcType",
+               PROJECT_NAME      as "projectName",
+               MOUDLE_NAME      as "moduleName",
+               SEND_ADDRESS      as "sendAddress",
+               RECEIVE_ADDRESS      as "receiveAddress",
+               EXT1 as "ext1",
+               EXT2 as "ext2",
+               EXT3 as "ext3",
+               GROUP_NAME as "groupName",
+               HTTP_STATUS as "httpStatus"
+       FROM 某一个表 」
+       - - - - - - - - - - - - - - -
+       你这种列名都加引号的，我们可以处理，一切以引号内容为准`
+   * - 2022-01-20 10:35:54
+     - 你
+     - :rt:`"state",---小写
+       "returnStatus",---驼峰`
+   * - 2022-01-20 10:43:30
+     - 你
+     - .. image:: /images/391329.jpg
+          :width: 100px
+   * - 2022-01-20 10:54:29
+     - 你
+     - [电话]
+   * - 2022-01-20 11:07:38
+     - 我
+     - :st:`驱动可以支持，把所有的列名都大写，别名不动`
+   * - 2022-01-20 11:50:27
+     - 你
+     - :rt:`那就是能做[强][强][强][强]`
+   * - 2022-01-20 11:50:35
+     - 你
+     - :rt:`太好了`
+   * - 2022-01-20 11:51:22
+     - 我
+     - :st:`嗯，等明天让老田看一下代码评估一下`
+   * - 2022-01-20 11:51:27
+     - 你
+     - :rt:`好的`
+   * - 2022-01-20 16:20:15
+     - 你
+     - Carina方案介绍20211110.pdf
+   * - 2022-01-20 16:20:54
+     - 我
+     - :st:`嗯嗯`
+   * - 2022-01-20 16:21:50
+     - 你
+     - :rt:`看看这是干啥的`
+   * - 2022-01-20 16:22:04
+     - 我
+     - :st:`正在看呢`
+   * - 2022-01-20 16:22:59
+     - 我
+     - :st:`是 k8s 里面用的存储`
+   * - 2022-01-20 16:23:33
+     - 你
+     - :rt:`能跟咱们的共享存储接上吗`
+   * - 2022-01-20 16:24:00
+     - 我
+     - :st:`不好说，可以试试`
+   * - 2022-01-20 16:24:53
+     - 你
+     - :rt:`好吧`
+   * - 2022-01-20 16:25:02
+     - 你
+     - :rt:`我睡了一下午觉`
+   * - 2022-01-20 16:26:20
+     - 我
+     - :st:`https://github.com/carina-io/carina/blob/main/README_zh.md`
+   * - 2022-01-20 16:26:51
+     - 我
+     - :st:`他这个做共享存储不太合适`
+   * - 2022-01-20 16:27:13
+     - 你
+     - :rt:`那做单机存储呢`
+   * - 2022-01-20 16:27:22
+     - 我
+     - :st:`应该可以`
+   * - 2022-01-20 16:27:27
+     - 你
+     - :rt:`还有你觉得咱们的HDR有那么差吗`
+   * - 2022-01-20 16:27:41
+     - 我
+     - :st:`没那么差`
+   * - 2022-01-20 16:28:25
+     - 你
+     - :rt:`首先这技术也不是啥高深的技术`
+   * - 2022-01-20 16:28:40
+     - 你
+     - :rt:`我还是怀疑是国产环境的事`
+   * - 2022-01-20 16:28:49
+     - 我
+     - :st:`是`
+   * - 2022-01-20 16:29:09
+     - 你
+     - :rt:`但是不知道怎么弄`
+   * - 2022-01-20 16:29:17
+     - 你
+     - :rt:`以前也没出过这么多问题`
+   * - 2022-01-20 16:29:39
+     - 你
+     - :rt:`国产适配这事可能不是简单的编译一下`
+   * - 2022-01-20 16:29:43
+     - 我
+     - :st:`主要是麒麟 V10`
+   * - 2022-01-20 16:29:50
+     - 我
+     - :st:`这个版本上出的问题最多`
+   * - 2022-01-20 16:30:32
+     - 你
+     - :rt:`因为uos用的少`
