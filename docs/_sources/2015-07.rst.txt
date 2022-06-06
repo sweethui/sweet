@@ -1,0 +1,26 @@
+2015-07
+==========
+
+.. role:: st
+.. role:: rt
+
+.. include:: chats/2015-07-08.rst
+.. include:: chats/2015-07-09.rst
+.. include:: chats/2015-07-10.rst
+.. include:: chats/2015-07-12.rst
+.. include:: chats/2015-07-13.rst
+.. include:: chats/2015-07-14.rst
+.. include:: chats/2015-07-15.rst
+.. include:: chats/2015-07-16.rst
+.. include:: chats/2015-07-17.rst
+.. include:: chats/2015-07-20.rst
+.. include:: chats/2015-07-21.rst
+.. include:: chats/2015-07-22.rst
+.. include:: chats/2015-07-23.rst
+.. include:: chats/2015-07-24.rst
+.. include:: chats/2015-07-25.rst
+.. include:: chats/2015-07-27.rst
+.. include:: chats/2015-07-28.rst
+.. include:: chats/2015-07-29.rst
+.. include:: chats/2015-07-30.rst
+.. include:: chats/2015-07-31.rst
