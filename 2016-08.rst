@@ -1,0 +1,32 @@
+2016-08
+==========
+
+.. role:: st
+.. role:: rt
+
+.. include:: chats/2016-08-01.rst
+.. include:: chats/2016-08-02.rst
+.. include:: chats/2016-08-03.rst
+.. include:: chats/2016-08-04.rst
+.. include:: chats/2016-08-05.rst
+.. include:: chats/2016-08-08.rst
+.. include:: chats/2016-08-09.rst
+.. include:: chats/2016-08-10.rst
+.. include:: chats/2016-08-11.rst
+.. include:: chats/2016-08-12.rst
+.. include:: chats/2016-08-15.rst
+.. include:: chats/2016-08-16.rst
+.. include:: chats/2016-08-17.rst
+.. include:: chats/2016-08-18.rst
+.. include:: chats/2016-08-19.rst
+.. include:: chats/2016-08-20.rst
+.. include:: chats/2016-08-22.rst
+.. include:: chats/2016-08-23.rst
+.. include:: chats/2016-08-24.rst
+.. include:: chats/2016-08-25.rst
+.. include:: chats/2016-08-26.rst
+.. include:: chats/2016-08-27.rst
+.. include:: chats/2016-08-28.rst
+.. include:: chats/2016-08-29.rst
+.. include:: chats/2016-08-30.rst
+.. include:: chats/2016-08-31.rst

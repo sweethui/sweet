@@ -1,0 +1,27 @@
+2019-03
+==========
+
+.. role:: st
+.. role:: rt
+
+.. include:: chats/2019-03-01.rst
+.. include:: chats/2019-03-04.rst
+.. include:: chats/2019-03-05.rst
+.. include:: chats/2019-03-06.rst
+.. include:: chats/2019-03-07.rst
+.. include:: chats/2019-03-08.rst
+.. include:: chats/2019-03-11.rst
+.. include:: chats/2019-03-12.rst
+.. include:: chats/2019-03-13.rst
+.. include:: chats/2019-03-14.rst
+.. include:: chats/2019-03-15.rst
+.. include:: chats/2019-03-18.rst
+.. include:: chats/2019-03-19.rst
+.. include:: chats/2019-03-20.rst
+.. include:: chats/2019-03-21.rst
+.. include:: chats/2019-03-22.rst
+.. include:: chats/2019-03-25.rst
+.. include:: chats/2019-03-26.rst
+.. include:: chats/2019-03-27.rst
+.. include:: chats/2019-03-28.rst
+.. include:: chats/2019-03-29.rst

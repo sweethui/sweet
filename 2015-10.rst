@@ -1,0 +1,23 @@
+2015-10
+==========
+
+.. role:: st
+.. role:: rt
+
+.. include:: chats/2015-10-08.rst
+.. include:: chats/2015-10-09.rst
+.. include:: chats/2015-10-10.rst
+.. include:: chats/2015-10-11.rst
+.. include:: chats/2015-10-12.rst
+.. include:: chats/2015-10-13.rst
+.. include:: chats/2015-10-17.rst
+.. include:: chats/2015-10-19.rst
+.. include:: chats/2015-10-20.rst
+.. include:: chats/2015-10-21.rst
+.. include:: chats/2015-10-22.rst
+.. include:: chats/2015-10-23.rst
+.. include:: chats/2015-10-26.rst
+.. include:: chats/2015-10-27.rst
+.. include:: chats/2015-10-28.rst
+.. include:: chats/2015-10-29.rst
+.. include:: chats/2015-10-30.rst

@@ -1,0 +1,449 @@
+2019-04-18
+-------------
+
+.. list-table::
+   :widths: 25, 1, 60
+
+   * - 2019-04-18 08:49:50
+     - 你
+     - :rt:`今天东东不上班，你等我联系你哈，否则不用发消息，不用回复`
+   * - 2019-04-18 16:53:04
+     - 你
+     - :rt:`在吗？`
+   * - 2019-04-18 16:53:12
+     - 我
+     - :st:`在`
+   * - 2019-04-18 16:54:18
+     - 我
+     - :st:`你看见我的朋友圈了吗`
+   * - 2019-04-18 16:54:39
+     - 你
+     - [链接] `李辉和道士的聊天记录 <https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/favorite_record__w_unsupport>`_
+   * - 2019-04-18 16:56:17
+     - 你
+     - :rt:`看见了`
+   * - 2019-04-18 16:56:38
+     - 你
+     - :rt:`你看老8s和8d都会过来`
+   * - 2019-04-18 16:56:44
+     - 我
+     - :st:`是`
+   * - 2019-04-18 16:57:11
+     - 我
+     - :st:`就你休假这周事情最多[捂脸]`
+   * - 2019-04-18 16:57:56
+     - 你
+     - :rt:`这都是意料之中的，比我想的还要少`
+   * - 2019-04-18 16:58:13
+     - 你
+     - :rt:`现在什么都没定呢`
+   * - 2019-04-18 16:58:21
+     - 你
+     - :rt:`只是有个想法`
+   * - 2019-04-18 16:58:30
+     - 你
+     - :rt:`我估计下周会更忙`
+   * - 2019-04-18 16:58:42
+     - 我
+     - :st:`估计以后就没法拒绝需求了`
+   * - 2019-04-18 16:58:57
+     - 你
+     - :rt:`这个刘辉啥事也不跟我说，用到我了才告诉我点消息`
+   * - 2019-04-18 16:59:29
+     - 你
+     - :rt:`我觉得没有细化，将来就是组团扯皮`
+   * - 2019-04-18 16:59:43
+     - 我
+     - :st:`肯定的`
+   * - 2019-04-18 16:59:53
+     - 你
+     - :rt:`老孔总是抓不住最主要的`
+   * - 2019-04-18 17:00:13
+     - 你
+     - :rt:`感觉就是有个概念，下边的啥也不管，出了事再说`
+   * - 2019-04-18 17:00:42
+     - 我
+     - :st:`哈哈，现在就是这样`
+   * - 2019-04-18 17:00:55
+     - 我
+     - :st:`研发这边更乱`
+   * - 2019-04-18 17:01:20
+     - 我
+     - :st:`以后从前到后非得打成一锅粥不可`
+   * - 2019-04-18 17:01:25
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322624.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:02:06
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322625.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:02:23
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322626.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:03:17
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322627.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:03:31
+     - 我
+     - :st:`我觉得老孔是江郎才尽了，也就这三板斧了`
+   * - 2019-04-18 17:03:34
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322629.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:03:53
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322630.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:04:09
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322631.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:04:44
+     - 我
+     - :st:`哈哈`
+   * - 2019-04-18 17:05:23
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322633.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:05:37
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322634.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:05:59
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322635.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:06:12
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322636.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:06:27
+     - 我
+     - :st:`说的没错`
+   * - 2019-04-18 17:07:33
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322638.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:08:13
+     - 我
+     - :st:`可是老孔现在说了算，又这么拧`
+   * - 2019-04-18 17:08:31
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322640.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:08:34
+     - 我
+     - :st:`下面人除了你剩下的都顺着他说`
+   * - 2019-04-18 17:08:36
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322642.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:09:02
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322643.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:09:24
+     - 我
+     - :st:`没错`
+   * - 2019-04-18 17:10:36
+     - 我
+     - :st:`你也别着急生气了，回来再影响到你`
+   * - 2019-04-18 17:11:15
+     - 我
+     - :st:`下周回来你也别着急，心情最重要`
+   * - 2019-04-18 17:11:33
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322647.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:11:49
+     - 我
+     - :st:`哈哈，那就好`
+   * - 2019-04-18 17:12:02
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322649.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:12:21
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322650.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:13:09
+     - 我
+     - :st:`没错，这是他们的伎俩`
+   * - 2019-04-18 17:13:24
+     - 我
+     - :st:`很多人还觉得他们能干，认真负责呢`
+   * - 2019-04-18 17:13:35
+     - 我
+     - :st:`其实都是被他们给卖了的`
+   * - 2019-04-18 17:14:10
+     - 你
+     - :rt:`没错`
+   * - 2019-04-18 17:14:46
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322655.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:15:18
+     - 我
+     - :st:`嗯嗯`
+   * - 2019-04-18 17:15:42
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322657.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:16:01
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322658.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:16:22
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322659.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:16:36
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322660.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:16:56
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322661.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:17:38
+     - 我
+     - :st:`你知道我有一个什么感觉吗`
+   * - 2019-04-18 17:17:52
+     - 我
+     - :st:`我觉得老孔被丁总吓到了`
+   * - 2019-04-18 17:18:15
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322664.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:18:29
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322665.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:18:57
+     - 我
+     - :st:`哈哈，太形象啦😄`
+   * - 2019-04-18 17:19:10
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322667.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:19:28
+     - 我
+     - :st:`这几天都在工位上`
+   * - 2019-04-18 17:24:22
+     - 你
+     - :rt:`我问问老孔流程的那个是怎么回事`
+   * - 2019-04-18 17:24:30
+     - 我
+     - :st:`嗯嗯`
+   * - 2019-04-18 17:24:58
+     - 你
+     - :rt:`不能平等的沟通，是非常可怕的`
+   * - 2019-04-18 17:25:12
+     - 我
+     - :st:`是呀`
+   * - 2019-04-18 17:25:24
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322673.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:25:36
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322674.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:25:59
+     - 我
+     - :st:`你说的没错`
+   * - 2019-04-18 17:26:20
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322676.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:26:30
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322677.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:26:45
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322678.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:27:03
+     - 我
+     - :st:`嗯嗯，明天吧`
+   * - 2019-04-18 17:27:18
+     - 我
+     - :st:`我这还有一个好玩的事情呢，明天和你说吧`
+   * - 2019-04-18 17:28:01
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322681.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:28:05
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322682.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:28:12
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322683.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:28:21
+     - 我
+     - :st:`嗯嗯`
+   * - 2019-04-18 17:28:59
+     - 我
+     - :st:`今天听严丹说这次不是又要人员调整吗，8a 的想把老杨那边的支持全都拿走`
+   * - 2019-04-18 17:29:24
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322686.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:29:35
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322687.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:29:46
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322688.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:29:50
+     - 我
+     - :st:`他们找袁梦佳，然后袁就给赵总发微信了`
+   * - 2019-04-18 17:30:18
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322690.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:30:19
+     - 我
+     - :st:`结果让赵总喊过去臭骂一顿`
+   * - 2019-04-18 17:30:33
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322692.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:30:43
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322693.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:30:51
+     - 我
+     - :st:`对呀`
+   * - 2019-04-18 17:31:12
+     - 我
+     - :st:`说把赵总给气坏了`
+   * - 2019-04-18 17:31:13
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322696.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:31:28
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322697.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:31:42
+     - 我
+     - :st:`听说是赵景喜他们说的`
+   * - 2019-04-18 17:31:49
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322699.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:32:12
+     - 你
+     - :rt:`这群白眼狼`
+   * - 2019-04-18 17:32:24
+     - 我
+     - :st:`是，一茬不如一茬`
+   * - 2019-04-18 17:32:55
+     - 我
+     - :st:`现在是要大事业部制，所以技术支持肯定不会到赵总那里了`
+   * - 2019-04-18 17:33:09
+     - 我
+     - :st:`原来是水平架构，现在是垂直架构`
+   * - 2019-04-18 17:33:10
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322704.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:33:43
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322705.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:33:50
+     - 我
+     - :st:`除了销售，剩下和一个产品相关的所有人都是一个部门的`
+   * - 2019-04-18 17:34:04
+     - 我
+     - :st:`我觉得他现在没空看`
+   * - 2019-04-18 17:34:24
+     - 我
+     - :st:`他现在就是照搬中兴的制度`
+   * - 2019-04-18 17:34:31
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322709.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:34:59
+     - 我
+     - :st:`而且到目前为止他接触的也就到老孔这个级别，剩下的都没谈过`
+   * - 2019-04-18 17:35:01
+     - 我
+     - :st:`是的`
+   * - 2019-04-18 17:35:24
+     - 我
+     - :st:`中兴的连销售都是事业部的`
+   * - 2019-04-18 17:35:32
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322713.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:35:53
+     - 我
+     - :st:`嗯嗯`
+   * - 2019-04-18 17:36:05
+     - 你
+     - .. raw:: html
+       
+          <audio controls="controls"><source src="_static/mp3/322715.mp3" type="audio/mpeg" />不能播放语音</audio>
+   * - 2019-04-18 17:36:16
+     - 我
+     - :st:`👌`
