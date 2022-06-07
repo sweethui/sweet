@@ -136,14 +136,14 @@
 <li class="toctree-l2"><a class="reference internal" href="#id31">2018-04-18</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#id36">2018-04-19</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#id37">2018-04-20</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#id43">2018-04-21</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#id44">2018-04-22</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#id45">2018-04-23</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#id51">2018-04-24</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#id52">2018-04-25</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#id55">2018-04-26</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#id59">2018-04-27</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#id60">2018-04-28</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id41">2018-04-21</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id42">2018-04-22</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id43">2018-04-23</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id47">2018-04-24</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id48">2018-04-25</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id51">2018-04-26</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id55">2018-04-27</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id56">2018-04-28</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="2018-05.html">2018-05</a></li>
@@ -1101,10 +1101,10 @@
 </tr>
 <tr class="row-even"><td><p>2018-04-02 17:23:31</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">由问题分析可知，浙江电力公司项目的用户需求为：要求在多个实例的事务隔离级别一致，为last committed的前提下，8s子查询在现有基础上，支持设置为跨实例union查询。具体为：
-1.       union查询中跨的实例个数大于等于2个；
-2.       子查询中union个数、子查询嵌套层数与现有系统保持一致；
-3.       事务隔离级别last committed在子查询支持的跨实例union查询场景中的表现与不在子查询中跨实例union查询时保持一致。</span></p></td>
+<td><p><span class="rt">由问题分析可知，浙江电力公司项目的用户需求为：要求在多个实例的事务隔离级别一致，为last committed的前提下，8s子查询在现有基础上，支持设置为跨实例union查询。具体为：</span>
+<span class="rt">1.  union查询中跨的实例个数大于等于2个；</span>
+<span class="rt">2.  子查询中union个数、子查询嵌套层数与现有系统保持一致；</span>
+<span class="rt">3.  事务隔离级别last committed在子查询支持的跨实例union查询场景中的表现与不在子查询中跨实例union查询时保持一致。</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-04-02 17:23:35</p></td>
 <td><p>你</p></td>
@@ -1168,10 +1168,10 @@
 </tr>
 <tr class="row-even"><td><p>2018-04-02 17:27:19</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">本地insert、
-本地insert、
-远程select、
-这种场景</span></p></td>
+<td><p><span class="rt">本地insert、</span>
+<span class="rt">本地insert、</span>
+<span class="rt">远程select、</span>
+<span class="rt">这种场景</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-04-02 17:27:27</p></td>
 <td><p>我</p></td>
@@ -1405,8 +1405,8 @@
 </tr>
 <tr class="row-even"><td><p>2018-04-03 09:45:51</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">create table t1(“A” int,a int);
-info columns for t1</span></p></td>
+<td><p><span class="rt">create table t1(“A” int,a int);</span>
+<span class="rt">info columns for t1</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-04-03 09:45:55</p></td>
 <td><p>你</p></td>
@@ -1438,10 +1438,10 @@ info columns for t1</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-04-03 10:02:01</p></td>
 <td><p>我</p></td>
-<td><p><span class="st">create table t1(“A” int,a int);
-info columns for t1
-create table t1(A int,a int);
-info columns for t1</span></p></td>
+<td><p><span class="st">create table t1(“A” int,a int);</span>
+<span class="st">info columns for t1</span>
+<span class="st">create table t1(A int,a int);</span>
+<span class="st">info columns for t1</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-04-03 10:02:14</p></td>
 <td><p>你</p></td>
@@ -1477,8 +1477,8 @@ info columns for t1</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-04-03 10:03:49</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">create table t1(“A” int,”Aa” int);
-info columns for t1</span></p></td>
+<td><p><span class="rt">create table t1(“A” int,”Aa” int);</span>
+<span class="rt">info columns for t1</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-04-03 10:05:24</p></td>
 <td><p>你</p></td>
@@ -1586,8 +1586,8 @@ info columns for t1</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-04-03 11:23:47</p></td>
 <td><p>我</p></td>
-<td><p><span class="st">支持数值型、日期型转换为字符型；varchar—–123
-这是什么意思？转换是从左到右还是从右到左？</span></p></td>
+<td><p><span class="st">支持数值型、日期型转换为字符型；varchar—–123</span>
+<span class="st">这是什么意思？转换是从左到右还是从右到左？</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-04-03 11:24:32</p></td>
 <td><p>你</p></td>
@@ -1663,10 +1663,10 @@ info columns for t1</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-04-03 11:29:19</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">➢   支持数值型、日期型转换为字符型；varchar ← 123, varchar ← date
-➢        支持纯数值字符串转换为数值型；int ← ‘123’
-➢        支持日期型字符串转换为日期型；date ← ‘2017-01-01’
-➢        不支持数值型转换为日期型；date ← 20170101</span></p></td>
+<td><p><span class="rt">➢   支持数值型、日期型转换为字符型；varchar ← 123, varchar ← date</span>
+<span class="rt">➢   支持纯数值字符串转换为数值型；int ← ‘123’</span>
+<span class="rt">➢   支持日期型字符串转换为日期型；date ← ‘2017-01-01’</span>
+<span class="rt">➢   不支持数值型转换为日期型；date ← 20170101</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-04-03 11:29:26</p></td>
 <td><p>你</p></td>
@@ -22278,11 +22278,11 @@ info columns for t1</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-04-19 14:43:41</p></td>
 <td><p>我</p></td>
-<td><p><span class="st">“有时候，纾解一个人的方式，不见得是你为他做了什么，而是他知道，你在，就够了。”
-摘录来自
-我敢在你怀里孤独
-刘若英
-此材料受版权保护。</span></p></td>
+<td><p><span class="st">“有时候，纾解一个人的方式，不见得是你为他做了什么，而是他知道，你在，就够了。”</span>
+<span class="st">摘录来自</span>
+<span class="st">我敢在你怀里孤独</span>
+<span class="st">刘若英</span>
+<span class="st">此材料受版权保护。</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-04-19 14:47:37</p></td>
 <td><p>你</p></td>
@@ -22842,9 +22842,9 @@ info columns for t1</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-04-19 15:19:29</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">“就算待在家里，我的心也能天南地北到处遨游。我希望随时保有说走就走的自由与自主，但这并不表示，我无法忍受拘束。
-说到这里，我自己都觉得自己是个矛盾的人。但，没错，我就是这样。因为对生命的好奇，我喜欢自由自在，但依然结婚，现在则等着生子，步入人母的历程。也许我的人生中，还会继续这样矛盾下去吧！（笑）”
-摘录来自: 刘若英. “我敢在你怀里孤独”。 iBooks.</span></p></td>
+<td><p><span class="rt">“就算待在家里，我的心也能天南地北到处遨游。我希望随时保有说走就走的自由与自主，但这并不表示，我无法忍受拘束。</span>
+<span class="rt">说到这里，我自己都觉得自己是个矛盾的人。但，没错，我就是这样。因为对生命的好奇，我喜欢自由自在，但依然结婚，现在则等着生子，步入人母的历程。也许我的人生中，还会继续这样矛盾下去吧！（笑）”</span>
+<span class="rt">摘录来自: 刘若英. “我敢在你怀里孤独”。 iBooks.</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-04-19 15:19:58</p></td>
 <td><p>你</p></td>
@@ -24840,13 +24840,10 @@ info columns for t1</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-04-20 13:29:17</p></td>
 <td><p>你</p></td>
-<td><dl class="simple">
-<dt>:rt:<a href="#id40"><span class="problematic" id="id41">`</span></a>培晟，你好！</dt><dd><p>经多方沟通，并经张工确认，生成如下版本号供你使用。经确认，CSDK不再单独打包，故不发布版本号。
-本版产品在1.6.4.22基础上merge #333的修改，我会单独记录。
-本次为轻量化引入新的版本号标识”L”，请大家了解。`</p>
-</dd>
-</dl>
-</td>
+<td><p><span class="rt">培晟，你好！</span>
+<span class="rt">经多方沟通，并经张工确认，生成如下版本号供你使用。经确认，CSDK不再单独打包，故不发布版本号。</span>
+<span class="rt">本版产品在1.6.4.22基础上merge #333的修改，我会单独记录。</span>
+<span class="rt">本次为轻量化引入新的版本号标识”L”，请大家了解。</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-04-20 13:29:25</p></td>
 <td><p>你</p></td>
@@ -27015,8 +27012,8 @@ info columns for t1</span></p></td>
 </tbody>
 </table>
 </div>
-<div class="section" id="id43">
-<h2>2018-04-21<a class="headerlink" href="#id43" title="永久链接至标题">¶</a></h2>
+<div class="section" id="id41">
+<h2>2018-04-21<a class="headerlink" href="#id41" title="永久链接至标题">¶</a></h2>
 <table class="colwidths-given docutils align-default">
 <colgroup>
 <col style="width: 29%" />
@@ -27155,8 +27152,8 @@ info columns for t1</span></p></td>
 </tbody>
 </table>
 </div>
-<div class="section" id="id44">
-<h2>2018-04-22<a class="headerlink" href="#id44" title="永久链接至标题">¶</a></h2>
+<div class="section" id="id42">
+<h2>2018-04-22<a class="headerlink" href="#id42" title="永久链接至标题">¶</a></h2>
 <table class="colwidths-given docutils align-default">
 <colgroup>
 <col style="width: 29%" />
@@ -27227,8 +27224,8 @@ info columns for t1</span></p></td>
 </tbody>
 </table>
 </div>
-<div class="section" id="id45">
-<h2>2018-04-23<a class="headerlink" href="#id45" title="永久链接至标题">¶</a></h2>
+<div class="section" id="id43">
+<h2>2018-04-23<a class="headerlink" href="#id43" title="永久链接至标题">¶</a></h2>
 <table class="colwidths-given docutils align-default">
 <colgroup>
 <col style="width: 29%" />
@@ -28222,19 +28219,19 @@ info columns for t1</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-04-23 15:08:38</p></td>
 <td><p>你</p></td>
-<td><p>:rt:<a href="#id49"><span class="problematic" id="id50">`</span></a>各位领导和同事大家好，
-       国产数据库GBase 8T和Oracle数据库的性能对比测试经过金航和南大双方工程师的努力，目前已经完成。测试结果简述如下：
-           1. 在登陆注销、流程功能方面GBase 8T和Oralce数据库相差不大。
-           2. 在单表操作方面，GBase 8T在更新驱动后，略优于Oracle数据库。
-       详细测试结果请参阅附件《业务基础平台V6.3.3使用GBase-Oracle的性能对比测试报告》。
-       兼容性测试和性能测试过程中V6平台及GBase 8T的问题修改和调优记录请参照附件《Oracle和GBase 8T性能对比测试问题处理和调优记录》。
-       测试过程中修改过的文件打包为《GBase 8T性能测试_修改文件列表.zip》，方便以后查阅。</p>
-<p>       目前仍然存在的问题如下：
-       1.  jsqlparser包的兼容性问题。
-       目前平台内置的jsqlparser包版本为0.9.2，此版本的jsqlparser不支持GBase 8T中first语法，需要升级到0.9.5支持first语法。目前V6平台升级到0.9.5版本后，平台源码有一处编译报错，虽然在性能测试中直接使用0.9.5版本的jsqlparser包未影响正常功能的使用，但是项目中可能存在安全隐患。
-       2. 电子表单模块兼容性问题
-        由于电子表单模块不在此次测试范围内，所以电子表单模块目前不支持GBase 8T。`</p>
-</td>
+<td><p><span class="rt">各位领导和同事大家好，</span>
+<span class="rt">国产数据库GBase 8T和Oracle数据库的性能对比测试经过金航和南大双方工程师的努力，目前已经完成。测试结果简述如下：</span>
+<span class="rt">1. 在登陆注销、流程功能方面GBase 8T和Oralce数据库相差不大。</span>
+<span class="rt">2. 在单表操作方面，GBase 8T在更新驱动后，略优于Oracle数据库。</span>
+<span class="rt">详细测试结果请参阅附件《业务基础平台V6.3.3使用GBase-Oracle的性能对比测试报告》。</span>
+<span class="rt">兼容性测试和性能测试过程中V6平台及GBase 8T的问题修改和调优记录请参照附件《Oracle和GBase 8T性能对比测试问题处理和调优记录》。</span>
+<span class="rt">测试过程中修改过的文件打包为《GBase 8T性能测试_修改文件列表.zip》，方便以后查阅。</span>
+:rt:``
+<span class="rt">目前仍然存在的问题如下：</span>
+<span class="rt">1.  jsqlparser包的兼容性问题。</span>
+<span class="rt">目前平台内置的jsqlparser包版本为0.9.2，此版本的jsqlparser不支持GBase 8T中first语法，需要升级到0.9.5支持first语法。目前V6平台升级到0.9.5版本后，平台源码有一处编译报错，虽然在性能测试中直接使用0.9.5版本的jsqlparser包未影响正常功能的使用，但是项目中可能存在安全隐患。</span>
+<span class="rt">2. 电子表单模块兼容性问题</span>
+<span class="rt">由于电子表单模块不在此次测试范围内，所以电子表单模块目前不支持GBase 8T。</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-04-23 15:10:06</p></td>
 <td><p>我</p></td>
@@ -30131,8 +30128,8 @@ info columns for t1</span></p></td>
 </tbody>
 </table>
 </div>
-<div class="section" id="id51">
-<h2>2018-04-24<a class="headerlink" href="#id51" title="永久链接至标题">¶</a></h2>
+<div class="section" id="id47">
+<h2>2018-04-24<a class="headerlink" href="#id47" title="永久链接至标题">¶</a></h2>
 <table class="colwidths-given docutils align-default">
 <colgroup>
 <col style="width: 29%" />
@@ -31503,8 +31500,8 @@ info columns for t1</span></p></td>
 </tbody>
 </table>
 </div>
-<div class="section" id="id52">
-<h2>2018-04-25<a class="headerlink" href="#id52" title="永久链接至标题">¶</a></h2>
+<div class="section" id="id48">
+<h2>2018-04-25<a class="headerlink" href="#id48" title="永久链接至标题">¶</a></h2>
 <table class="colwidths-given docutils align-default">
 <colgroup>
 <col style="width: 29%" />
@@ -33194,10 +33191,10 @@ info columns for t1</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-04-25 16:29:56</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">在这个阶段我发生了很大的改变，
-1、开始逐渐的意识到自己被『统治教育』压抑的点，通过你帮我分析，越来越清晰的认识自己，
-2、慢慢的培养自我分析的能力，而不是一味的借助与你，
-3、开始接触规则制定者</span></p></td>
+<td><p><span class="rt">在这个阶段我发生了很大的改变，</span>
+<span class="rt">1、开始逐渐的意识到自己被『统治教育』压抑的点，通过你帮我分析，越来越清晰的认识自己，</span>
+<span class="rt">2、慢慢的培养自我分析的能力，而不是一味的借助与你，</span>
+<span class="rt">3、开始接触规则制定者</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-04-25 16:30:24</p></td>
 <td><p>你</p></td>
@@ -34277,8 +34274,8 @@ info columns for t1</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-04-25 17:18:58</p></td>
 <td><p>我</p></td>
-<td><p><span class="st">1、你自己本身在战术安排上还是有欠缺的，还是自发而不是自觉
-2、你自己本身没有意识到更高层次上的战术安排</span></p></td>
+<td><p><span class="st">1、你自己本身在战术安排上还是有欠缺的，还是自发而不是自觉</span>
+<span class="st">2、你自己本身没有意识到更高层次上的战术安排</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-04-25 17:19:09</p></td>
 <td><p>你</p></td>
@@ -34499,8 +34496,8 @@ info columns for t1</span></p></td>
 </tbody>
 </table>
 </div>
-<div class="section" id="id55">
-<h2>2018-04-26<a class="headerlink" href="#id55" title="永久链接至标题">¶</a></h2>
+<div class="section" id="id51">
+<h2>2018-04-26<a class="headerlink" href="#id51" title="永久链接至标题">¶</a></h2>
 <table class="colwidths-given docutils align-default">
 <colgroup>
 <col style="width: 29%" />
@@ -34974,10 +34971,10 @@ info columns for t1</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-04-26 14:07:52</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">主观性吸引力（subjective physical attraction )——纯粹的性吸引力（只想睡一睡而已）。
-• 客观性吸引力（objective physical attraction）——评价对方客观上是非常有吸引力的人，但是并不是自己喜欢（想睡）的类型。
-• 浪漫吸引力（romantic attraction）——想要把一段友情变成男女朋友之间的关系。
-• 友伴吸引力（friendship attraction）——认为对方适合做朋友，信任对方。</span></p></td>
+<td><p><span class="rt">主观性吸引力（subjective physical attraction )——纯粹的性吸引力（只想睡一睡而已）。</span>
+<span class="rt">• 客观性吸引力（objective physical attraction）——评价对方客观上是非常有吸引力的人，但是并不是自己喜欢（想睡）的类型。</span>
+<span class="rt">• 浪漫吸引力（romantic attraction）——想要把一段友情变成男女朋友之间的关系。</span>
+<span class="rt">• 友伴吸引力（friendship attraction）——认为对方适合做朋友，信任对方。</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-04-26 14:08:17</p></td>
 <td><p>你</p></td>
@@ -35185,8 +35182,8 @@ info columns for t1</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-04-26 14:20:38</p></td>
 <td><p>我</p></td>
-<td><p><span class="st">在很多时候，这个友情关系中的双方甚至认为将这段友情发展成为爱情是对它的一种侮辱，并且认为这是对于对方的一种不尊重。
-这段话本身就是不自由的</span></p></td>
+<td><p><span class="st">在很多时候，这个友情关系中的双方甚至认为将这段友情发展成为爱情是对它的一种侮辱，并且认为这是对于对方的一种不尊重。</span>
+<span class="st">这段话本身就是不自由的</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-04-26 14:20:55</p></td>
 <td><p>你</p></td>
@@ -35474,8 +35471,8 @@ info columns for t1</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-04-26 17:13:59</p></td>
 <td><p>我</p></td>
-<td><p><span class="st">比如：（将name的值为a、b、c、d分别转换为列，并将这些列分别做sum。）
-其实是将name 中对应的值为a、b、c、d 的行分组，将分组后结果中nums列值进行聚集，然后做行列转置，转置算法是：in 子句中的值作为字段名，将刚才计算的对应分组的聚集结果作为值</span></p></td>
+<td><p><span class="st">比如：（将name的值为a、b、c、d分别转换为列，并将这些列分别做sum。）</span>
+<span class="st">其实是将name 中对应的值为a、b、c、d 的行分组，将分组后结果中nums列值进行聚集，然后做行列转置，转置算法是：in 子句中的值作为字段名，将刚才计算的对应分组的聚集结果作为值</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-04-26 17:14:23</p></td>
 <td><p>你</p></td>
@@ -35596,8 +35593,8 @@ info columns for t1</span></p></td>
 </tbody>
 </table>
 </div>
-<div class="section" id="id59">
-<h2>2018-04-27<a class="headerlink" href="#id59" title="永久链接至标题">¶</a></h2>
+<div class="section" id="id55">
+<h2>2018-04-27<a class="headerlink" href="#id55" title="永久链接至标题">¶</a></h2>
 <table class="colwidths-given docutils align-default">
 <colgroup>
 <col style="width: 29%" />
@@ -36576,8 +36573,8 @@ info columns for t1</span></p></td>
 </tbody>
 </table>
 </div>
-<div class="section" id="id60">
-<h2>2018-04-28<a class="headerlink" href="#id60" title="永久链接至标题">¶</a></h2>
+<div class="section" id="id56">
+<h2>2018-04-28<a class="headerlink" href="#id56" title="永久链接至标题">¶</a></h2>
 <table class="colwidths-given docutils align-default">
 <colgroup>
 <col style="width: 29%" />

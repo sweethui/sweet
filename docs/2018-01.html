@@ -2588,9 +2588,9 @@
 </tr>
 <tr class="row-odd"><td><p>2018-01-09 11:04:50</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">南瑞DDL：让丽影他们在有人力的情况下先启动调研，但暂不知会工具组，国网DDL需求等着工具组提供。
-厦门cache：让张杰把设计方案以正式邮件的形式发给陈总，请陈总review。并跟踪测试case的反馈情况。
-南瑞丢数据事件：经营会牟魏提出8s丢数据，有我跟牟魏核实与断电丢数据是否为一回事，产品线会说断电丢数据的任务，当初给的计划是Q1启动。</span></p></td>
+<td><p><span class="rt">南瑞DDL：让丽影他们在有人力的情况下先启动调研，但暂不知会工具组，国网DDL需求等着工具组提供。</span>
+<span class="rt">厦门cache：让张杰把设计方案以正式邮件的形式发给陈总，请陈总review。并跟踪测试case的反馈情况。</span>
+<span class="rt">南瑞丢数据事件：经营会牟魏提出8s丢数据，有我跟牟魏核实与断电丢数据是否为一回事，产品线会说断电丢数据的任务，当初给的计划是Q1启动。</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-01-09 11:05:38</p></td>
 <td><p>我</p></td>
@@ -2734,13 +2734,13 @@
 </tr>
 <tr class="row-odd"><td><p>2018-01-09 15:28:30</p></td>
 <td><p>我</p></td>
-<td><p><span class="st">1. 存储过程调试，PL/SQL兼容，难
-2. 新硬件适配，难
-3. 数据存储长度限制，难
-4. 大对象性能优化，中
-5. 高可靠和高可用问题及优化，中
-6. 运维及问题定位修复工具，低
-7. Oracle 兼容性研发，低</span></p></td>
+<td><p><span class="st">1. 存储过程调试，PL/SQL兼容，难</span>
+<span class="st">2. 新硬件适配，难</span>
+<span class="st">3. 数据存储长度限制，难</span>
+<span class="st">4. 大对象性能优化，中</span>
+<span class="st">5. 高可靠和高可用问题及优化，中</span>
+<span class="st">6. 运维及问题定位修复工具，低</span>
+<span class="st">7. Oracle 兼容性研发，低</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-01-09 15:28:49</p></td>
 <td><p>我</p></td>
@@ -7641,8 +7641,8 @@
 </tr>
 <tr class="row-odd"><td><p>2018-01-23 14:23:35</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">李辉，
-我们有没有对所有的Ｏｒａｃｌｅ兼容需求进行过评估？你有所有的Ｏｒａｃｌｅ兼容需求吗？</span></p></td>
+<td><p><span class="rt">李辉，</span>
+<span class="rt">我们有没有对所有的Ｏｒａｃｌｅ兼容需求进行过评估？你有所有的Ｏｒａｃｌｅ兼容需求吗？</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-01-23 14:23:44</p></td>
 <td><p>你</p></td>
@@ -12326,18 +12326,18 @@
 </tr>
 <tr class="row-odd"><td><p>2018-01-25 18:02:26</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">本文主要介绍包、CONNECT BY层次查询和ROWNUM三个主要的兼容特性。
-(一)包（package）的兼容
-包类似于存储过程，可将过程说明和过程体组成一个程序单位。也可将过程说明与它的过程体分开，在这种情况下，将过程放置在一个包中，可隐蔽实现的细节。也可在包中定义过程，而该过程在包说明中没有定义过程说明，这样定义的过程仅在包内使用。包可以编译、存贮在数据库中，其内容可为许多应用共享。当用户第一次调用包中的子程序时，整个包都会被装载到内存，所以在以后对包中子程序调用时，不再需要I/O操作，故包可提高效率和改进性能。对于一个复杂的应用系统来说，包功能提供了一个巨大的便利，在系统中可以按照功能模块划分，把同一个模块的TYPE、FUNCTION、PROCEDURE放在一起，这样既方便数据库开发人员的维护更新，也方便了应用系统开发人员的调用。
-在ORACLE数据库中，包和类型（Type）、过程（Procedure）、函数（Function）等一样都是PL/SQL的对象。不同的是，包(Package)更像是一个结构，将逻辑上相关的PL/SQL类型、对象和子程序组合成一个更大的单位。包有两个部分：包定义(specification)和包体(body)。说明部分是为应用程序的接口，它申明类型、常量、例外、游标和可用的子程序。包体定义游标、子程序和实现说明。
-在DM7中，我们从整体结构和语法上实现了与Oracle一致的Package，包括包头与包体的定义、调用方式、以及内部变量声明方式与作用域和生命周期。下面给出一个简单的包括包定义、包体、类型、过程和函数的完整的package定义样例：</span></p></td>
+<td><p><span class="rt">本文主要介绍包、CONNECT BY层次查询和ROWNUM三个主要的兼容特性。</span>
+<span class="rt">(一)包（package）的兼容</span>
+<span class="rt">包类似于存储过程，可将过程说明和过程体组成一个程序单位。也可将过程说明与它的过程体分开，在这种情况下，将过程放置在一个包中，可隐蔽实现的细节。也可在包中定义过程，而该过程在包说明中没有定义过程说明，这样定义的过程仅在包内使用。包可以编译、存贮在数据库中，其内容可为许多应用共享。当用户第一次调用包中的子程序时，整个包都会被装载到内存，所以在以后对包中子程序调用时，不再需要I/O操作，故包可提高效率和改进性能。对于一个复杂的应用系统来说，包功能提供了一个巨大的便利，在系统中可以按照功能模块划分，把同一个模块的TYPE、FUNCTION、PROCEDURE放在一起，这样既方便数据库开发人员的维护更新，也方便了应用系统开发人员的调用。</span>
+<span class="rt">在ORACLE数据库中，包和类型（Type）、过程（Procedure）、函数（Function）等一样都是PL/SQL的对象。不同的是，包(Package)更像是一个结构，将逻辑上相关的PL/SQL类型、对象和子程序组合成一个更大的单位。包有两个部分：包定义(specification)和包体(body)。说明部分是为应用程序的接口，它申明类型、常量、例外、游标和可用的子程序。包体定义游标、子程序和实现说明。</span>
+<span class="rt">在DM7中，我们从整体结构和语法上实现了与Oracle一致的Package，包括包头与包体的定义、调用方式、以及内部变量声明方式与作用域和生命周期。下面给出一个简单的包括包定义、包体、类型、过程和函数的完整的package定义样例：</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-01-25 18:03:36</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">为保障用户现有应用系统上的投资，降低系统迁移到DM7的难度，DM7提供了许多与其他数据库系统兼容的特性，尤其针对Oracle，DM7提供了全方位的兼容，以降低用户学习成本，迁移成本。
-体系结构方面，DM7兼容oracle的单库单实例式结构、表空间-数据文件机制、回滚机制、多版本并发控制、闪回。
-应用开发接口兼容，兼容PL/SQL常用语法90%、OCI、OOCI、OO4O接口兼容、系统包机制。
-维护管理方式兼容，兼容大量V$动态视图、AWR性能分析报告、10053等事件。</span></p></td>
+<td><p><span class="rt">为保障用户现有应用系统上的投资，降低系统迁移到DM7的难度，DM7提供了许多与其他数据库系统兼容的特性，尤其针对Oracle，DM7提供了全方位的兼容，以降低用户学习成本，迁移成本。</span>
+<span class="rt">体系结构方面，DM7兼容oracle的单库单实例式结构、表空间-数据文件机制、回滚机制、多版本并发控制、闪回。</span>
+<span class="rt">应用开发接口兼容，兼容PL/SQL常用语法90%、OCI、OOCI、OO4O接口兼容、系统包机制。</span>
+<span class="rt">维护管理方式兼容，兼容大量V$动态视图、AWR性能分析报告、10053等事件。</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-01-25 18:03:56</p></td>
 <td><p>你</p></td>
@@ -12409,14 +12409,14 @@
 </tr>
 <tr class="row-odd"><td><p>2018-01-26 10:56:48</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">364：下周五给出评估结果
-345：6个接口同时发版，1月底发版。
-361、363、370：2月5号提供
-373：等待评估，越快越好，生产环境宕机。
-331：继续与爱福沟通
-332：继续与爱福沟通，形成结论后 反馈到rd上
-342：等待张工出版本后，测试该问题场景，再看结果。张工Q1末提供版本。张工评估sql语句，是否能在Q1末的版本解决。
-358：等待唐骞反馈。</span></p></td>
+<td><p><span class="rt">364：下周五给出评估结果</span>
+<span class="rt">345：6个接口同时发版，1月底发版。</span>
+<span class="rt">361、363、370：2月5号提供</span>
+<span class="rt">373：等待评估，越快越好，生产环境宕机。</span>
+<span class="rt">331：继续与爱福沟通</span>
+<span class="rt">332：继续与爱福沟通，形成结论后 反馈到rd上</span>
+<span class="rt">342：等待张工出版本后，测试该问题场景，再看结果。张工Q1末提供版本。张工评估sql语句，是否能在Q1末的版本解决。</span>
+<span class="rt">358：等待唐骞反馈。</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-01-26 12:57:55</p></td>
 <td><p>你</p></td>
@@ -12460,23 +12460,23 @@
 </tr>
 <tr class="row-even"><td><p>2018-01-26 13:12:15</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">28s轻量化任务描述：
-在上一个轻量化版本『版本号：GBase8tV8.7.12.10.TC4G1_1.6.4.23_轻量化V1.WIN2003.tar』基础上增加：
-一、       rd359需求定制化开发
-1、       Dbspace默认都设置为可扩展；
-2、       增加sbspace并在onconfig中注册，默认大小200MB（不算在轻量化的要求里面）。设置为可扩展；
-3、       将onconfig里ltapedev设置为nul；
-4、       代码基于28s分支最新代码合并，
-a)       rd333–view中无法使用rowid问题
-b)       comment引起的升级问题
-5、       平台与rd171保持一致。
-28s最新版本任务：
-1、       基于28s分支最新代码合并，
-rd333–view中无法使用rowid问题
-comment引起的升级问题
-FT平台合并堆栈问题
-2、       送测平台：x86、win32、win64、FT。
-3、       版本号：1.6.4S1</span></p></td>
+<td><p><span class="rt">28s轻量化任务描述：</span>
+<span class="rt">在上一个轻量化版本『版本号：GBase8tV8.7.12.10.TC4G1_1.6.4.23_轻量化V1.WIN2003.tar』基础上增加：</span>
+<span class="rt">一、  rd359需求定制化开发</span>
+<span class="rt">1、  Dbspace默认都设置为可扩展；</span>
+<span class="rt">2、  增加sbspace并在onconfig中注册，默认大小200MB（不算在轻量化的要求里面）。设置为可扩展；</span>
+<span class="rt">3、  将onconfig里ltapedev设置为nul；</span>
+<span class="rt">4、  代码基于28s分支最新代码合并，</span>
+<span class="rt">a)  rd333–view中无法使用rowid问题</span>
+<span class="rt">b)  comment引起的升级问题</span>
+<span class="rt">5、  平台与rd171保持一致。</span>
+<span class="rt">28s最新版本任务：</span>
+<span class="rt">1、  基于28s分支最新代码合并，</span>
+<span class="rt">rd333–view中无法使用rowid问题</span>
+<span class="rt">comment引起的升级问题</span>
+<span class="rt">FT平台合并堆栈问题</span>
+<span class="rt">2、  送测平台：x86、win32、win64、FT。</span>
+<span class="rt">3、  版本号：1.6.4S1</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-01-26 13:12:23</p></td>
 <td><p>你</p></td>
@@ -12484,8 +12484,8 @@ FT平台合并堆栈问题
 </tr>
 <tr class="row-even"><td><p>2018-01-26 13:13:12</p></td>
 <td><p>我</p></td>
-<td><p><span class="st">FT平台合并堆栈问题
-这个指的是胡畅泉做的改进吧</span></p></td>
+<td><p><span class="st">FT平台合并堆栈问题</span>
+<span class="st">这个指的是胡畅泉做的改进吧</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-01-26 13:13:16</p></td>
 <td><p>你</p></td>

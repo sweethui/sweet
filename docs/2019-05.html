@@ -151,12 +151,12 @@
 <li class="toctree-l2"><a class="reference internal" href="#id18">2019-05-21</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#id21">2019-05-22</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#id22">2019-05-23</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#id25">2019-05-24</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#id26">2019-05-27</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#id29">2019-05-28</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#id30">2019-05-29</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#id31">2019-05-30</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#id33">2019-05-31</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id23">2019-05-24</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id24">2019-05-27</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id27">2019-05-28</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id28">2019-05-29</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id29">2019-05-30</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id31">2019-05-31</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="2019-06.html">2019-06</a></li>
@@ -5050,9 +5050,9 @@
 </tr>
 <tr class="row-odd"><td><p>2019-05-15 08:51:57</p></td>
 <td><p>我</p></td>
-<td><p><span class="st">数据智能产品经营部、数据工程经营部，权重系数为：a=30%, b=50%
-数据管理产品经营部，权重系数为：a=50%, b=30%
-————</span></p></td>
+<td><p><span class="st">数据智能产品经营部、数据工程经营部，权重系数为：a=30%, b=50%</span>
+<span class="st">数据管理产品经营部，权重系数为：a=50%, b=30%</span>
+<span class="st">————</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2019-05-15 08:52:08</p></td>
 <td><p>我</p></td>
@@ -8847,44 +8847,33 @@
 </tr>
 <tr class="row-even"><td><p>2019-05-23 10:42:45</p></td>
 <td><p>你</p></td>
-<td><dl>
-<dt>:rt:<a href="#id23"><span class="problematic" id="id24">`</span></a>SELECT</dt><dd><p>– login,
-NAME,
-CASE</p>
-<blockquote>
-<div><p>WHEN SUM(hours) IS NULL THEN 0
-ELSE SUM(hours)</p>
-</div></blockquote>
-<p>END total_hour</p>
-</dd>
-<dt>FROM</dt><dd><dl>
-<dt>(SELECT DISTINCT</dt><dd><p>b.login login,
-CONCAT(b.firstname,b.lastname) NAME,</p>
-<blockquote>
-<div><p>a.id id2,
-a.project_id project_id1,
-a.user_id user_id1,
-a.issue_id,
-a.hours hours,
-a.comments</p>
-</div></blockquote>
-</dd>
-<dt>FROM</dt><dd><p>users b</p>
-</dd>
-<dt>LEFT JOIN time_entries a ON a.user_id = b.id</dt><dd><p>AND a.spent_on BETWEEN DATE_ADD(NOW(), INTERVAL - 8 DAY) AND NOW()</p>
-</dd>
-</dl>
-<p>LEFT JOIN members c ON c.user_id = b.id
-LEFT JOIN member_roles d ON c.id = d.member_id
-WHERE</p>
-<blockquote>
-<div><p>d.role_id = 9) aa</p>
-</div></blockquote>
-</dd>
-</dl>
-<p>GROUP BY login
-ORDER BY total_hour DESC`</p>
-</td>
+<td><p><span class="rt">SELECT</span>
+<span class="rt">– login,</span>
+<span class="rt">NAME,</span>
+<span class="rt">CASE</span>
+<span class="rt">WHEN SUM(hours) IS NULL THEN 0</span>
+<span class="rt">ELSE SUM(hours)</span>
+<span class="rt">END total_hour</span>
+<span class="rt">FROM</span>
+<span class="rt">(SELECT DISTINCT</span>
+<span class="rt">b.login login,</span>
+<span class="rt">CONCAT(b.firstname,b.lastname) NAME,</span>
+<span class="rt">a.id id2,</span>
+<span class="rt">a.project_id project_id1,</span>
+<span class="rt">a.user_id user_id1,</span>
+<span class="rt">a.issue_id,</span>
+<span class="rt">a.hours hours,</span>
+<span class="rt">a.comments</span>
+<span class="rt">FROM</span>
+<span class="rt">users b</span>
+<span class="rt">LEFT JOIN time_entries a ON a.user_id = b.id</span>
+<span class="rt">AND a.spent_on BETWEEN DATE_ADD(NOW(), INTERVAL - 8 DAY) AND NOW()</span>
+<span class="rt">LEFT JOIN members c ON c.user_id = b.id</span>
+<span class="rt">LEFT JOIN member_roles d ON c.id = d.member_id</span>
+<span class="rt">WHERE</span>
+<span class="rt">d.role_id = 9) aa</span>
+<span class="rt">GROUP BY login</span>
+<span class="rt">ORDER BY total_hour DESC</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2019-05-23 11:24:33</p></td>
 <td><p>你</p></td>
@@ -9105,8 +9094,8 @@ ORDER BY total_hour DESC`</p>
 </tbody>
 </table>
 </div>
-<div class="section" id="id25">
-<h2>2019-05-24<a class="headerlink" href="#id25" title="永久链接至标题">¶</a></h2>
+<div class="section" id="id23">
+<h2>2019-05-24<a class="headerlink" href="#id23" title="永久链接至标题">¶</a></h2>
 <table class="colwidths-given docutils align-default">
 <colgroup>
 <col style="width: 29%" />
@@ -9573,8 +9562,8 @@ ORDER BY total_hour DESC`</p>
 </tbody>
 </table>
 </div>
-<div class="section" id="id26">
-<h2>2019-05-27<a class="headerlink" href="#id26" title="永久链接至标题">¶</a></h2>
+<div class="section" id="id24">
+<h2>2019-05-27<a class="headerlink" href="#id24" title="永久链接至标题">¶</a></h2>
 <table class="colwidths-given docutils align-default">
 <colgroup>
 <col style="width: 29%" />
@@ -10365,8 +10354,8 @@ ORDER BY total_hour DESC`</p>
 </tbody>
 </table>
 </div>
-<div class="section" id="id29">
-<h2>2019-05-28<a class="headerlink" href="#id29" title="永久链接至标题">¶</a></h2>
+<div class="section" id="id27">
+<h2>2019-05-28<a class="headerlink" href="#id27" title="永久链接至标题">¶</a></h2>
 <table class="colwidths-given docutils align-default">
 <colgroup>
 <col style="width: 29%" />
@@ -10646,8 +10635,8 @@ ORDER BY total_hour DESC`</p>
 </tbody>
 </table>
 </div>
-<div class="section" id="id30">
-<h2>2019-05-29<a class="headerlink" href="#id30" title="永久链接至标题">¶</a></h2>
+<div class="section" id="id28">
+<h2>2019-05-29<a class="headerlink" href="#id28" title="永久链接至标题">¶</a></h2>
 <table class="colwidths-given docutils align-default">
 <colgroup>
 <col style="width: 29%" />
@@ -10886,8 +10875,8 @@ ORDER BY total_hour DESC`</p>
 </tbody>
 </table>
 </div>
-<div class="section" id="id31">
-<h2>2019-05-30<a class="headerlink" href="#id31" title="永久链接至标题">¶</a></h2>
+<div class="section" id="id29">
+<h2>2019-05-30<a class="headerlink" href="#id29" title="永久链接至标题">¶</a></h2>
 <table class="colwidths-given docutils align-default">
 <colgroup>
 <col style="width: 29%" />
@@ -11427,8 +11416,8 @@ ORDER BY total_hour DESC`</p>
 </tbody>
 </table>
 </div>
-<div class="section" id="id33">
-<h2>2019-05-31<a class="headerlink" href="#id33" title="永久链接至标题">¶</a></h2>
+<div class="section" id="id31">
+<h2>2019-05-31<a class="headerlink" href="#id31" title="永久链接至标题">¶</a></h2>
 <table class="colwidths-given docutils align-default">
 <colgroup>
 <col style="width: 29%" />

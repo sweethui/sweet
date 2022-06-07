@@ -12679,8 +12679,8 @@
 </tr>
 <tr class="row-even"><td><p>2018-03-21 09:37:57</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">4)  OVER子句：可省略，与现有分析函数中OVER子句保持一致。
-本次需求仅需实现以上描述的1)、2)、3)部分功能。关于OVER子句部分本次不需支持，软需中也不体现。将带OVER子句的FIRST|LAST函数纳入RoadMap。</span></p></td>
+<td><p><span class="rt">4)  OVER子句：可省略，与现有分析函数中OVER子句保持一致。</span>
+<span class="rt">本次需求仅需实现以上描述的1)、2)、3)部分功能。关于OVER子句部分本次不需支持，软需中也不体现。将带OVER子句的FIRST|LAST函数纳入RoadMap。</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-03-21 09:38:11</p></td>
 <td><p>你</p></td>
@@ -12692,8 +12692,8 @@
 </tr>
 <tr class="row-odd"><td><p>2018-03-21 09:38:49</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">OVER子句：可省略，与现有分析函数中OVER子句保持一致。
-这句话写的稍微有点不准确</span></p></td>
+<td><p><span class="rt">OVER子句：可省略，与现有分析函数中OVER子句保持一致。</span>
+<span class="rt">这句话写的稍微有点不准确</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-03-21 09:38:50</p></td>
 <td><p>你</p></td>
@@ -16361,13 +16361,13 @@
 <tbody>
 <tr class="row-odd"><td><p>2018-03-24 10:54:25</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">&#64;Yunming 王总：
-关于5月4号ZC环境数据中心测试，本月底（3月31日）需研发协助完成“兼容text数据类型直接插入/更新字符串的SQL”。
-以下是昨日围绕需求探讨大致内容：
-本周由POC刘凡梁提了两条需求分别为：
-1、兼容text数据类型直接插入/更新字符串的SQL
-2、兼容byte数据类型直接插入、更新的SQL
-后经与超擎协商，第二条需求由超擎采用替代方案解决，第一条需求由南大通用3月31日前完成。</span></p></td>
+<td><p><span class="rt">&#64;Yunming 王总：</span>
+<span class="rt">关于5月4号ZC环境数据中心测试，本月底（3月31日）需研发协助完成“兼容text数据类型直接插入/更新字符串的SQL”。</span>
+<span class="rt">以下是昨日围绕需求探讨大致内容：</span>
+<span class="rt">本周由POC刘凡梁提了两条需求分别为：</span>
+<span class="rt">1、兼容text数据类型直接插入/更新字符串的SQL</span>
+<span class="rt">2、兼容byte数据类型直接插入、更新的SQL</span>
+<span class="rt">后经与超擎协商，第二条需求由超擎采用替代方案解决，第一条需求由南大通用3月31日前完成。</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-03-24 10:55:56</p></td>
 <td><p>我</p></td>
@@ -16776,13 +16776,13 @@
 </tr>
 <tr class="row-odd"><td><p>2018-03-26 11:11:50</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">采用新8s主要考虑：
-老8s没有spatial和负载均衡能力。高可用方面需要借助第三方软件。本次测试要测试这些方面。
-其他考虑就是：
-1,该项目将来数据量会比较大（500g矢量，200t影像）对数据库性能要求比较高。
-2,将来有可能会有多级数据中心（测试要求里头说的）
-3,该系统是军队系统里头很核心的系统，对稳定性，高可用性有较高的要求。
-4,从将来架构的扩展性来讲，新版的8s功能更强大些（尤其在集群构建方面），有利于应对二期，三期时候扩展需求。</span></p></td>
+<td><p><span class="rt">采用新8s主要考虑：</span>
+<span class="rt">老8s没有spatial和负载均衡能力。高可用方面需要借助第三方软件。本次测试要测试这些方面。</span>
+<span class="rt">其他考虑就是：</span>
+<span class="rt">1,该项目将来数据量会比较大（500g矢量，200t影像）对数据库性能要求比较高。</span>
+<span class="rt">2,将来有可能会有多级数据中心（测试要求里头说的）</span>
+<span class="rt">3,该系统是军队系统里头很核心的系统，对稳定性，高可用性有较高的要求。</span>
+<span class="rt">4,从将来架构的扩展性来讲，新版的8s功能更强大些（尤其在集群构建方面），有利于应对二期，三期时候扩展需求。</span></p></td>
 </tr>
 <tr class="row-even"><td><p>2018-03-26 11:45:38</p></td>
 <td><p>你</p></td>
@@ -17090,9 +17090,9 @@
 </tr>
 <tr class="row-even"><td><p>2018-03-26 14:00:09</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">我给你总结一下：
-1、非prepare方式，json格式跟字符类型表现一致，边界都是32k，超过32k直接报错，小于32k直接入库，且数据正确。
-2、prepare方式，超过32k不报错，但超过65534（char数据类型边界的2倍值）就会出现入库数据丢失的情况。</span></p></td>
+<td><p><span class="rt">我给你总结一下：</span>
+<span class="rt">1、非prepare方式，json格式跟字符类型表现一致，边界都是32k，超过32k直接报错，小于32k直接入库，且数据正确。</span>
+<span class="rt">2、prepare方式，超过32k不报错，但超过65534（char数据类型边界的2倍值）就会出现入库数据丢失的情况。</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-03-26 14:05:04</p></td>
 <td><p>你</p></td>
@@ -18001,9 +18001,9 @@
 </tr>
 <tr class="row-even"><td><p>2018-03-28 12:31:10</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">表达式为非实体列且不包含别名的情况，目前仅能够兼容已下场景：
-1. 常量字符串或数字。(基本覆盖现场大部分SQL场景)
-2. 表达式或函数最终结果为非常量结果。(ex: a + 1, abs(a) …)</span></p></td>
+<td><p><span class="rt">表达式为非实体列且不包含别名的情况，目前仅能够兼容已下场景：</span>
+<span class="rt">1. 常量字符串或数字。(基本覆盖现场大部分SQL场景)</span>
+<span class="rt">2. 表达式或函数最终结果为非常量结果。(ex: a + 1, abs(a) …)</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-03-28 12:31:20</p></td>
 <td><p>我</p></td>
@@ -18339,10 +18339,10 @@
 </tr>
 <tr class="row-even"><td><p>2018-03-28 14:13:22</p></td>
 <td><p>你</p></td>
-<td><p><span class="rt">刘畅，
-对于b，在无from子句的情况下，设计实现与需求不一致，需求要求为报错，当前设计实现为不报错，行为与DM保持一致。
-—需求要求报错的场景是：投影列包含列名的前提下，from子句的表不包括投影列的列名或省略from子句 。
-请确认是否为这个场景的设计实现与需求不一致，如果是，这个点建议按照需求实现！</span></p></td>
+<td><p><span class="rt">刘畅，</span>
+<span class="rt">对于b，在无from子句的情况下，设计实现与需求不一致，需求要求为报错，当前设计实现为不报错，行为与DM保持一致。</span>
+<span class="rt">—需求要求报错的场景是：投影列包含列名的前提下，from子句的表不包括投影列的列名或省略from子句 。</span>
+<span class="rt">请确认是否为这个场景的设计实现与需求不一致，如果是，这个点建议按照需求实现！</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-03-28 14:13:25</p></td>
 <td><p>你</p></td>
@@ -20643,22 +20643,15 @@
 </tr>
 <tr class="row-even"><td><p>2018-03-30 12:16:23</p></td>
 <td><p>你</p></td>
-<td><p>:rt:<a href="#id59"><span class="problematic" id="id60">`</span></a>SQL&gt; select decode(111,112,222,121,’a333’,’333’) from dual;
-DECODE(111,112,222,121,’A333’,’333’)
-————————————</p>
-<blockquote>
-<div><p>333</p>
-</div></blockquote>
-<p>SQL&gt; select decode(111,112,222,121,to_date(‘2017-02-04’),’333’) from dual;
-select decode(111,112,222,121,to_date(‘2017-02-04’),’333’) from dual</p>
-<blockquote>
-<div><ul class="simple">
-<li></li>
-</ul>
-</div></blockquote>
-<p>ERROR at line 1:
-ORA-00932: inconsistent datatypes: expected NUMBER got DATE`</p>
-</td>
+<td><p><span class="rt">SQL&gt; select decode(111,112,222,121,’a333’,’333’) from dual;</span>
+<span class="rt">DECODE(111,112,222,121,’A333’,’333’)</span>
+<span class="rt">————————————</span>
+<span class="rt">333</span>
+<span class="rt">SQL&gt; select decode(111,112,222,121,to_date(‘2017-02-04’),’333’) from dual;</span>
+<span class="rt">select decode(111,112,222,121,to_date(‘2017-02-04’),’333’) from dual</span>
+<span class="rt">*</span>
+<span class="rt">ERROR at line 1:</span>
+<span class="rt">ORA-00932: inconsistent datatypes: expected NUMBER got DATE</span></p></td>
 </tr>
 <tr class="row-odd"><td><p>2018-03-30 12:16:40</p></td>
 <td><p>你</p></td>
