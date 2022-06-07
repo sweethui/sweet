@@ -717,8 +717,8 @@
      - :st:`嗯嗯`
    * - 2017-07-13 18:25:36
      - 你
-     - :rt:`1.	事务隔离级别为repeatable read，select…for update查询的表有主键，且查询结果集存在的前提下，使用Select …for update skip locked功能，选中的结果集上行锁，多session事务查询结果集不一致时，支持update操作并发；
-       2.	select…for update查询的表无主键，使用Select …for update skip locked功能，选中的结果集上锁情况，与现有系统保持一致。`
+     - :rt:`1.	事务隔离级别为repeatable read，select…for update查询的表有主键，且查询结果集存在的前提下，使用Select …for update skip locked功能，选中的结果集上行锁，多session事务查询结果集不一致时，支持update操作并发；`
+       :rt:`2.	select…for update查询的表无主键，使用Select …for update skip locked功能，选中的结果集上锁情况，与现有系统保持一致。`
    * - 2017-07-13 18:25:41
      - 你
      - :rt:`你看看这两端话`

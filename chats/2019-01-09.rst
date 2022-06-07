@@ -306,8 +306,8 @@
      - :rt:`创建时`
    * - 2019-01-09 13:29:22
      - 我
-     - :st:`配置文件。docker 镜像创建时，需要传入参数或者配置文件
-       ------ 这句话不知道是说谁`
+     - :st:`配置文件。docker 镜像创建时，需要传入参数或者配置文件`
+       :st:`------ 这句话不知道是说谁`
    * - 2019-01-09 13:29:32
      - 我
      - :st:`对呀`
@@ -526,16 +526,16 @@
      - :rt:`如果卷也是一堆参数中的一个`
    * - 2019-01-09 13:44:18
      - 我
-     - :st:`docker run -it --name ifx --privileged
-             -p 9088:9088                                  \
-             -p 9089:9089                                  \
-             -p 27017:27017                                \ 
-             -p 27018:27018                                \ 
-             -p 27883:27883                                \ 
-             -v /home/informix/extvol:/opt/ibm/data        \
-             -e TYPE=oltp                                  \
-             -e LICENSE=accept                             \
-             ibmcom/informix-innovator-c:latest`
+     - :st:`docker run -it --name ifx --privileged`
+       :st:`-p 9088:9088                                  \`
+       :st:`-p 9089:9089                                  \`
+       :st:`-p 27017:27017                                \`
+       :st:`-p 27018:27018                                \`
+       :st:`-p 27883:27883                                \`
+       :st:`-v /home/informix/extvol:/opt/ibm/data        \`
+       :st:`-e TYPE=oltp                                  \`
+       :st:`-e LICENSE=accept                             \`
+       :st:`ibmcom/informix-innovator-c:latest`
    * - 2019-01-09 13:44:31
      - 你
      - :rt:`怎么保证dbs们能在指定的卷目录下？`
@@ -607,9 +607,9 @@
      - :rt:`OK`
    * - 2019-01-09 13:54:05
      - 我
-     - :st:`从整体上看，用户的需求均是和其docker管理平台适配，和目前我们的数据库产品本身在docker运行关系不大
-       ---------
-       关说的这句话必须是 image 已经做的足够灵活了才对。`
+     - :st:`从整体上看，用户的需求均是和其docker管理平台适配，和目前我们的数据库产品本身在docker运行关系不大`
+       :st:`---------`
+       :st:`关说的这句话必须是 image 已经做的足够灵活了才对。`
    * - 2019-01-09 13:54:33
      - 我
      - :st:`另外他故意混淆概念，能在 docker 里面运行和用户对 image 的需求是两回事`

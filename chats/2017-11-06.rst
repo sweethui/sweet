@@ -33,14 +33,14 @@
      - :rt:`别生了，不值当的`
    * - 2017-11-06 13:39:01
      - 你
-     - :rt:`ENCRYPT_AES
-       ENCRYPT_TDES
-       DECRYPT_CHAR
-       DECRYPT_BINARY
-       DECRYPT_BIT
-       DECRYPT_BINARY
-       DECRYPT_DB
-       GETHINT`
+     - :rt:`ENCRYPT_AES`
+       :rt:`ENCRYPT_TDES`
+       :rt:`DECRYPT_CHAR`
+       :rt:`DECRYPT_BINARY`
+       :rt:`DECRYPT_BIT`
+       :rt:`DECRYPT_BINARY`
+       :rt:`DECRYPT_DB`
+       :rt:`GETHINT`
    * - 2017-11-06 14:04:32
      - 你
      - :rt:`这个问题现在在王志头上`
@@ -142,10 +142,10 @@
      - :st:`嗯嗯`
    * - 2017-11-06 16:21:06
      - 你
-     - :rt:`Logo 为8t V8.7
-       发版包括三个组件：ids、csdk、jdbc
-       发版包括相关用户文档
-       操作系统redhat6.2`
+     - :rt:`Logo 为8t V8.7`
+       :rt:`发版包括三个组件：ids、csdk、jdbc`
+       :rt:`发版包括相关用户文档`
+       :rt:`操作系统redhat6.2`
    * - 2017-11-06 16:21:13
      - 你
      - :rt:`是这个吗？`

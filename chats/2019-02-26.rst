@@ -66,8 +66,8 @@
      - :st:`哦`
    * - 2019-02-26 14:55:11
      - 我
-     - :st:`每天做大量琐碎重复的事情，人和僵尸 (zombie) 实际上没有区别。
-       微博上看来的`
+     - :st:`每天做大量琐碎重复的事情，人和僵尸 (zombie) 实际上没有区别。`
+       :st:`微博上看来的`
    * - 2019-02-26 14:55:52
      - 我
      - [链接] `人不要总是重复自己，没意思 <http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650715501&idx=1&sn=28fe390ecef7b1daa3fd54318963a016&chksm=bec07b3e89b7f228e5bf9eb58f044e79780edd1336a7101fd7b549225e5db8dd819acd4c0e5a&mpshare=1&scene=1&srcid=#rd>`_

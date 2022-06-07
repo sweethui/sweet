@@ -1020,12 +1020,12 @@
      - :rt:`好`
    * - 2017-03-21 18:01:05
      - 你
-     - :rt:`SqlCommand cmd = New SqlCommand();
-           cmd.CommandText = "SELECT NewID()";
-           string rowID = (string) cmd.ExecuteScalar();
-           cmd.CommandText = "INSERT INTO Table(ID,…) VALUES(@ID,…) 
-           cmd.Parameters.Add("@ID",SqlDbType.UniqueIdentifier).Value = new Guid(rowID);
-           cmd.ExecuteNoQuery();`
+     - :rt:`SqlCommand cmd = New SqlCommand();`
+       :rt:`cmd.CommandText = "SELECT NewID()";`
+       :rt:`string rowID = (string) cmd.ExecuteScalar();`
+       :rt:`cmd.CommandText = "INSERT INTO Table(ID,…) VALUES(@ID,…)`
+       :rt:`cmd.Parameters.Add("@ID",SqlDbType.UniqueIdentifier).Value = new Guid(rowID);`
+       :rt:`cmd.ExecuteNoQuery();`
    * - 2017-03-21 18:01:35
      - 我
      - :st:`这个是 sqlserver 的吧`

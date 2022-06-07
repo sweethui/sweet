@@ -9,67 +9,67 @@
      - [链接] `群聊的聊天记录 <https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/favorite_record__w_unsupport>`_
    * - 2022-01-20 10:34:11
      - 你
-     - :rt:`我们的语句里有这种情况
-               SELECT
-               ID	as "id",
-               CATEGORY	as "category",
-               MESSAGE_TYPE_ID	as "messageTypeId",
-               STATE	as "state",
-               RETURN_STATUS	as "returnStatus",
-               OPERATE_START_TIME	as "operateStartTime",
-               OPERATE_RESULT	as "operateResult",
-               OPERATE_END_TIME	as "operateEndTime",
-               OPERATE_COUNT	as "operateCount",
-               EVENT_ID	as "eventId",
-               SERVICE_NAME	as "serviceName",
-               METHOD_NAME as "methodName",
-               RPC_TYPE	as "rpcType",
-               PROJECT_NAME      as "projectName",
-               MOUDLE_NAME      as "moduleName",
-               SEND_ADDRESS      as "sendAddress",
-               RECEIVE_ADDRESS      as "receiveAddress",
-               EXT1 as "ext1",
-               EXT2 as "ext2",
-               EXT3 as "ext3",
-               GROUP_NAME as "groupName",
-               HTTP_STATUS as "httpStatus"
-       FROM 某一个表`
+     - :rt:`我们的语句里有这种情况`
+       :rt:`SELECT`
+       :rt:`ID	as "id",`
+       :rt:`CATEGORY	as "category",`
+       :rt:`MESSAGE_TYPE_ID	as "messageTypeId",`
+       :rt:`STATE	as "state",`
+       :rt:`RETURN_STATUS	as "returnStatus",`
+       :rt:`OPERATE_START_TIME	as "operateStartTime",`
+       :rt:`OPERATE_RESULT	as "operateResult",`
+       :rt:`OPERATE_END_TIME	as "operateEndTime",`
+       :rt:`OPERATE_COUNT	as "operateCount",`
+       :rt:`EVENT_ID	as "eventId",`
+       :rt:`SERVICE_NAME	as "serviceName",`
+       :rt:`METHOD_NAME as "methodName",`
+       :rt:`RPC_TYPE	as "rpcType",`
+       :rt:`PROJECT_NAME      as "projectName",`
+       :rt:`MOUDLE_NAME      as "moduleName",`
+       :rt:`SEND_ADDRESS      as "sendAddress",`
+       :rt:`RECEIVE_ADDRESS      as "receiveAddress",`
+       :rt:`EXT1 as "ext1",`
+       :rt:`EXT2 as "ext2",`
+       :rt:`EXT3 as "ext3",`
+       :rt:`GROUP_NAME as "groupName",`
+       :rt:`HTTP_STATUS as "httpStatus"`
+       :rt:`FROM 某一个表`
    * - 2022-01-20 10:34:24
      - 你
      - :rt:`像state这个字段我们预期也是要小写的`
    * - 2022-01-20 10:35:18
      - 你
-     - :rt:`「 李辉: 我们的语句里有这种情况
-               SELECT
-               ID	as "id",
-               CATEGORY	as "category",
-               MESSAGE_TYPE_ID	as "messageTypeId",
-               STATE	as "state",
-               RETURN_STATUS	as "returnStatus",
-               OPERATE_START_TIME	as "operateStartTime",
-               OPERATE_RESULT	as "operateResult",
-               OPERATE_END_TIME	as "operateEndTime",
-               OPERATE_COUNT	as "operateCount",
-               EVENT_ID	as "eventId",
-               SERVICE_NAME	as "serviceName",
-               METHOD_NAME as "methodName",
-               RPC_TYPE	as "rpcType",
-               PROJECT_NAME      as "projectName",
-               MOUDLE_NAME      as "moduleName",
-               SEND_ADDRESS      as "sendAddress",
-               RECEIVE_ADDRESS      as "receiveAddress",
-               EXT1 as "ext1",
-               EXT2 as "ext2",
-               EXT3 as "ext3",
-               GROUP_NAME as "groupName",
-               HTTP_STATUS as "httpStatus"
-       FROM 某一个表 」
-       - - - - - - - - - - - - - - -
-       你这种列名都加引号的，我们可以处理，一切以引号内容为准`
+     - :rt:`「 李辉: 我们的语句里有这种情况`
+       :rt:`SELECT`
+       :rt:`ID	as "id",`
+       :rt:`CATEGORY	as "category",`
+       :rt:`MESSAGE_TYPE_ID	as "messageTypeId",`
+       :rt:`STATE	as "state",`
+       :rt:`RETURN_STATUS	as "returnStatus",`
+       :rt:`OPERATE_START_TIME	as "operateStartTime",`
+       :rt:`OPERATE_RESULT	as "operateResult",`
+       :rt:`OPERATE_END_TIME	as "operateEndTime",`
+       :rt:`OPERATE_COUNT	as "operateCount",`
+       :rt:`EVENT_ID	as "eventId",`
+       :rt:`SERVICE_NAME	as "serviceName",`
+       :rt:`METHOD_NAME as "methodName",`
+       :rt:`RPC_TYPE	as "rpcType",`
+       :rt:`PROJECT_NAME      as "projectName",`
+       :rt:`MOUDLE_NAME      as "moduleName",`
+       :rt:`SEND_ADDRESS      as "sendAddress",`
+       :rt:`RECEIVE_ADDRESS      as "receiveAddress",`
+       :rt:`EXT1 as "ext1",`
+       :rt:`EXT2 as "ext2",`
+       :rt:`EXT3 as "ext3",`
+       :rt:`GROUP_NAME as "groupName",`
+       :rt:`HTTP_STATUS as "httpStatus"`
+       :rt:`FROM 某一个表 」`
+       :rt:`- - - - - - - - - - - - - - -`
+       :rt:`你这种列名都加引号的，我们可以处理，一切以引号内容为准`
    * - 2022-01-20 10:35:54
      - 你
-     - :rt:`"state",---小写
-       "returnStatus",---驼峰`
+     - :rt:`"state",---小写`
+       :rt:`"returnStatus",---驼峰`
    * - 2022-01-20 10:43:30
      - 你
      - .. image:: /images/391329.jpg

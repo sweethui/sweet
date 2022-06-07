@@ -2976,9 +2976,9 @@
      - :st:`好的`
    * - 2016-08-25 19:25:00
      - 我
-     - :st:`“网球场上有“白线”，项目也需要白线来严格界定需求的边界”
-       摘录来自: [美] Tom DeMarco Peter Hruschka Tim Lister Steve McMenamin James Robertson Suzanne Robertson. “项目百态：软件项目管理面面观（修订版）”。 iBooks.`
+     - :st:`“网球场上有“白线”，项目也需要白线来严格界定需求的边界”`
+       :st:`摘录来自: [美] Tom DeMarco Peter Hruschka Tim Lister Steve McMenamin James Robertson Suzanne Robertson. “项目百态：软件项目管理面面观（修订版）”。 iBooks.`
    * - 2016-08-25 19:25:00
      - 我
-     - :st:`“网球场上有“白线”，项目也需要白线来严格界定需求的边界”
-       摘录来自: [美] Tom DeMarco Peter Hruschka Tim Lister Steve McMenamin James Robertson Suzanne Robertson. “项目百态：软件项目管理面面观（修订版）”。 iBooks.`
+     - :st:`“网球场上有“白线”，项目也需要白线来严格界定需求的边界”`
+       :st:`摘录来自: [美] Tom DeMarco Peter Hruschka Tim Lister Steve McMenamin James Robertson Suzanne Robertson. “项目百态：软件项目管理面面观（修订版）”。 iBooks.`

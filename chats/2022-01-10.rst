@@ -83,38 +83,38 @@
      - :st:`老田打电话呢`
    * - 2022-01-10 15:18:46
      - 我
-     - :st:`create or REPLACE TRIGGER Tri_U_CptCapitalAssortment
-       after update ON CptCapitalAssortment 
-       FOR each row
-       when(new.assortmentmark<>'' or new.assortmentmark <> null)
-       Declare groupid_1 integer ;
-       	    supassortmentid_1 integer ;
-       	    oldmark_1	 varchar2(60) ;
-       	    newmark_1	 varchar2(60) ;
-       		supmark_1	 varchar2(60) ;
-       		tempstr_1	 varchar2(60) ;
-       begin
-       	groupid_1 := :old.id ;
-       	oldmark_1 := :old.assortmentmark ;
-       	
-           for tmp_cursor in ( select distinct assortmentmark,supassortmentid from CptCapitalAssortment where id = groupid_1 )
-           loop
-       	    if tmp_cursor.supassortmentid = 0 then
-       	        exit ;
-       	    end if ;
-       	    
-       	    select assortmentmark,supassortmentid into supmark_1,supassortmentid_1 from CptCapitalAssortment where id = tmp_cursor.supassortmentid ;
-       	    newmark_1 := supmark_1 + newmark_1 ;
-       	    oldmark_1 := supmark_1 + oldmark_1 ;    
-           end loop ;
-           
-           tempstr_1 := '%|' + to_char(groupid_1) + '|%' ;
-           update CptCapital set mark = newmark_1+substr(mark,length(oldmark_1)+1) 
-       	where (capitalgroupid=groupid_1 or capitalgroupid in (select id from CptCapitalAssortment where supassortmentstr like tempstr_1)) and  counttype is null ;
-       	
-       	update CptCapital set mark = substr(mark,1,2)+newmark_1+substr(mark,length(oldmark_1)+1) 
-       	where (capitalgroupid=groupid_1 or capitalgroupid in (select id from CptCapitalAssortment where supassortmentstr like tempstr_1 )) and ( counttype = '1' or counttype = '2') ;
-       end ;`
+     - :st:`create or REPLACE TRIGGER Tri_U_CptCapitalAssortment`
+       :st:`after update ON CptCapitalAssortment`
+       :st:`FOR each row`
+       :st:`when(new.assortmentmark<>'' or new.assortmentmark <> null)`
+       :st:`Declare groupid_1 integer ;`
+       :st:`supassortmentid_1 integer ;`
+       :st:`oldmark_1	 varchar2(60) ;`
+       :st:`newmark_1	 varchar2(60) ;`
+       :st:`supmark_1	 varchar2(60) ;`
+       :st:`tempstr_1	 varchar2(60) ;`
+       :st:`begin`
+       :st:`groupid_1 := :old.id ;`
+       :st:`oldmark_1 := :old.assortmentmark ;`
+       :st:``
+       :st:`for tmp_cursor in ( select distinct assortmentmark,supassortmentid from CptCapitalAssortment where id = groupid_1 )`
+       :st:`loop`
+       :st:`if tmp_cursor.supassortmentid = 0 then`
+       :st:`exit ;`
+       :st:`end if ;`
+       :st:``
+       :st:`select assortmentmark,supassortmentid into supmark_1,supassortmentid_1 from CptCapitalAssortment where id = tmp_cursor.supassortmentid ;`
+       :st:`newmark_1 := supmark_1 + newmark_1 ;`
+       :st:`oldmark_1 := supmark_1 + oldmark_1 ;`
+       :st:`end loop ;`
+       :st:``
+       :st:`tempstr_1 := '%|' + to_char(groupid_1) + '|%' ;`
+       :st:`update CptCapital set mark = newmark_1+substr(mark,length(oldmark_1)+1)`
+       :st:`where (capitalgroupid=groupid_1 or capitalgroupid in (select id from CptCapitalAssortment where supassortmentstr like tempstr_1)) and  counttype is null ;`
+       :st:``
+       :st:`update CptCapital set mark = substr(mark,1,2)+newmark_1+substr(mark,length(oldmark_1)+1)`
+       :st:`where (capitalgroupid=groupid_1 or capitalgroupid in (select id from CptCapitalAssortment where supassortmentstr like tempstr_1 )) and ( counttype = '1' or counttype = '2') ;`
+       :st:`end ;`
    * - 2022-01-10 15:19:12
      - 我
      - :st:`这样的，文件里第一个就是`

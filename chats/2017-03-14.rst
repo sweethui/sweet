@@ -258,10 +258,10 @@
      - :rt:`guid 是Oracle的数据类型吗？不是吧`
    * - 2017-03-14 08:53:31
      - 你
-     - :rt:`create table test
-       (id varchar2(32) not null primary key,
-       name varchar2(100));
-       insert into test values (sys_guid(),'张三');`
+     - :rt:`create table test`
+       :rt:`(id varchar2(32) not null primary key,`
+       :rt:`name varchar2(100));`
+       :rt:`insert into test values (sys_guid(),'张三');`
    * - 2017-03-14 08:53:58
      - 你
      - :rt:`只是insert的时候用sys_guid()函数生成`
@@ -294,9 +294,9 @@
      - :st:`是`
    * - 2017-03-14 08:56:41
      - 你
-     - :rt:`create table test
-       (id guid not null primary key,
-       name varchar2(100));`
+     - :rt:`create table test`
+       :rt:`(id guid not null primary key,`
+       :rt:`name varchar2(100));`
    * - 2017-03-14 08:56:47
      - 你
      - :rt:`这样的吗`

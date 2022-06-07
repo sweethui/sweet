@@ -383,8 +383,8 @@
      - :rt:`额`
    * - 2019-08-21 10:47:37
      - 你
-     - :rt:`咱们8s的client SDK提供的开发接口有C API 和 GCI 吗
-       CAPI是ODBC吗`
+     - :rt:`咱们8s的client SDK提供的开发接口有C API 和 GCI 吗`
+       :rt:`CAPI是ODBC吗`
    * - 2019-08-21 10:48:08
      - 我
      - :st:`可以算，其实业界一般说 C API指的是单独的接口，不是ODBC`

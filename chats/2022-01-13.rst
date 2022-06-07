@@ -119,12 +119,12 @@
      - :st:`研发和我反馈的distinct那张表有主键，distinct是不是就没意义了，可以去掉distinct`
    * - 2022-01-13 18:38:48
      - 你
-     - :rt:`SELECT
-         DISTINCT V.*, 
-         ERM.PROXY_AUTH_TYPE, 
-         '0' IS_SAME_DEPT, 
-         NVL(RES_CALL.SYCS, 0) CALL_TOTAL 
-       FROM`
+     - :rt:`SELECT`
+       :rt:`DISTINCT V.*,`
+       :rt:`ERM.PROXY_AUTH_TYPE,`
+       :rt:`'0' IS_SAME_DEPT,`
+       :rt:`NVL(RES_CALL.SYCS, 0) CALL_TOTAL`
+       :rt:`FROM`
    * - 2022-01-13 18:42:54
      - 我
      - :st:`咱们的 Distinct 会把所有列合在一起做，这样就会导致性能非常差`

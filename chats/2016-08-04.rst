@@ -262,20 +262,20 @@
      - :rt:`看看这幅图 那个manger是干啥的`
    * - 2016-08-04 13:50:57
      - 你
-     - :rt:`原理描述：
-       1. 基于Canal开源产品，获取数据库增量日志数据。 什么是Canal, 请点击
-       2. 典型管理系统架构，manager(web管理)+node(工作节点)
-           a. manager运行时推送同步配置到node节点
-           b. node节点将同步状态反馈到manager上
-       3. 基于zookeeper，解决分布式状态调度的，允许多node节点之间协同工作.`
+     - :rt:`原理描述：`
+       :rt:`1. 基于Canal开源产品，获取数据库增量日志数据。 什么是Canal, 请点击`
+       :rt:`2. 典型管理系统架构，manager(web管理)+node(工作节点)`
+       :rt:`a. manager运行时推送同步配置到node节点`
+       :rt:`b. node节点将同步状态反馈到manager上`
+       :rt:`3. 基于zookeeper，解决分布式状态调度的，允许多node节点之间协同工作.`
    * - 2016-08-04 13:50:57
      - 你
-     - :rt:`原理描述：
-       1. 基于Canal开源产品，获取数据库增量日志数据。 什么是Canal, 请点击
-       2. 典型管理系统架构，manager(web管理)+node(工作节点)
-           a. manager运行时推送同步配置到node节点
-           b. node节点将同步状态反馈到manager上
-       3. 基于zookeeper，解决分布式状态调度的，允许多node节点之间协同工作.`
+     - :rt:`原理描述：`
+       :rt:`1. 基于Canal开源产品，获取数据库增量日志数据。 什么是Canal, 请点击`
+       :rt:`2. 典型管理系统架构，manager(web管理)+node(工作节点)`
+       :rt:`a. manager运行时推送同步配置到node节点`
+       :rt:`b. node节点将同步状态反馈到manager上`
+       :rt:`3. 基于zookeeper，解决分布式状态调度的，允许多node节点之间协同工作.`
    * - 2016-08-04 13:51:00
      - 我
      - :st:`就是我们说的管理工具`

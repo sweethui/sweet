@@ -654,17 +654,17 @@
      - :st:`教出你怎么有借口和你一起出差呀`
    * - 2019-06-12 18:00:45
      - 你
-     - :rt:`<?xml version="1.0"?>
-       <msg bigheadimgurl="http://wx.qlogo.cn/mmhead/ver_1/QtnYjGBdJN1zohQl6tdV71A6gwk16DLYktbSjAMnHyRD7qgibEAISJFgXDv51sv5dXhYfbReqWB6bDd5ntiaj8TAz2DHljtYkfOlicgHcRXtg8/0" smallheadimgurl="http://wx.qlogo.cn/mmhead/ver_1/QtnYjGBdJN1zohQl6tdV71A6gwk16DLYktbSjAMnHyRD7qgibEAISJFgXDv51sv5dXhYfbReqWB6bDd5ntiaj8TAz2DHljtYkfOlicgHcRXtg8/132" username="v1_a9abef3ed6c2e7104fae92e53f77cb10b49a11a811a63232e27ebbbf439757810ac235411c526a59d17a5fd61f47bc30@stranger" nickname="刘畅" fullpy="liuchang" shortpy="" alias="" imagestatus="3" scene="17" province="北京" city="中国" sign="" sex="1" certflag="0" certinfo="" brandIconUrl="" brandHomeUrl="" brandSubscriptConfigUrl="" brandFlags="0" regionCode="CN_Beijing_Haidian" antispamticket="v2_a517b73820a5273f1b9e5e56c882eff1083b6ba2d9fb599594a43e7fbb27fa39639dd317b18a12c1be4a3ec84bcbf253@stranger" />`
+     - :rt:`<?xml version="1.0"?>`
+       :rt:`<msg bigheadimgurl="http://wx.qlogo.cn/mmhead/ver_1/QtnYjGBdJN1zohQl6tdV71A6gwk16DLYktbSjAMnHyRD7qgibEAISJFgXDv51sv5dXhYfbReqWB6bDd5ntiaj8TAz2DHljtYkfOlicgHcRXtg8/0" smallheadimgurl="http://wx.qlogo.cn/mmhead/ver_1/QtnYjGBdJN1zohQl6tdV71A6gwk16DLYktbSjAMnHyRD7qgibEAISJFgXDv51sv5dXhYfbReqWB6bDd5ntiaj8TAz2DHljtYkfOlicgHcRXtg8/132" username="v1_a9abef3ed6c2e7104fae92e53f77cb10b49a11a811a63232e27ebbbf439757810ac235411c526a59d17a5fd61f47bc30@stranger" nickname="刘畅" fullpy="liuchang" shortpy="" alias="" imagestatus="3" scene="17" province="北京" city="中国" sign="" sex="1" certflag="0" certinfo="" brandIconUrl="" brandHomeUrl="" brandSubscriptConfigUrl="" brandFlags="0" regionCode="CN_Beijing_Haidian" antispamticket="v2_a517b73820a5273f1b9e5e56c882eff1083b6ba2d9fb599594a43e7fbb27fa39639dd317b18a12c1be4a3ec84bcbf253@stranger" />`
    * - 2019-06-12 18:09:37
      - 你
-     - :rt:`说明：
-       该项目应用开发商是科东，使用GCI接口，GCI接口为定制化接口，开发人员已离职，遗留文档有限，开展适配工作人手困难，鉴于此，明天让雪松去现场与应用深度沟通一次，沟通重点：
-       （1）用户主要业务特征；
-       （2）应用系统 主要使用的数据类型、sql、接口；
-       （3）系统对数据库性能要求、数据量；
-       （4）应用个数、体量等信息。
-       请协调用户处相关人员配合，谢谢！`
+     - :rt:`说明：`
+       :rt:`该项目应用开发商是科东，使用GCI接口，GCI接口为定制化接口，开发人员已离职，遗留文档有限，开展适配工作人手困难，鉴于此，明天让雪松去现场与应用深度沟通一次，沟通重点：`
+       :rt:`（1）用户主要业务特征；`
+       :rt:`（2）应用系统 主要使用的数据类型、sql、接口；`
+       :rt:`（3）系统对数据库性能要求、数据量；`
+       :rt:`（4）应用个数、体量等信息。`
+       :rt:`请协调用户处相关人员配合，谢谢！`
    * - 2019-06-12 18:09:51
      - 我
      - :st:`嗯嗯`

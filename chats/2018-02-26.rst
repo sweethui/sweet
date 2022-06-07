@@ -27,11 +27,11 @@
      - :st:`嗯嗯`
    * - 2018-02-26 08:45:04
      - 我
-     - :st:`CREATE TABLE j_purchaseorder
-         (id          VARCHAR2 (32) NOT NULL PRIMARY KEY,
-          date_loaded TIMESTAMP (6) WITH TIME ZONE,
-          po_document VARCHAR2 (23767)
-          CONSTRAINT ensure_json CHECK (po_document IS JSON));`
+     - :st:`CREATE TABLE j_purchaseorder`
+       :st:`(id          VARCHAR2 (32) NOT NULL PRIMARY KEY,`
+       :st:`date_loaded TIMESTAMP (6) WITH TIME ZONE,`
+       :st:`po_document VARCHAR2 (23767)`
+       :st:`CONSTRAINT ensure_json CHECK (po_document IS JSON));`
    * - 2018-02-26 08:45:13
      - 我
      - :st:`这是 Oracle 官方的例子`
@@ -230,10 +230,10 @@
      - :rt:`他给我写的需求 就3行`
    * - 2018-02-26 10:52:29
      - 你
-     - :rt:`正常过程  N1
-       N0010 用户执行查询union函数操作，对应字段数据类型不一致；
-       N0020 系统验证sql语句正确，显示查询结果集；
-       N0030 本用例结束。`
+     - :rt:`正常过程  N1`
+       :rt:`N0010 用户执行查询union函数操作，对应字段数据类型不一致；`
+       :rt:`N0020 系统验证sql语句正确，显示查询结果集；`
+       :rt:`N0030 本用例结束。`
    * - 2018-02-26 10:52:45
      - 你
      - :rt:`我没有你那么高的水平 我只能是从小点上说了`

@@ -129,15 +129,15 @@
      - :rt:`知道了`
    * - 2018-03-30 12:16:23
      - 你
-     - :rt:`SQL> select decode(111,112,222,121,'a333','333') from dual;
-       DECODE(111,112,222,121,'A333','333')
-       ------------------------------------
-       				 333
-       SQL> select decode(111,112,222,121,to_date('2017-02-04'),'333') from dual;
-       select decode(111,112,222,121,to_date('2017-02-04'),'333') from dual
-                                     *
-       ERROR at line 1:
-       ORA-00932: inconsistent datatypes: expected NUMBER got DATE`
+     - :rt:`SQL> select decode(111,112,222,121,'a333','333') from dual;`
+       :rt:`DECODE(111,112,222,121,'A333','333')`
+       :rt:`------------------------------------`
+       :rt:`333`
+       :rt:`SQL> select decode(111,112,222,121,to_date('2017-02-04'),'333') from dual;`
+       :rt:`select decode(111,112,222,121,to_date('2017-02-04'),'333') from dual`
+       :rt:`*`
+       :rt:`ERROR at line 1:`
+       :rt:`ORA-00932: inconsistent datatypes: expected NUMBER got DATE`
    * - 2018-03-30 12:16:40
      - 你
      - :rt:`咱们对decode判断有问题`

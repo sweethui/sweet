@@ -663,12 +663,12 @@
      - :rt:`这时候就报错了`
    * - 2016-06-30 10:36:34
      - 你
-     - :rt:`『当skip_head设置为0或者忽略时，加载工具不会对数据文件的表头信息进行处理，与现有加载行为保持一致。
-       』`
+     - :rt:`『当skip_head设置为0或者忽略时，加载工具不会对数据文件的表头信息进行处理，与现有加载行为保持一致。`
+       :rt:`』`
    * - 2016-06-30 10:36:34
      - 你
-     - :rt:`『当skip_head设置为0或者忽略时，加载工具不会对数据文件的表头信息进行处理，与现有加载行为保持一致。
-       』`
+     - :rt:`『当skip_head设置为0或者忽略时，加载工具不会对数据文件的表头信息进行处理，与现有加载行为保持一致。`
+       :rt:`』`
    * - 2016-06-30 10:36:57
      - 你
      - :rt:`就是这句话呗 就当是了`
@@ -1166,12 +1166,12 @@
      - :st:`今天开会我说要严格审核文档，胖子还问我计划里评审都有deadline，要是超期了怎么办`
    * - 2016-06-30 13:49:40
      - 你
-     - :rt:`主要报错信息为：Unknown column ‘a.c1’ in ‘field list’
-       SQL: select a.c1 as col, a.c2 as c2 from (select c1 as col, ‘`
+     - :rt:`主要报错信息为：Unknown column ‘a.c1’ in ‘field list’`
+       :rt:`SQL: select a.c1 as col, a.c2 as c2 from (select c1 as col, ‘`
    * - 2016-06-30 13:49:40
      - 你
-     - :rt:`主要报错信息为：Unknown column ‘a.c1’ in ‘field list’
-       SQL: select a.c1 as col, a.c2 as c2 from (select c1 as col, ‘`
+     - :rt:`主要报错信息为：Unknown column ‘a.c1’ in ‘field list’`
+       :rt:`SQL: select a.c1 as col, a.c2 as c2 from (select c1 as col, ‘`
    * - 2016-06-30 13:49:58
      - 你
      - :rt:`这个『SQL：』是指改写的对的吗`

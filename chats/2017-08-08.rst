@@ -234,14 +234,14 @@
      - :rt:`我觉得应该是做了`
    * - 2017-08-08 16:15:01
      - 你
-     - :rt:`select * ,FZ*QZ as kzzf from SJSY_PFBZ t1 ,
-       (
-       select pfxh,df,rwxh,kfmx from SJSY_ZDPF where rwxh=’60435408134XXXX’
-       union all select pfxh,df,rwxh,bz from SJSY_SGPF where rwxh=’ 60435408134XXXX’
-       ) t2
-       where t1.pfbznm=t2.pfxh(+)
-       and pfbznm like ‘01%’
-       and sjsh !=’汇总成绩’`
+     - :rt:`select * ,FZ*QZ as kzzf from SJSY_PFBZ t1 ,`
+       :rt:`(`
+       :rt:`select pfxh,df,rwxh,kfmx from SJSY_ZDPF where rwxh=’60435408134XXXX’`
+       :rt:`union all select pfxh,df,rwxh,bz from SJSY_SGPF where rwxh=’ 60435408134XXXX’`
+       :rt:`) t2`
+       :rt:`where t1.pfbznm=t2.pfxh(+)`
+       :rt:`and pfbznm like ‘01%’`
+       :rt:`and sjsh !=’汇总成绩’`
    * - 2017-08-08 16:15:15
      - 你
      - :rt:`表和子查询做+`
@@ -262,9 +262,9 @@
      - :st:`👌，太好了`
    * - 2017-08-08 16:21:23
      - 你
-     - :rt:`Create view v1 as (
-       select a1.c1 from (select a.c1 from t1 a,t2 b where a.c1=b.c1(+)) a1, t1 b1 where b1.c1=a1.c1(+)
-       );`
+     - :rt:`Create view v1 as (`
+       :rt:`select a1.c1 from (select a.c1 from t1 a,t2 b where a.c1=b.c1(+)) a1, t1 b1 where b1.c1=a1.c1(+)`
+       :rt:`);`
    * - 2017-08-08 16:21:27
      - 你
      - :rt:`需求里就有`

@@ -213,8 +213,8 @@
      - :st:`205`
    * - 2017-05-08 15:46:48
      - 你
-     - :rt:`1、现场的 Hibernate,Mybatis框架版本？方言包的版本？
-       2、由于Hibernate,Mybatis框架版本较低，导致原来的适配8t的blob、clob字段不可用的原因可否描述一下？`
+     - :rt:`1、现场的 Hibernate,Mybatis框架版本？方言包的版本？`
+       :rt:`2、由于Hibernate,Mybatis框架版本较低，导致原来的适配8t的blob、clob字段不可用的原因可否描述一下？`
    * - 2017-05-08 15:46:56
      - 你
      - :rt:`这两个问题行吗？`
@@ -241,8 +241,8 @@
      - :st:`有最好，我主要是想策划以后 Hibernate 适配用，这个项目不一定用`
    * - 2017-05-08 15:52:11
      - 我
-     - :st:`https://github.com/hibernate/hibernate-orm/tree/master/hibernate-core/src/main/java/org/hibernate/dialect
-       这里面是 Hibernate 支持的方言包，Informix 只支持到10`
+     - :st:`https://github.com/hibernate/hibernate-orm/tree/master/hibernate-core/src/main/java/org/hibernate/dialect`
+       :st:`这里面是 Hibernate 支持的方言包，Informix 只支持到10`
    * - 2017-05-08 16:19:00
      - 你
      - :rt:`这个简历太丰富了`

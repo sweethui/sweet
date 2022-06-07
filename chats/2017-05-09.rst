@@ -1011,8 +1011,8 @@
      - :st:`那就是一个新需求`
    * - 2017-05-09 15:44:06
      - 你
-     - :rt:`foreach select a,c into v_a ,v_c from t111
-         insert into t111_char values(v_a,v_c);`
+     - :rt:`foreach select a,c into v_a ,v_c from t111`
+       :rt:`insert into t111_char values(v_a,v_c);`
    * - 2017-05-09 15:44:17
      - 你
      - :rt:`先给变量赋值`

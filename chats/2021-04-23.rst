@@ -440,35 +440,35 @@
      - [动画表情]
    * - 2021-04-23 16:54:04
      - 你
-     - :rt:`drop table orders;
-       create table orders (order_date varchar(10),order_mode varchar(10),total int);
-       insert into orders values('2001-01-01','dir',100);
-       insert into orders values('2005-01-01','dir',200);
-       insert into orders values('2006-01-01','int',300);
-       insert into orders values('2006-01-01','int',100);
-       create table pivot_table as
-       select * from orders
-       pivot
-       (
-       sum(total) for order_mode in ('dir' as store ,'int' as internet)
-       );
-       create table orders1 (order_date varchar(10),order_mode varchar(10),total1 int,total2 int);
-       insert into orders1 values('2005-01-01','dir',200,1);
-       insert into orders1 values('2006-01-01','int',300,2);
-       insert into orders1 values('2006-01-01','int',100,3);
-       create table pivot_table1 as
-       select * from orders1
-       pivot
-       (
-       sum(total1) as total1,sum(total2) as total2 for order_mode in ('dir' as store ,'int' as internet)
-       );
-       select * from pivot_table1
-       unpivot
-       (
-           (total1,total2)
-           for order_mode in 
-           (
-               (store_total1,store_total2) as 'dir',
-               (internet_total1,internet_total2) as 'int'
-           )
-       )`
+     - :rt:`drop table orders;`
+       :rt:`create table orders (order_date varchar(10),order_mode varchar(10),total int);`
+       :rt:`insert into orders values('2001-01-01','dir',100);`
+       :rt:`insert into orders values('2005-01-01','dir',200);`
+       :rt:`insert into orders values('2006-01-01','int',300);`
+       :rt:`insert into orders values('2006-01-01','int',100);`
+       :rt:`create table pivot_table as`
+       :rt:`select * from orders`
+       :rt:`pivot`
+       :rt:`(`
+       :rt:`sum(total) for order_mode in ('dir' as store ,'int' as internet)`
+       :rt:`);`
+       :rt:`create table orders1 (order_date varchar(10),order_mode varchar(10),total1 int,total2 int);`
+       :rt:`insert into orders1 values('2005-01-01','dir',200,1);`
+       :rt:`insert into orders1 values('2006-01-01','int',300,2);`
+       :rt:`insert into orders1 values('2006-01-01','int',100,3);`
+       :rt:`create table pivot_table1 as`
+       :rt:`select * from orders1`
+       :rt:`pivot`
+       :rt:`(`
+       :rt:`sum(total1) as total1,sum(total2) as total2 for order_mode in ('dir' as store ,'int' as internet)`
+       :rt:`);`
+       :rt:`select * from pivot_table1`
+       :rt:`unpivot`
+       :rt:`(`
+       :rt:`(total1,total2)`
+       :rt:`for order_mode in`
+       :rt:`(`
+       :rt:`(store_total1,store_total2) as 'dir',`
+       :rt:`(internet_total1,internet_total2) as 'int'`
+       :rt:`)`
+       :rt:`)`

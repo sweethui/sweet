@@ -244,16 +244,16 @@
      - :rt:`A,B怎么限制啊`
    * - 2016-10-22 18:21:08
      - 你
-     - :rt:`main()
-       {
-             int A,B;
-             int result;
-             printf("please input two numbers:");
-             scanf("%d%d",&A,&B);
-             result=A+B;
-             printf("%d\n",result); 
-             system("pause");
-         }`
+     - :rt:`main()`
+       :rt:`{`
+       :rt:`int A,B;`
+       :rt:`int result;`
+       :rt:`printf("please input two numbers:");`
+       :rt:`scanf("%d%d",&A,&B);`
+       :rt:`result=A+B;`
+       :rt:`printf("%d\n",result);`
+       :rt:`system("pause");`
+       :rt:`}`
    * - 2016-10-22 18:21:22
      - 你
      - :rt:`这样不对吧`

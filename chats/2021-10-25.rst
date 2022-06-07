@@ -66,12 +66,12 @@
      - :st:`Defect #3749里面有`
    * - 2021-10-25 09:51:46
      - 我
-     - :st:`cat /etc/system-release
-       Kylin Linux Advanced Server release V10 (Azalea)`
+     - :st:`cat /etc/system-release`
+       :st:`Kylin Linux Advanced Server release V10 (Azalea)`
    * - 2021-10-25 09:51:54
      - 我
-     - :st:`cat /etc/system-release
-       Kylin Linux Advanced Server release V10 (Tercel)`
+     - :st:`cat /etc/system-release`
+       :st:`Kylin Linux Advanced Server release V10 (Tercel)`
    * - 2021-10-25 10:06:02
      - 你
      - :rt:`了解了`

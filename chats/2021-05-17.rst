@@ -231,9 +231,9 @@
      - :st:`他们回来`
    * - 2021-05-17 16:07:56
      - 你
-     - :rt:`复制这段内容后打开百度网盘App，操作更方便哦。
-       链接：https://pan.baidu.com/s/1ywYUq3McHl2TOj7gtOHUjA 
-       提取码：kEWH`
+     - :rt:`复制这段内容后打开百度网盘App，操作更方便哦。`
+       :rt:`链接：https://pan.baidu.com/s/1ywYUq3McHl2TOj7gtOHUjA`
+       :rt:`提取码：kEWH`
    * - 2021-05-17 16:08:03
      - 你
      - :rt:`小路录音了`

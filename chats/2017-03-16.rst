@@ -1131,13 +1131,13 @@
      - :st:`😄`
    * - 2017-03-16 13:53:46
      - 你
-     - :rt:`目前适配阶段已经有替代方案，方案如下：
-       目前做法是将libuuid_gen.so直接拷贝到extend/guid目录下，然后在对应数据库中使用
-       CREATE FUNCTION sys_guid() 
-       returns char(37) 
-       EXTERNAL NAME ＄INFORMIXDIR/extend/uuid1/libuuid_gen.so(GUID)' 
-       language c;（32位大写字母不带-）
-       现场已明确提出解决方案能够满足用户关于类似oracle的guid数据类型的需求，但由于在实际项目中需要手动添加extend下的文件，给项目实施部署带来一定的风险。（如遗忘或者是路径不一致导致类似ORACLE的GUID不可用）。因此，一线提出由研发部门完善解决方案。`
+     - :rt:`目前适配阶段已经有替代方案，方案如下：`
+       :rt:`目前做法是将libuuid_gen.so直接拷贝到extend/guid目录下，然后在对应数据库中使用`
+       :rt:`CREATE FUNCTION sys_guid()`
+       :rt:`returns char(37)`
+       :rt:`EXTERNAL NAME ＄INFORMIXDIR/extend/uuid1/libuuid_gen.so(GUID)'`
+       :rt:`language c;（32位大写字母不带-）`
+       :rt:`现场已明确提出解决方案能够满足用户关于类似oracle的guid数据类型的需求，但由于在实际项目中需要手动添加extend下的文件，给项目实施部署带来一定的风险。（如遗忘或者是路径不一致导致类似ORACLE的GUID不可用）。因此，一线提出由研发部门完善解决方案。`
    * - 2017-03-16 13:53:58
      - 你
      - :rt:`你看看这几句话能看懂吗`
@@ -1245,17 +1245,17 @@
      - :st:`告诉你一个好玩的事情吧`
    * - 2017-03-16 15:31:30
      - 你
-     - :rt:`王总，晓亮
-       @王总，以下是跟晓亮沟通的结果：
-       如果我没有记错，Oracle不允许在一个实例里有多个数据库，所以连接时不需要指定数据库。如果服务器已经迁移到gbase 8t了，连接必须要指定数据库名。
-       是的，Oracle的没有库的概念，一般Oracle的用户名就可以看成8t的库名。现场Oracle迁移8t的时候也是按照Oracle的用户名与8t的库名对应的。例如：原Oracle有EMS用户，对应到8t就是创建的EMS库。
-       当然同一个数据库也可以通过不同的实例名来实现，但这和Oracle的应用场景不同，所以这个需求的确需要仔细了解。
-       现场8t使用时，只有一个实例。
-       @晓亮
-       总结一下『GCILogon()函数增加参数』的需求：
-       为了完成与应用的适配，须在GCILogon(username，passwd，dbname)函数中增加实例名的信息。并且应用要求：不能增加参数个数，不能改变参数顺序，否则会带来修改应用的问题。
-       建议：由于迁移过程中Oracle的username映射成8t的dbname，因此，从实施的角度讲，可将GCILogon(username，passwd，dbname)中的username替换成dbname，将dbname替换成instancename。
-       烦请@晓亮对上述需求描述进行确认！多谢！`
+     - :rt:`王总，晓亮`
+       :rt:`@王总，以下是跟晓亮沟通的结果：`
+       :rt:`如果我没有记错，Oracle不允许在一个实例里有多个数据库，所以连接时不需要指定数据库。如果服务器已经迁移到gbase 8t了，连接必须要指定数据库名。`
+       :rt:`是的，Oracle的没有库的概念，一般Oracle的用户名就可以看成8t的库名。现场Oracle迁移8t的时候也是按照Oracle的用户名与8t的库名对应的。例如：原Oracle有EMS用户，对应到8t就是创建的EMS库。`
+       :rt:`当然同一个数据库也可以通过不同的实例名来实现，但这和Oracle的应用场景不同，所以这个需求的确需要仔细了解。`
+       :rt:`现场8t使用时，只有一个实例。`
+       :rt:`@晓亮`
+       :rt:`总结一下『GCILogon()函数增加参数』的需求：`
+       :rt:`为了完成与应用的适配，须在GCILogon(username，passwd，dbname)函数中增加实例名的信息。并且应用要求：不能增加参数个数，不能改变参数顺序，否则会带来修改应用的问题。`
+       :rt:`建议：由于迁移过程中Oracle的username映射成8t的dbname，因此，从实施的角度讲，可将GCILogon(username，passwd，dbname)中的username替换成dbname，将dbname替换成instancename。`
+       :rt:`烦请@晓亮对上述需求描述进行确认！多谢！`
    * - 2017-03-16 15:31:32
      - 你
      - :rt:`说说`

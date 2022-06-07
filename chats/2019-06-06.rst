@@ -349,33 +349,33 @@
      - :st:`要是不方便我就自己写一个`
    * - 2019-06-06 15:04:16
      - 你
-     - :rt:`SELECT
-           -- login,
-           NAME,
-           CASE
-               WHEN SUM(hours) IS NULL THEN 0
-               ELSE SUM(hours)
-           END total_hour
-       FROM
-           (SELECT DISTINCT
-              b.login login,
-              CONCAT(b.firstname,b.lastname) NAME,
-                   a.id id2,
-                   a.project_id project_id1,
-                   a.user_id user_id1,
-                   a.issue_id,
-                   a.hours hours,
-                   a.comments
-           FROM
-               users b
-           LEFT JOIN time_entries a ON a.user_id = b.id
-               AND a.spent_on BETWEEN DATE_ADD(NOW(), INTERVAL - 8 DAY) AND NOW()
-           LEFT JOIN members c ON c.user_id = b.id
-           LEFT JOIN member_roles d ON c.id = d.member_id
-           WHERE
-               d.role_id = 9) aa
-       GROUP BY login
-       ORDER BY total_hour DESC`
+     - :rt:`SELECT`
+       :rt:`-- login,`
+       :rt:`NAME,`
+       :rt:`CASE`
+       :rt:`WHEN SUM(hours) IS NULL THEN 0`
+       :rt:`ELSE SUM(hours)`
+       :rt:`END total_hour`
+       :rt:`FROM`
+       :rt:`(SELECT DISTINCT`
+       :rt:`b.login login,`
+       :rt:`CONCAT(b.firstname,b.lastname) NAME,`
+       :rt:`a.id id2,`
+       :rt:`a.project_id project_id1,`
+       :rt:`a.user_id user_id1,`
+       :rt:`a.issue_id,`
+       :rt:`a.hours hours,`
+       :rt:`a.comments`
+       :rt:`FROM`
+       :rt:`users b`
+       :rt:`LEFT JOIN time_entries a ON a.user_id = b.id`
+       :rt:`AND a.spent_on BETWEEN DATE_ADD(NOW(), INTERVAL - 8 DAY) AND NOW()`
+       :rt:`LEFT JOIN members c ON c.user_id = b.id`
+       :rt:`LEFT JOIN member_roles d ON c.id = d.member_id`
+       :rt:`WHERE`
+       :rt:`d.role_id = 9) aa`
+       :rt:`GROUP BY login`
+       :rt:`ORDER BY total_hour DESC`
    * - 2019-06-06 15:07:30
      - 我
      - .. image:: /images/327688.jpg

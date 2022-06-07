@@ -435,8 +435,8 @@
      - :st:`[捂脸]`
    * - 2020-06-01 13:39:53
      - 我
-     - :st:`https://card.weibo.com/article/m/show/id/2309404510981786042616
-       paxos 的一篇文章`
+     - :st:`https://card.weibo.com/article/m/show/id/2309404510981786042616`
+       :st:`paxos 的一篇文章`
    * - 2020-06-01 16:17:51
      - 我
      - [链接] `陈文亭和王雪松的聊天记录 <https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/favorite_record__w_unsupport>`_

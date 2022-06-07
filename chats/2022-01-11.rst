@@ -18,9 +18,9 @@
      - :st:`👌`
    * - 2022-01-11 13:21:30
      - 你
-     - :rt:`数据申请、政务数据、资源集市，3条SQL
-        第一条改成 in 后提升了，可以不考虑
-        第二条和第三条不行`
+     - :rt:`数据申请、政务数据、资源集市，3条SQL`
+       :rt:`第一条改成 in 后提升了，可以不考虑`
+       :rt:`第二条和第三条不行`
    * - 2022-01-11 13:23:46
      - 你
      - :rt:`四川移动的事 你看见了吧`
@@ -53,14 +53,14 @@
      - :rt:`是`
    * - 2022-01-11 14:29:09
      - 你
-     - :rt:`user_tables
-       user_tab_columns
-       user_constraints
-       user_objects
-       user_ind_columns
-       v$database
-       v$datafile
-       dba_users`
+     - :rt:`user_tables`
+       :rt:`user_tab_columns`
+       :rt:`user_constraints`
+       :rt:`user_objects`
+       :rt:`user_ind_columns`
+       :rt:`v$database`
+       :rt:`v$datafile`
+       :rt:`dba_users`
    * - 2022-01-11 15:33:26
      - 你
      - :rt:`user开头的系统表要优先实现`

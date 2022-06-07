@@ -402,9 +402,9 @@
      - :rt:`好像不是`
    * - 2018-02-07 14:09:50
      - 我
-     - :st:`DECLARE
-       c VARCHAR2(3 CHAR);
-       这个 c 就是 VARCHAR2类型`
+     - :st:`DECLARE`
+       :st:`c VARCHAR2(3 CHAR);`
+       :st:`这个 c 就是 VARCHAR2类型`
    * - 2018-02-07 14:10:17
      - 你
      - :rt:`你看下pl手册`
@@ -419,9 +419,9 @@
      - :st:`我正在看`
    * - 2018-02-07 14:11:37
      - 我
-     - :st:`DECLARE
-         b BOOLEAN := TRUE;
-       boolean 类型是数据库没有的，这里声明了一个布尔类型的 b，值是 TRUE`
+     - :st:`DECLARE`
+       :st:`b BOOLEAN := TRUE;`
+       :st:`boolean 类型是数据库没有的，这里声明了一个布尔类型的 b，值是 TRUE`
    * - 2018-02-07 14:11:46
      - 我
      - :st:`第3-9页`
@@ -439,17 +439,17 @@
      - :st:`8t 的说的很不清楚，感觉好像没有和数据库的类型刻意区分`
    * - 2018-02-07 14:35:25
      - 我
-     - :st:`赋值语句：都有
-       条件语句：都有，Oracle和8t 有 CASE
-       循环语句：达梦：loop、while、repeat；
-       Oracle：loop、while loop、for loop；
-       8t：loop、while、repeat、for、foreach
-       EXIT 语句：都有
-       调用语句：都有
-       RETURN 语句：都有
-       NULL 语句：8t 没有？
-       GOTO 语句：都有
-       raise 语句：都有`
+     - :st:`赋值语句：都有`
+       :st:`条件语句：都有，Oracle和8t 有 CASE`
+       :st:`循环语句：达梦：loop、while、repeat；`
+       :st:`Oracle：loop、while loop、for loop；`
+       :st:`8t：loop、while、repeat、for、foreach`
+       :st:`EXIT 语句：都有`
+       :st:`调用语句：都有`
+       :st:`RETURN 语句：都有`
+       :st:`NULL 语句：8t 没有？`
+       :st:`GOTO 语句：都有`
+       :st:`raise 语句：都有`
    * - 2018-02-07 14:35:33
      - 我
      - :st:`这是语句部分我稍微总结了一下`

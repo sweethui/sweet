@@ -835,10 +835,10 @@
      - :rt:`Oracle的plsql手册 真是好东西`
    * - 2018-07-04 13:47:56
      - 我
-     - :st:`BEGIN
-          hello_world;
-       END;
-       这是最简单的 PL/SQL`
+     - :st:`BEGIN`
+       :st:`hello_world;`
+       :st:`END;`
+       :st:`这是最简单的 PL/SQL`
    * - 2018-07-04 13:48:01
      - 我
      - :st:`必须有 begin`
@@ -850,11 +850,11 @@
      - :rt:`这是最基本的`
    * - 2018-07-04 13:48:45
      - 你
-     - :rt:`再多一点点就是
-       declare a varchar2
-       BEGIN
-         a:= hello_world;
-       END;`
+     - :rt:`再多一点点就是`
+       :rt:`declare a varchar2`
+       :rt:`BEGIN`
+       :rt:`a:= hello_world;`
+       :rt:`END;`
    * - 2018-07-04 13:48:56
      - 我
      - :st:`哈哈，没错`
@@ -987,8 +987,8 @@
      - :st:`是`
    * - 2018-07-04 14:11:41
      - 我
-     - :st:`DECLARE C$Cursor Cursor STATIC
-       这个是静态游标`
+     - :st:`DECLARE C$Cursor Cursor STATIC`
+       :st:`这个是静态游标`
    * - 2018-07-04 14:12:06
      - 你
      - :rt:`这个就是我说的显示游标`

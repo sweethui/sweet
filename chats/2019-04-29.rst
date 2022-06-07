@@ -615,42 +615,42 @@
      - :st:`好`
    * - 2019-04-29 14:07:38
      - 你
-     - :rt:`工时统计
-       SELECT 
-           -- login,
-           NAME,
-           CASE
-               WHEN SUM(hours) IS NULL THEN 0
-               ELSE SUM(hours)
-           END total_hour
-       FROM
-           (SELECT DISTINCT
-              b.login login,
-              CONCAT(b.firstname,b.lastname) NAME,
-                   a.id id2,
-                   a.project_id project_id1,
-                   a.user_id user_id1,
-                   a.issue_id,
-                   a.hours hours,
-                   a.comments
-           FROM
-               users b
-           LEFT JOIN time_entries a ON a.user_id = b.id
-               AND a.spent_on BETWEEN DATE_ADD(NOW(), INTERVAL - 8 DAY) AND NOW()
-           LEFT JOIN members c ON c.user_id = b.id
-           LEFT JOIN member_roles d ON c.id = d.member_id
-           WHERE
-               d.role_id = 9) aa
-       GROUP BY login
-       ORDER BY total_hour DESC
-       项目人员列表
-       SELECT id1,subjects,CONCAT(firstname,lastname) pm_name ,logins pm_mems FROM (
-       SELECT a.id id1 ,a.subject subjects,a.`author_id` auid ,c.`login` lgin,GROUP_CONCAT(CONCAT(firstname,lastname)) logins 
-       FROM issues a 
-       LEFT JOIN watchers b ON a.`id`=b.`watchable_id` 
-       LEFT JOIN users c ON c.id=b.`user_id`
-       WHERE a.tracker_id=12 GROUP BY a.subject ORDER BY logins) aa 
-       LEFT JOIN users d ON aa.auid =d.`id` ORDER BY logins`
+     - :rt:`工时统计`
+       :rt:`SELECT`
+       :rt:`-- login,`
+       :rt:`NAME,`
+       :rt:`CASE`
+       :rt:`WHEN SUM(hours) IS NULL THEN 0`
+       :rt:`ELSE SUM(hours)`
+       :rt:`END total_hour`
+       :rt:`FROM`
+       :rt:`(SELECT DISTINCT`
+       :rt:`b.login login,`
+       :rt:`CONCAT(b.firstname,b.lastname) NAME,`
+       :rt:`a.id id2,`
+       :rt:`a.project_id project_id1,`
+       :rt:`a.user_id user_id1,`
+       :rt:`a.issue_id,`
+       :rt:`a.hours hours,`
+       :rt:`a.comments`
+       :rt:`FROM`
+       :rt:`users b`
+       :rt:`LEFT JOIN time_entries a ON a.user_id = b.id`
+       :rt:`AND a.spent_on BETWEEN DATE_ADD(NOW(), INTERVAL - 8 DAY) AND NOW()`
+       :rt:`LEFT JOIN members c ON c.user_id = b.id`
+       :rt:`LEFT JOIN member_roles d ON c.id = d.member_id`
+       :rt:`WHERE`
+       :rt:`d.role_id = 9) aa`
+       :rt:`GROUP BY login`
+       :rt:`ORDER BY total_hour DESC`
+       :rt:`项目人员列表`
+       :rt:`SELECT id1,subjects,CONCAT(firstname,lastname) pm_name ,logins pm_mems FROM (`
+       :rt:`SELECT a.id id1 ,a.subject subjects,a.`author_id` auid ,c.`login` lgin,GROUP_CONCAT(CONCAT(firstname,lastname)) logins`
+       :rt:`FROM issues a`
+       :rt:`LEFT JOIN watchers b ON a.`id`=b.`watchable_id``
+       :rt:`LEFT JOIN users c ON c.id=b.`user_id``
+       :rt:`WHERE a.tracker_id=12 GROUP BY a.subject ORDER BY logins) aa`
+       :rt:`LEFT JOIN users d ON aa.auid =d.`id` ORDER BY logins`
    * - 2019-04-29 15:05:37
      - 你
      - :rt:`我看康晓丽还挺不想干的`

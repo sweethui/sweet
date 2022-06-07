@@ -6,10 +6,10 @@
 
    * - 2019-11-20 14:45:55
      - 你
-     - :rt:`李辉  虚谷数据库   客户端在172.16.3.8上安装有一个 用户名密码  root   generaldata
-       路径  /home/XuGuConsoleForLinux    
-       连接命令：系统库   ./xgconsole nssl 172.16.3.4 5138 SYSTEM SYSDBA SYSDBA
-       benchmark库   xgconsole nssl 172.16.3.4 5138 tpcc benchmarksql password`
+     - :rt:`李辉  虚谷数据库   客户端在172.16.3.8上安装有一个 用户名密码  root   generaldata`
+       :rt:`路径  /home/XuGuConsoleForLinux`
+       :rt:`连接命令：系统库   ./xgconsole nssl 172.16.3.4 5138 SYSTEM SYSDBA SYSDBA`
+       :rt:`benchmark库   xgconsole nssl 172.16.3.4 5138 tpcc benchmarksql password`
    * - 2019-11-20 14:45:59
      - 你
      - :rt:`虚谷数据库`

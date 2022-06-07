@@ -18,8 +18,8 @@
      - :st:`错了，是多会话单连接`
    * - 2017-03-31 09:57:30
      - 我
-     - :st:`multiple user sessions on a database connection
-       一个数据库连接`
+     - :st:`multiple user sessions on a database connection`
+       :st:`一个数据库连接`
    * - 2017-03-31 09:57:31
      - 你
      - :rt:`multi sessions or connections`

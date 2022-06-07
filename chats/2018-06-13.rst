@@ -12,10 +12,10 @@
      - :rt:`还有人不`
    * - 2018-06-13 08:58:06
      - 你
-     - :rt:`db_commit出现coredump；
-       经分析系执行如下sql时报错：
-       insert into  model_op (occur_time,node_id,user_id,app_no,table_name_chn,column_id,status,content,proc_name,customized_group,confirm_status) values (TO_DATE('2018-06-06 19:22:03', 'yyyy-mm-dd hh24:mi:ss'),33,7,100000,434,3,1,'2018年06月06日  19:22:03     d5000用户在xa1jk3上通过dbi修改 SCADA应用 保护信号表  西安.蓝田变 10kV136城五线DI5手车试验位置记录 中文名称域:\"10kV136城五线DⅠ5手车试验位置\" -> \"10kV136城五线DI5手车试验\316','dbi',-1, 4)  ;
-       "\316" 会引起gci无法插入，该sql通过dbaccess可以插入成功`
+     - :rt:`db_commit出现coredump；`
+       :rt:`经分析系执行如下sql时报错：`
+       :rt:`insert into  model_op (occur_time,node_id,user_id,app_no,table_name_chn,column_id,status,content,proc_name,customized_group,confirm_status) values (TO_DATE('2018-06-06 19:22:03', 'yyyy-mm-dd hh24:mi:ss'),33,7,100000,434,3,1,'2018年06月06日  19:22:03     d5000用户在xa1jk3上通过dbi修改 SCADA应用 保护信号表  西安.蓝田变 10kV136城五线DI5手车试验位置记录 中文名称域:\"10kV136城五线DⅠ5手车试验位置\" -> \"10kV136城五线DI5手车试验\316','dbi',-1, 4)  ;`
+       :rt:`"\316" 会引起gci无法插入，该sql通过dbaccess可以插入成功`
    * - 2018-06-13 08:58:36
      - 我
      - :st:`可以让李巨文试试`

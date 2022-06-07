@@ -108,8 +108,8 @@
      - :rt:`好`
    * - 2016-12-26 09:15:58
      - 我
-     - :st:`实施新的软件开发模型Scrum实践，进行同步工具产品的研发，总结Scrum 实践的8项必要输出和4个方面的质量数据。
-               4个方面的质量数据包括：产品功能、产品工作量&人力、产品任务管理、迭代周期管理；8 项必要输出包括：Product Backlog、User Story列表、Sprint Task 列表、Release Planning Meeting的记录、Sprint Planning Meeting的记录、Sprint Review Meeting的记录、日例会及燃尽图、Sprint回顾会议的记录。完成2个产品版本的发布， 历时 周期11周， 7个Sprint （迭代） ， 共交付39 个User Story（产品功能）， 完成94 个Sprint Task（工作任务）跟踪和管理`
+     - :st:`实施新的软件开发模型Scrum实践，进行同步工具产品的研发，总结Scrum 实践的8项必要输出和4个方面的质量数据。`
+       :st:`4个方面的质量数据包括：产品功能、产品工作量&人力、产品任务管理、迭代周期管理；8 项必要输出包括：Product Backlog、User Story列表、Sprint Task 列表、Release Planning Meeting的记录、Sprint Planning Meeting的记录、Sprint Review Meeting的记录、日例会及燃尽图、Sprint回顾会议的记录。完成2个产品版本的发布， 历时 周期11周， 7个Sprint （迭代） ， 共交付39 个User Story（产品功能）， 完成94 个Sprint Task（工作任务）跟踪和管理`
    * - 2016-12-26 09:17:32
      - 我
      - :st:`全成他们的工作了`

@@ -53,8 +53,8 @@
      - :st:`我说一下我的想法把`
    * - 2018-04-03 09:45:51
      - 你
-     - :rt:`create table t1("A" int,a int);
-       info columns for t1`
+     - :rt:`create table t1("A" int,a int);`
+       :rt:`info columns for t1`
    * - 2018-04-03 09:45:55
      - 你
      - :rt:`这么测试的`
@@ -78,10 +78,10 @@
      - :rt:`你给我写个例子`
    * - 2018-04-03 10:02:01
      - 我
-     - :st:`create table t1("A" int,a int);
-       info columns for t1
-       create table t1(A int,a int);
-       info columns for t1`
+     - :st:`create table t1("A" int,a int);`
+       :st:`info columns for t1`
+       :st:`create table t1(A int,a int);`
+       :st:`info columns for t1`
    * - 2018-04-03 10:02:14
      - 你
      - :rt:`我怀疑caseshift可能设置的没生效  还有就是case覆盖的不全`
@@ -108,8 +108,8 @@
      - :rt:`测这个场景`
    * - 2018-04-03 10:03:49
      - 你
-     - :rt:`create table t1("A" int,"Aa" int);
-       info columns for t1`
+     - :rt:`create table t1("A" int,"Aa" int);`
+       :rt:`info columns for t1`
    * - 2018-04-03 10:05:24
      - 你
      - :rt:`➢	由于该版本不区分大小写，因此出现靠仅大小写区分的表名或字段名，不能共存。`
@@ -190,8 +190,8 @@
      - decode函数行为调研报告_lh_20170403.docx
    * - 2018-04-03 11:23:47
      - 我
-     - :st:`支持数值型、日期型转换为字符型；varchar-----123
-       这是什么意思？转换是从左到右还是从右到左？`
+     - :st:`支持数值型、日期型转换为字符型；varchar-----123`
+       :st:`这是什么意思？转换是从左到右还是从右到左？`
    * - 2018-04-03 11:24:32
      - 你
      - :rt:`右到左`
@@ -248,10 +248,10 @@
      - :st:`留着吧`
    * - 2018-04-03 11:29:19
      - 你
-     - :rt:`➢	支持数值型、日期型转换为字符型；varchar ← 123, varchar ← date
-       ➢	支持纯数值字符串转换为数值型；int ← ‘123’
-       ➢	支持日期型字符串转换为日期型；date ← ‘2017-01-01’
-       ➢	不支持数值型转换为日期型；date ← 20170101`
+     - :rt:`➢	支持数值型、日期型转换为字符型；varchar ← 123, varchar ← date`
+       :rt:`➢	支持纯数值字符串转换为数值型；int ← ‘123’`
+       :rt:`➢	支持日期型字符串转换为日期型；date ← ‘2017-01-01’`
+       :rt:`➢	不支持数值型转换为日期型；date ← 20170101`
    * - 2018-04-03 11:29:26
      - 你
      - :rt:`这么看是不是好看点`

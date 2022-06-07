@@ -150,15 +150,15 @@
      - :st:`东江`
    * - 2021-10-13 12:55:20
      - 你
-     - :rt:`WITH newTab AS
-       (
-           SELECT *,OUName as DisplayName
-        FROM tblAccountsOU WHERE ID='F155FD1C-8568-401B-BC23-BC03493D51AA'
-           UNION ALL
-           SELECT a.*,cast(a.OUName + '--' + newTab.DisplayName as varchar(100)) as DisplayName 
-        FROM tblAccountsOU a
-           INNER JOIN newTab ON (a.ID=newTab.ParentID)
-       )select * from newtab;`
+     - :rt:`WITH newTab AS`
+       :rt:`(`
+       :rt:`SELECT *,OUName as DisplayName`
+       :rt:`FROM tblAccountsOU WHERE ID='F155FD1C-8568-401B-BC23-BC03493D51AA'`
+       :rt:`UNION ALL`
+       :rt:`SELECT a.*,cast(a.OUName + '--' + newTab.DisplayName as varchar(100)) as DisplayName`
+       :rt:`FROM tblAccountsOU a`
+       :rt:`INNER JOIN newTab ON (a.ID=newTab.ParentID)`
+       :rt:`)select * from newtab;`
    * - 2021-10-13 12:55:33
      - 你
      - :rt:`在3.3.0上改写这个`
@@ -206,10 +206,10 @@
      - :st:`怎么解决的`
    * - 2021-10-13 13:41:31
      - 你
-     - :rt:`SELECT *,substr((SYS_CONNECT_BY_PATH(OUName,'-')),2) as displayname
-       FROM tblAccountsOU 
-       start with id='F155FD1C-8568-401B-BC23-BC03493D51AA'
-       connect by ID=prior ParentID;`
+     - :rt:`SELECT *,substr((SYS_CONNECT_BY_PATH(OUName,'-')),2) as displayname`
+       :rt:`FROM tblAccountsOU`
+       :rt:`start with id='F155FD1C-8568-401B-BC23-BC03493D51AA'`
+       :rt:`connect by ID=prior ParentID;`
    * - 2021-10-13 13:42:38
      - 我
      - :st:`👌`

@@ -339,14 +339,14 @@
      - :rt:`好的，马上`
    * - 2017-10-24 10:37:33
      - 你
-     - :rt:`为表、视图等数据库对象添加、删除、更改注释；
-       例如：
-       为test库下t1表添加注释：comment on table test:t1 is ‘comments_on_tab_information’;
-       为test库下t1表c1列添加注释：comment on column test:t1.c1 is ‘comments_on_col_information’; 
-       查看表的注释：select * from syscomments where tablename=' table_name '; 
-       查看列的注释：select * from syscolcomments where table_name='table_name'; 
-       为用户赋予添加注释权限：Grant comment any table to user_name; 
-       收回添加注释权限：revoke comment any table from user_name;`
+     - :rt:`为表、视图等数据库对象添加、删除、更改注释；`
+       :rt:`例如：`
+       :rt:`为test库下t1表添加注释：comment on table test:t1 is ‘comments_on_tab_information’;`
+       :rt:`为test库下t1表c1列添加注释：comment on column test:t1.c1 is ‘comments_on_col_information’;`
+       :rt:`查看表的注释：select * from syscomments where tablename=' table_name ';`
+       :rt:`查看列的注释：select * from syscolcomments where table_name='table_name';`
+       :rt:`为用户赋予添加注释权限：Grant comment any table to user_name;`
+       :rt:`收回添加注释权限：revoke comment any table from user_name;`
    * - 2017-10-24 10:43:10
      - 我
      - :st:`有关问题，这个版本的用户手册是不是没给他们`
@@ -487,11 +487,11 @@
      - :st:`是`
    * - 2017-10-24 14:07:32
      - 我
-     - :st:`DB2 -- select * from table fetch first 10 rows only
-       Informix -- select first 10 * from table 
-       Microsoft SQL Server and Access -- select top 10 * from table 
-       MySQL and PostgreSQL -- select * from table limit 10 
-       Oracle -- select * from (select * from table) where rownum <= 10`
+     - :st:`DB2 -- select * from table fetch first 10 rows only`
+       :st:`Informix -- select first 10 * from table`
+       :st:`Microsoft SQL Server and Access -- select top 10 * from table`
+       :st:`MySQL and PostgreSQL -- select * from table limit 10`
+       :st:`Oracle -- select * from (select * from table) where rownum <= 10`
    * - 2017-10-24 14:07:53
      - 你
      - :rt:`所以是不是标准这个得查`
@@ -563,9 +563,9 @@
      - :st:`主要还是 Hibernate 的事情`
    * - 2017-10-24 14:20:46
      - 你
-     - :rt:`王总，我和旭岭联系了，根据目前拿到的信息（信息太少，对接的服务人员离职了）初步判定是用户使用了hibernate，但是informix的方言包太老，导致联调的时候一些操作失败。
-       销售说这次沟通可以比较深入，能看客户的代码，我想到时候让王旭跟我一起去，他比较熟悉hibernate 您看行吗？
-       时间定在下周，具体周几销售的安排，我们等通知即可。`
+     - :rt:`王总，我和旭岭联系了，根据目前拿到的信息（信息太少，对接的服务人员离职了）初步判定是用户使用了hibernate，但是informix的方言包太老，导致联调的时候一些操作失败。`
+       :rt:`销售说这次沟通可以比较深入，能看客户的代码，我想到时候让王旭跟我一起去，他比较熟悉hibernate 您看行吗？`
+       :rt:`时间定在下周，具体周几销售的安排，我们等通知即可。`
    * - 2017-10-24 14:20:52
      - 你
      - :rt:`还有就是有可能根本没hibernate的事，现在的信息实在是太少，我会尽快确认，也好安排是否需要王旭一起。`

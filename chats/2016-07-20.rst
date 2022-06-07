@@ -1848,14 +1848,14 @@
      - :st:`嗯`
    * - 2016-07-20 17:11:05
      - 你
-     - :rt:`『确认先满足这2个.
-       gbased -V
-       gclusterd -V』`
+     - :rt:`『确认先满足这2个.`
+       :rt:`gbased -V`
+       :rt:`gclusterd -V』`
    * - 2016-07-20 17:11:05
      - 你
-     - :rt:`『确认先满足这2个.
-       gbased -V
-       gclusterd -V』`
+     - :rt:`『确认先满足这2个.`
+       :rt:`gbased -V`
+       :rt:`gclusterd -V』`
    * - 2016-07-20 17:11:11
      - 你
      - :rt:`老田白嘟囔了`

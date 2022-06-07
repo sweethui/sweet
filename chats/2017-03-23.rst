@@ -254,9 +254,9 @@
      - :st:`？`
    * - 2017-03-23 17:05:12
      - 你
-     - :rt:`我现在测试没发现
-       dba_tab_comments
-         all_tab_comments这两个表的区别`
+     - :rt:`我现在测试没发现`
+       :rt:`dba_tab_comments`
+       :rt:`all_tab_comments这两个表的区别`
    * - 2017-03-23 17:09:51
      - 我
      - :st:`你用一个普通用户试试`
@@ -268,15 +268,15 @@
      - :st:`dba 应该对应 dba 用户，all 应该对应所有用户，包括普通用户`
    * - 2017-03-23 17:10:16
      - 你
-     - :rt:`user_tab_comments;表注释
-               user_col_comments;表字段注释
-               以上两个只能获取自己用户的表的注释信息，如果要访问自己能够访问的其他用户的表，则需要使用：
-               all_tab_comments;表注释
-               all_col_comments;表字段注释
-               当然，如果有DBA权限，则可以使用
-               dba_tab_comments;表注释
-               dba_col_comments;表字段注释
-               dba*和all*最好指定owner条件。user*没有该字段`
+     - :rt:`user_tab_comments;表注释`
+       :rt:`user_col_comments;表字段注释`
+       :rt:`以上两个只能获取自己用户的表的注释信息，如果要访问自己能够访问的其他用户的表，则需要使用：`
+       :rt:`all_tab_comments;表注释`
+       :rt:`all_col_comments;表字段注释`
+       :rt:`当然，如果有DBA权限，则可以使用`
+       :rt:`dba_tab_comments;表注释`
+       :rt:`dba_col_comments;表字段注释`
+       :rt:`dba*和all*最好指定owner条件。user*没有该字段`
    * - 2017-03-23 17:10:42
      - 你
      - :rt:`可是如果这两个表的信息一样的话 这样做有什么意义呢`

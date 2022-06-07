@@ -6,16 +6,16 @@
 
    * - 2021-11-25 09:48:25
      - 你
-     - :rt:`--记录类型
-       CREATE TYPE record_type AS RECORD (
-       	record_c1 test1.c1%TYPE,
-       	record_c2 test1.c2%TYPE
-       );`
+     - :rt:`--记录类型`
+       :rt:`CREATE TYPE record_type AS RECORD (`
+       :rt:`record_c1 test1.c1%TYPE,`
+       :rt:`record_c2 test1.c2%TYPE`
+       :rt:`);`
    * - 2021-11-25 09:50:20
      - 你
-     - :rt:`CREATE TYPE record_type2 AS RECORD (
-       	record_c1 test1_object
-       );`
+     - :rt:`CREATE TYPE record_type2 AS RECORD (`
+       :rt:`record_c1 test1_object`
+       :rt:`);`
    * - 2021-11-25 09:50:25
      - 你
      - :rt:`可以以 object作为record的其中一个字段`
@@ -58,29 +58,29 @@
      - :rt:`说了`
    * - 2021-11-25 11:05:13
      - 我
-     - :st:`create type xxx1 as varying(10) of varchar2(10);
-       这个能创建成功，但是有一个错误`
+     - :st:`create type xxx1 as varying(10) of varchar2(10);`
+       :st:`这个能创建成功，但是有一个错误`
    * - 2021-11-25 11:05:26
      - 我
-     - :st:`Type XXX1 compiled
-       LINE/COL  ERROR
-       --------- -------------------------------------------------------------
-       1/21      PLS-00103: Encountered the symbol "(" when expecting one of the following:     array The symbol "array" was substituted for "(" to continue. 
-       Errors: check compiler log`
+     - :st:`Type XXX1 compiled`
+       :st:`LINE/COL  ERROR`
+       :st:`--------- -------------------------------------------------------------`
+       :st:`1/21      PLS-00103: Encountered the symbol "(" when expecting one of the following:     array The symbol "array" was substituted for "(" to continue.`
+       :st:`Errors: check compiler log`
    * - 2021-11-25 11:05:43
      - 我
-     - :st:`create type xxx2 as varying array(10) of varchar2(10);
-       这个没有问题`
+     - :st:`create type xxx2 as varying array(10) of varchar2(10);`
+       :st:`这个没有问题`
    * - 2021-11-25 11:07:00
      - 我
-     - :st:`create type xxx3 as  array(10) of varchar2(10);
-       这个也没有问题`
+     - :st:`create type xxx3 as  array(10) of varchar2(10);`
+       :st:`这个也没有问题`
    * - 2021-11-25 11:07:03
      - 你
-     - :rt:`我理解：
-       create type xxx2 as varying array(10) of varchar2(10);
-       =
-       create type xxx2 as varray(10) of varchar2(10);`
+     - :rt:`我理解：`
+       :rt:`create type xxx2 as varying array(10) of varchar2(10);`
+       :rt:`=`
+       :rt:`create type xxx2 as varray(10) of varchar2(10);`
    * - 2021-11-25 14:38:10
      - 你
      - :rt:`我们测试了 嵌套表的功能 完全可以用两张表实现。不用建立多个表，2张表就行`

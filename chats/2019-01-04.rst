@@ -362,8 +362,8 @@
           :width: 100px
    * - 2019-01-04 14:59:46
      - 你
-     - :rt:`qoci和qodbc 是 qt提供的数据库插件接口。基于qt的application 部署时，是需要额外安装oracle oci的，这一点在 上面 先编译后连接的帖子中说明了。
-       而qodbc 接口，是必须要安装和配置 数据库driver的，这一点，在qt 的官方文档中已经说明：https://doc.qt.io/qt-5/sql-driver.html#qodbc`
+     - :rt:`qoci和qodbc 是 qt提供的数据库插件接口。基于qt的application 部署时，是需要额外安装oracle oci的，这一点在 上面 先编译后连接的帖子中说明了。`
+       :rt:`而qodbc 接口，是必须要安装和配置 数据库driver的，这一点，在qt 的官方文档中已经说明：https://doc.qt.io/qt-5/sql-driver.html#qodbc`
    * - 2019-01-04 15:00:00
      - 你
      - :rt:`老孔发给我的`
